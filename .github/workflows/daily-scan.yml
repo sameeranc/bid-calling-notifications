@@ -1,0 +1,40 @@
+name: Daily bid scan
+
+on:
+  schedule:
+    # 00:30 UTC = 06:00 Sri Lanka time (UTC+5:30)
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        run: python scraper/main.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "bid-calling-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data.json docs/manual_sources.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

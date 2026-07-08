@@ -1,0 +1,64 @@
+# Keywords used to decide whether a listing is "relevant".
+# A listing matches if ANY keyword below appears (case-insensitive, substring match)
+# in its title, description/snippet, or reference text.
+#
+# Edit freely - no code changes needed. One keyword per line, under any category.
+# Categories are just for your own organization; all of them are searched together.
+
+data_analysis:
+  - data analysis
+  - data analytics
+  - data scientist
+  - data science
+  - statistical analysis
+  - statistician
+  - statistics consultant
+  - database design
+  - data management
+  - big data
+  - data visualization
+  - monitoring and evaluation
+  - "M&E consultant"
+  - survey design
+  - econometric
+
+spatial_geography:
+  - GIS
+  - geospatial
+  - geographic information system
+  - spatial analysis
+  - spatial data
+  - remote sensing
+  - satellite imagery
+  - cartograph
+  - geography
+  - geographic
+  - land use mapping
+  - mapping consultant
+  - geodetic
+  - topograph
+  - land use planning
+  - urban planning
+
+weather_climate:
+  - climate
+  - weather
+  - meteorolog
+  - hydromet
+  - hydrolog
+  - rainfall
+  - flood modeling
+  - flood risk
+  - disaster risk
+  - climate change adaptation
+  - climate resilience
+  - drought
+  - early warning system
+
+# Optional: require at least one of these location words too (leave empty to disable).
+# Useful for global boards (World Bank, ReliefWeb) where you only want Sri Lanka-tagged items
+# that might not otherwise carry a clean country field.
+location_hints:
+  - Sri Lanka
+  - Colombo
+  - Sri Lankan

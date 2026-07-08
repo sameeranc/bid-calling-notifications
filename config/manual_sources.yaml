@@ -1,0 +1,44 @@
+# Sources that CANNOT be reliably auto-scraped (they render results with JavaScript,
+# require login, or have no stable structure) are listed here instead.
+# The dashboard shows these as one-click "quick check" links so you can still
+# scan them yourself in under a minute each morning.
+#
+# name: shown on the dashboard
+# url: opens in a new tab, pre-filtered to Sri Lanka where the site supports it
+# note: why it's manual-only
+
+- name: UNDP Procurement Notices
+  url: https://procurement-notices.undp.org/search.cfm?query=Sri+Lanka
+  note: Results are loaded by JavaScript; not scrapable with a simple request.
+
+- name: UN Global Marketplace (UNGM)
+  url: https://www.ungm.org/Public/Notice
+  note: Requires selecting "Sri Lanka" in the country filter; results load via AJAX.
+
+- name: ADB Business Opportunities
+  url: https://www.adb.org/business/opportunities
+  note: Project/consulting notices are listed but the filter UI is JavaScript-driven.
+
+- name: JICA Procurement (Overseas)
+  url: https://www.jica.go.jp/english/our_work/procurement/index.html
+  note: No country-filterable feed; check periodically for Sri Lanka notices.
+
+- name: Sri Lanka e-GP Portal (promise.lk / etenders.lk)
+  url: https://etenders.lk/
+  note: National e-procurement portal; listings render via JavaScript.
+
+- name: Dept. of Census and Statistics - Sri Lanka
+  url: http://www.statistics.gov.lk/
+  note: No dedicated stable tender-notice URL found; check the site's News/Notices section.
+
+- name: Disaster Management Centre - Sri Lanka
+  url: https://www.dmc.gov.lk/
+  note: Procurement notices, when posted, appear on the homepage news section.
+
+- name: Department of Meteorology - Sri Lanka
+  url: https://www.meteo.gov.lk/index.php?lang=en
+  note: Check the "Public Notices" menu item for consultancy/procurement calls.
+
+- name: Survey Department of Sri Lanka
+  url: https://www.survey.gov.lk/
+  note: Check for tender/procurement notices; no stable feed found.
