@@ -35,12 +35,12 @@ no login for you to check it.
    git add .
    git commit -m "Initial setup"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo>.git
+   git remote add origin https://github.com/sameeranc/bid-calling-notifications.git
    git push -u origin main
    ```
 3. **Enable GitHub Pages:**
    Repo → Settings → Pages → Source: "Deploy from a branch" → Branch: `main`, folder: `/docs` → Save.
-   Your dashboard will be live at `https://<your-username>.github.io/<your-repo>/` within a minute or two.
+   Your dashboard will be live at `https://sameeranc.github.io/bid-calling-notifications/` within a minute or two.
 4. **Allow the workflow to commit results back to the repo:**
    Repo → Settings → Actions → General → Workflow permissions → select
    "Read and write permissions" → Save.
