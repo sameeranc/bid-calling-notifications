@@ -65,6 +65,7 @@ def fetch_worldbank(country_code: str = "LK", rows: int = 100) -> list[dict]:
         notice_id = n.get("id") or _make_id(title, n.get("project_id", ""))
         snippet_parts = [
             n.get("project_name", ""),
+            n.get("project_ctry_name", ""),
             n.get("notice_type", ""),
             n.get("procurement_method_name", ""),
             re.sub("<[^<]+?>", " ", n.get("notice_text", "") or "")[:600],
@@ -89,19 +90,22 @@ def fetch_worldbank(country_code: str = "LK", rows: int = 100) -> list[dict]:
 # ReliefWeb Jobs API (JSON, no auth). Covers many UN / NGO / bilateral
 # consultancy postings, including Sri Lanka-based and Sri Lanka-focused work.
 # Docs: https://apidoc.reliefweb.int/
+#
+# Uses a structured "country" filter (not a free-text title search) so it
+# returns every job ReliefWeb has tagged Sri Lanka - our own keyword.yaml
+# matching (done later in main.py) narrows that down by topic.
 # --------------------------------------------------------------------------
-def fetch_reliefweb(query: str = "Sri Lanka", limit: int = 50) -> list[dict]:
+def fetch_reliefweb(country: str = "Sri Lanka", limit: int = 100) -> list[dict]:
     url = "https://api.reliefweb.int/v1/jobs"
-    params = {
+    payload = {
         "appname": "bid-calling-notifications",
-        "query[value]": query,
-        "query[fields][]": "title",
+        "filter": {"field": "country", "value": country},
+        "sort": ["date.created:desc"],
         "limit": limit,
-        "sort[]": "date.created:desc",
-        "fields[include][]": ["title", "date", "url_alias", "body-html", "source"],
+        "fields": {"include": ["title", "date", "url_alias", "body-html", "source"]},
     }
     try:
-        r = requests.get(url, params=params, headers=HEADERS, timeout=TIMEOUT)
+        r = requests.post(url, json=payload, headers=HEADERS, timeout=TIMEOUT)
         r.raise_for_status()
         data = r.json()
     except Exception as exc:  # noqa: BLE001
