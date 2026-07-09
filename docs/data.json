@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T02:41:42.648759+00:00",
+  "generated_at": "2026-07-09T02:52:14.989233+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 0,
-  "total_count": 0,
+  "new_today_count": 7,
+  "total_count": 7,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 0
+      "matched": 7
     },
     "reliefweb": {
       "ok": true,
@@ -25,5 +25,106 @@
       "matched": 0
     }
   },
-  "items": []
+  "items": [
+    {
+      "id": "a1691084c77764fb",
+      "title": "Recrutement d’un Consultant International pour la revue à mi-parcours du Projet d’élargissement des opportunités d’apprentissages (PRODA)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455222",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "Expanding Opportunities for Learning | Djibouti | Request for Expression of Interest | Individual Consultant Selection |      &nbsp;  &nbsp; &nbsp;  MINIST&Egrave;RE DE L&rsquo;&Eacute;DUCATION NATIONALE ET DE LA FORMATION PROFESSIONNELLE    PROJET D&rsquo;  &Eacute;LARGISSEMENT DES OPPORTUNIT&Eacute;S D&rsquo;APPRENTISSAGE   (PRODA-FA)    PROJET N&deg;166059    AVIS DE MANIFESTATION D&rsquo;INT&Eacute;R&Ecirc;T DU RECRUTEMENT D&rsquo;UN     CONSULTANT&nbsp;    &nbsp;  Le Gouvernement de Djibouti &agrave; travers le Minist&egrave;re de l&rsquo;&Eacute;ducation Nationale et de la Formation Professionnelle (MENFOP) a re&ccedil;u un don pour financer le projet&nbsp; intitul&eacute; &laquo;&nbsp; Fond Additionnel au",
+      "matched_keywords": [
+        "GIS"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    {
+      "id": "18b9c84b878a424f",
+      "title": "BERESTI connection to electricity public distribution system",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455114",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "Strengthening Disaster Risk Management Project | Romania | Contract Award | Request for Quotations |   Contract Award   Project: P166302-Strengthening Disaster Risk Management Project  Loan/Credit/TF Info: IBRD-95290  Bid/Contract Reference No: RO-GIES-550859-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Racordare la reteaua electrica conform ATR nr. 3050260200826 din 13.03.2026 a noii cladiri pentru Garda de interventie nr. 2 Beresti din cadrul ISUJ Galati, inclusiv servicii conexe   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/03    Duration of Contract   1.5 Month(s)           Awarded Bidder(s):           LUGANA ELECTRIC (1",
+      "matched_keywords": [
+        "disaster risk"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    {
+      "id": "efa73228ec1edc96",
+      "title": "Procurement of 3 Hybrid Vehicle All Wheel Drive Off Road Vehicles",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455187",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "Climate Resilient Water Services Project | Kyrgyz Republic | Invitation for Bids | Request for Bids |   The advertisement is published on the website of the Government Electronic Procurement Portal of the Kyrgyz Republic .&nbsp; No. of the Advertisement 260707573412124    Climate&nbsp;Resilient Water Services Project  &nbsp;  (CRWSP),&nbsp;  Water Resources Service under&nbsp;  the Ministry of Water Resources,&nbsp;  Agriculture and Processing Industry&nbsp;  of the Kyrgyz Republic    RFQ #.:&nbsp;  CREWSP/G/C.1.2/RFB/1  &nbsp;&ldquo;Procurement of 3 Hybrid All Wheel Drive Off Road Vehicles&rdquo;    Date of request for&nbsp;  proposals:  July 7 , 2026    For: All bidders    Dear Suppliers,   ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    {
+      "id": "e0996381f8c32e21",
+      "title": "Procurement of Goods (Lot-1)-Supply of HDPE Pipes and (Lot-2)-Supply of Cast Iron, and HDPE Fittings for Guradhamole Climate Resilient Multi-Village Water Supply Project, by MoWE.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455247",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P167794-One WASHConsolidated Water Supply, Sanitation, and Hygiene Account Project (One WASHCWA)  Loan/Credit/TF Info: IDA-64450  Bid/Contract Reference No: ET-MOWE-539871-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot-2: Procurement of Goods (Lot-1)-Supply of HDPE Pipes and (Lot-2)-Supply of Cast Iron, and HDPE Fittings for Guradhamole Climate Resilient Multi-Village Water Supply Project, by MoWE.   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/29    Duration of Contract   2 Month(s)           Awarded B",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    {
+      "id": "b434b6cd91eeaf3c",
+      "title": "Travaux de réalisation de réseau secondaire et de voiries dans le bassin versant de Mbao (Partie Sud / Marigot)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455238",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "Stormwater Management and Climate Change Adaptation Project 2 | Senegal | Contract Award | Request for Bids |   Contract Award   Project: P175830-Stormwater Management and Climate Change Adaptation Project 2  Loan/Credit/TF Info: IDA-68890  Bid/Contract Reference No: SN-ADM-502621-CW-RFB  Procurement Method: RFB-Appel d'offres  Scope of Contract:  Travaux de ralisation de rseau secondaire aux abords du marigot de Mbao (Partie sud du BV Mbao)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/10    Duration of Contract   6 Month(s)           Awarded Bidder(s):           KELIMANE ENTREPRISE (1061341)  Malika sur mer 2 villa N27 Dakar - Tlphone : 33 87856 46 Email : eccot",
+      "matched_keywords": [
+        "climate",
+        "climate change adaptation"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    {
+      "id": "d74aa2c7807d5a4b",
+      "title": "Construction of Msenjere EPA Office. TA.Kanyenda, Nkhotakota Northeast Constituency, Bua Ward, Aron VDC, Aron Village",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455300",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2) | Malawi | Invitation for Bids | Request for Bids |  Advert for the construction of Msenjere EPA  &nbsp; ",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    {
+      "id": "06a1d5be41dae6b3",
+      "title": "Supply and delivery of four (04) Tipper trucks under Phase II",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455193",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Jul-2026",
+      "snippet": "Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project | Uganda | Contract Award | Request for Bids |   Contract Award   Project: P170466-Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project  Loan/Credit/TF Info: IDA-65920; IDA-D5960  Bid/Contract Reference No: UG-UWA-521975-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Supply of 04 units of Tipper Trucks   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/02/03    Duration of Contract   4 Month(s)           Awarded Bidder(s):           VICTORIA MOTORS LIMITED (578825)  Plot 8/10 Old Port-Bell RoadKAMPALA-UGANDAinfo@motor.g,achgroup.com p/kafeero@gmach.ug Cou",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    }
+  ]
 }
