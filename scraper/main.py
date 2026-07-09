@@ -84,9 +84,11 @@ def main() -> None:
     seen_ids_this_run = set()
 
     for source_key, fetch_fn in ALL_SOURCES.items():
-        # Global boards (World Bank, ReliefWeb) already are filtered/queried
-        # for Sri Lanka; SL government sites need no extra location check.
-        require_location = source_key in ("worldbank",)
+        # Every registered source already scopes its query to Sri Lanka
+        # (World Bank: countrycode_exact=LK, ReliefWeb: country filter,
+        # treasury_lk/cbsl: Sri Lanka-only sites), so no extra location
+        # check is needed here - only the topic keywords apply.
+        require_location = False
         try:
             raw_items = fetch_fn()
             run_status[source_key] = {"ok": True, "fetched": len(raw_items)}
