@@ -105,7 +105,7 @@
 </main>
 
 <footer>
-  Runs automatically every morning via GitHub Actions. Edit <code>config/keywords.yaml</code> in the repo to change what counts as a match.
+  Runs automatically every Tuesday at 1pm (Sri Lanka time) via GitHub Actions. Edit <code>config/keywords.yaml</code> in the repo to change what counts as a match.
   <br>Generated dashboard &mdash; data refreshes on the next scheduled run.
 </footer>
 
@@ -151,11 +151,11 @@ function render() {
   });
 
   if (items.length === 0) {
-    root.innerHTML = '<div class="empty-state">No matching listings yet. Once the daily scan runs, new consultancy calls will show up here.</div>';
+    root.innerHTML = '<div class="empty-state">No matching listings yet. Once the weekly scan runs, new consultancy calls will show up here.</div>';
     return;
   }
 
-  const isNew = it => daysAgo(it.first_seen) < 1.5;
+  const isNew = it => daysAgo(it.first_seen) < 8; // stays flagged "NEW" until roughly the next weekly scan
   const fresh = items.filter(isNew);
   const rest = items.filter(it => !isNew(it));
 
@@ -174,10 +174,10 @@ function esc(s) {
 }
 
 function cardHTML(it) {
-  const newBadge = daysAgo(it.first_seen) < 1.5 ? '<span class="badge-new">NEW</span>' : '';
+  const newBadge = daysAgo(it.first_seen) < 8 ? '<span class="badge-new">NEW</span>' : '';
   const tags = (it.matched_keywords || []).slice(0, 4).map(k => '<span class="tag">' + esc(k) + '</span>').join('');
   return `
-    <div class="card ${daysAgo(it.first_seen) < 1.5 ? 'is-new' : ''}">
+    <div class="card ${daysAgo(it.first_seen) < 8 ? 'is-new' : ''}">
       <div class="card-top">
         <a class="title" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
         ${newBadge}

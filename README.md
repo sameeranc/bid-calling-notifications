@@ -1,6 +1,6 @@
 # Bid Calling Notifications
 
-A free, public dashboard that checks every morning for new consultancy
+A free, public dashboard that checks weekly for new consultancy
 opportunities in **data analysis, GIS/spatial, and weather/climate work**,
 posted by Sri Lankan institutes and foreign/multilateral agencies.
 
@@ -10,7 +10,7 @@ no login for you to check it.
 
 ## How it works
 
-- `scraper/main.py` runs once a day (06:00 Sri Lanka time), pulling listings from:
+- `scraper/main.py` runs once a week (Tuesdays at 13:00/1pm Sri Lanka time), pulling listings from:
   - **World Bank Procurement Notices** (API, filtered to Sri Lanka)
   - **ReliefWeb Jobs** (API, filtered to Sri Lanka)
   - **Sri Lanka Ministry of Finance** procurement notices page
@@ -47,11 +47,11 @@ no login for you to check it.
    (The workflow already requests this via `permissions: contents: write`,
    but some org/repo defaults still require the toggle above.)
 5. **Run it once manually** to check everything works:
-   Repo → Actions tab → "Daily bid scan" → Run workflow.
+   Repo → Actions tab → "Weekly bid scan" → Run workflow.
    Check the run log; then look at `docs/data.json` in the repo (it should
    update) and refresh your Pages URL.
 
-After that, it runs automatically every morning at 06:00 Sri Lanka time -
+After that, it runs automatically every Tuesday at 13:00 (1pm) Sri Lanka time -
 nothing more to do.
 
 ## Customizing
@@ -67,8 +67,8 @@ nothing more to do.
 
 ## Adding email notifications later
 
-The dashboard covers the "check each morning" use case for free with zero
-maintenance. If you'd also like a daily email digest, the cleanest free
+The dashboard covers the "check weekly" use case for free with zero
+maintenance. If you'd also like an email digest on the same schedule, the cleanest free
 option is to add a step to `.github/workflows/daily-scan.yml` that reads
 `docs/data.json`, and either:
 

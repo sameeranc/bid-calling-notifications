@@ -1,9 +1,9 @@
-name: Daily bid scan
+name: Weekly bid scan
 
 on:
   schedule:
-    # 00:30 UTC = 06:00 Sri Lanka time (UTC+5:30)
-    - cron: "30 0 * * *"
+    # 07:30 UTC = 13:00 (1pm) Sri Lanka time, every Tuesday (UTC+5:30)
+    - cron: "30 7 * * 2"
   workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
 
 permissions:
@@ -35,6 +35,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Daily scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Weekly scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
