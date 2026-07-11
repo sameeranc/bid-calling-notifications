@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bid Calling Notifications - daily scan.
+Bid Calling Notifications - scheduled scan.
 
 Fetches consultancy/tender listings from every source in sources.ALL_SOURCES,
 keeps only ones matching config/keywords.yaml, merges them into docs/data.json
@@ -38,6 +38,13 @@ DOCS_DIR = ROOT / "docs"
 DATA_FILE = DOCS_DIR / "data.json"
 KEEP_DAYS = 120  # prune matched items older than this many days since first_seen
 
+# Acronyms up to this length (spaces ignored) that are written ALL CAPS in
+# keywords.yaml are matched case-SENSITIVELY, so e.g. "WHO" only matches the
+# literal acronym WHO - not the common word "who" - and "SIA" doesn't
+# false-match inside "Asia". Longer/mixed-case entries match as ordinary
+# case-insensitive whole-word/phrase matches.
+ACRONYM_MAX_LEN = 6
+
 
 def load_keywords() -> tuple[list[str], list[str]]:
     with open(CONFIG_DIR / "keywords.yaml", encoding="utf-8") as f:
@@ -51,13 +58,38 @@ def load_keywords() -> tuple[list[str], list[str]]:
     return keywords, location_hints
 
 
-def matches(item: dict, keywords: list[str], location_hints: list[str], require_location: bool) -> list[str]:
-    haystack = f"{item.get('title', '')} {item.get('snippet', '')}".lower()
-    hit = [kw for kw in keywords if kw.lower().strip('"') in haystack]
+def build_matchers(keywords: list[str]) -> list[tuple[re.Pattern, str]]:
+    """Compile each keyword into a whole-word/phrase regex.
+
+    Short ALL-CAPS keywords (acronyms) are compiled case-sensitively so they
+    only match the literal acronym. Everything else matches case-insensitively.
+    """
+    matchers = []
+    for kw in keywords:
+        stripped = kw.strip().strip('"')
+        if not stripped:
+            continue
+        compact = stripped.replace(" ", "")
+        is_acronym = compact.isupper() and len(compact) <= ACRONYM_MAX_LEN
+        flags = 0 if is_acronym else re.IGNORECASE
+        pattern = re.compile(r"\b" + re.escape(stripped) + r"\b", flags)
+        matchers.append((pattern, stripped))
+    return matchers
+
+
+def matches(
+    item: dict,
+    matchers: list[tuple[re.Pattern, str]],
+    location_hints: list[str],
+    require_location: bool,
+) -> list[str]:
+    haystack = f"{item.get('title', '')} {item.get('snippet', '')}"
+    hit = [kw for pattern, kw in matchers if pattern.search(haystack)]
     if not hit:
         return []
     if require_location and location_hints:
-        if not any(loc.lower() in haystack for loc in location_hints):
+        haystack_lower = haystack.lower()
+        if not any(loc.lower() in haystack_lower for loc in location_hints):
             return []
     return hit
 
@@ -73,7 +105,9 @@ def load_existing() -> dict:
 
 def main() -> None:
     keywords, location_hints = load_keywords()
-    log.info("Loaded %d keywords", len(keywords))
+    matchers = build_matchers(keywords)
+    log.info("Loaded %d keywords (%d treated as case-sensitive acronyms)",
+              len(matchers), sum(1 for p, k in matchers if p.flags & re.IGNORECASE == 0))
 
     existing = load_existing()
     existing_by_id = {it["id"]: it for it in existing.get("items", [])}
@@ -99,7 +133,7 @@ def main() -> None:
 
         matched_here = 0
         for raw in raw_items:
-            hit_keywords = matches(raw, keywords, location_hints, require_location)
+            hit_keywords = matches(raw, matchers, location_hints, require_location)
             if not hit_keywords:
                 continue
             matched_here += 1

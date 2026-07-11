@@ -1,6 +1,13 @@
 # Keywords used to decide whether a listing is "relevant".
-# A listing matches if ANY keyword below appears (case-insensitive, substring match)
-# in its title, description/snippet, or reference text.
+#
+# Matching rules:
+# - Multi-word phrases (e.g. "data analysis") match case-insensitively, as a
+#   whole word/phrase - not buried inside a longer word.
+# - Short ALL-CAPS acronyms (e.g. GIS, WHO, SIA, ADB) match case-SENSITIVELY
+#   as a whole word. This means "WHO" only matches the literal acronym WHO -
+#   not the common English word "who" - and "SIA" won't false-match inside
+#   "Asia"/"Asian". Write acronyms in capitals to get this protection; write
+#   ordinary phrases in lowercase/title case as normal.
 #
 # Edit freely - no code changes needed. One keyword per line, under any category.
 # Categories are just for your own organization; all of them are searched together.
@@ -24,6 +31,7 @@ data_analysis:
 
 spatial_geography:
   - GIS
+  - GPS
   - geospatial
   - geographic information system
   - spatial analysis
@@ -54,6 +62,37 @@ weather_climate:
   - climate resilience
   - drought
   - early warning system
+
+impact_assessment:
+  - Environmental Impact Assessment
+  - EIA
+  - Social Impact Assessment
+  - SIA
+  - watershed management
+  - feasibility study
+  - feasibility studies
+  - livelihood assessment
+  - disaster risk reduction
+  - water resources
+
+agencies_institutes:
+  - Environment Ministry
+  - Ministry of Agriculture
+  - Meteorology Department
+  - Central Environment Authority
+  - CEA
+  - Road Development Authority
+  - RDA
+  - Ceylon Electricity Board
+  - CEB
+  - NBRO
+  - UNDP
+  - WHO
+  - FAO
+  - IFAD
+  - World Bank
+  - Asian Development Bank
+  - ADB
 
 # Optional: require at least one of these location words too (leave empty to disable).
 # Useful for global boards (World Bank, ReliefWeb) where you only want Sri Lanka-tagged items
