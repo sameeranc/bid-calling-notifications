@@ -36,5 +36,9 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Weekly scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Pull in any commits pushed elsewhere (e.g. a manual keyword
+            # edit) since this job checked out, so the push below doesn't
+            # get rejected by a race with a human pushing at the same time.
+            git pull --rebase origin main
             git push
           fi
