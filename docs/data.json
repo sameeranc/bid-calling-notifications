@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-21T10:04:19.285808+00:00",
+  "generated_at": "2026-07-28T10:10:14.032860+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 8,
-  "total_count": 52,
+  "new_today_count": 7,
+  "total_count": 59,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 8
+      "matched": 7
     },
     "reliefweb": {
       "ok": true,
@@ -26,6 +26,106 @@
     }
   },
   "items": [
+    {
+      "id": "b9efc0263d060695",
+      "title": "System Integrator (SI) for MoMs LMIS Architecture Revitalization, Development, Enhancement, and Providing Implementation Support Services",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457151",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Labor Market Information and Skills System Transformation for Labor Market Flexibility | Indonesia | Request for Expression of Interest | Quality And Cost-Based Selection |  Request Expression of Interest (REOI)  Consulting Services &ndash; Firm Selection  Number: B-1.5/630/UM.02/VII/2026   SYSTEM INTEGRATOR (SI) FOR MOMS LMIS ARCHITECTURE REVITALIZATION, DEVELOPMENT, ENHANCEMENT, AND PROVIDING IMPLEMENTATION SUPPORT SERVICES   Reference No. ID-MOM-555653-CS-QCBS&nbsp;  Labour Market Information and Skills for Transformation for Labour Market Flexibility Project &ndash; International Bank for Reconstruction and Development &ndash; Loan Number 9636-ID  &nbsp;  The Government of the Republic of Indonesia has received financing from the World Bank toward the cost of",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "ab1a1c9cdd14f9fb",
+      "title": "Staging Container",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459060",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Kiribati Digital Government Project | Kiribati | Invitation for Bids | Request for Quotations |   INVITATION TO QUOTE GOODS    &nbsp;   INVITATION TO QUOTE   &nbsp;  Project Title:  Kiribati Digital Connectivity Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 27 July 2026  Source of Funding (grant no.):  P176108   Contract name:  &nbsp;Staging Container   Contract Ref:  KI-MICTTD-548383-GO-RFQ   &nbsp;  1. This project is financed by the World Bank through the above funding. The Kiribati Digital Government Project (KDGP) in coordination with the MICT Project Management Unit (PMU) and the KFSU Pr",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "38aa31e2fc8d52bd",
+      "title": "Serviços de Consultoria para Verificação do Projecto e Supervisão das Obras de Construção das Infra-Estruturas, Acesso Rodoviário E Subestação E Linhas de Ligação da Plataforma Logística da Caála",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00458703",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Accelerating Economic Diversification and Job Creation Project | Angola | Request for Expression of Interest | Quality And Cost-Based Selection |   REPUBLIC OF ANGOLA    MINISTRY OF PLANNING    ACCELERATING ECONOMIC DIVERSIFICATION AND JOB CREATION PROJECT   Loan No.: IBRD-95270  Project ID: P178035   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)   &nbsp;   Assignment Title:  CONSULTING SERVICES FOR PROJECT VERIFICATION AND SUPERVISION OF CONSTRUCTION WORKS FOR INFRASTRUCTURE, ROAD ACCESS, AND SUBSTATION AND CONNECTION LINES OF THE CA&Aacute;LA LOGISTICS PLATFORM   Reference No . 96CS2/MINPLAN/26  The Government of Angola  has received  financing from the World Bank Group&#39;s International Bank f",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "21b23d010d39004e",
+      "title": "Consulting Services for the Development of an Institutional Strengthening Strategy, Roadmap, and Action Plan for Sustainable Agricultural Land Management in Georgia",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459055",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Georgia Resilient Agriculture, Irrigation, and Land Project | Georgia | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    GEORGIA    Georgia Resilient Agriculture, Irrigation and Land Project   (GRAIL) &ndash; P175629    Loan No. 9504-GE &nbsp;   Assignment title: Consulting Services for the Development of an Institutional Strengthening Strategy, Roadmap, and Action Plan for Sustainable Agricultural Land Management in Georgia    &nbsp;   Reference No .  GR/CS/CQS/15   Georgia has received financing from the World Bank toward the cost of  Georgia Resilient Agriculture, Irrigation and Land (GRAIL)  project and intends to apply",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "200b87d34deb6479",
+      "title": "National Consultant for Curriculum and Assessment Support.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459185",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Windward Islands Sector Transformation for Learning Enhancement | Caribbean | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; Individual Consultants)   &nbsp;   Country:  Grenada  Name of Projects:  Windward Islands Sector Transformation for Learning Enhancement (WISTLE) Project  Grant No: TF-C8596  Assignment Title:  National Consultant for Curriculum and Assessment Support   Reference No.:  GD-MOE-GRENADA-552289-CS-INDV  &nbsp;   Background   The Government of Grenada has received financing from the Global Partnership for Education (GPE) through the World Bank toward the implementation of the Windward Islands Sector Transformation for Learning En",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "dadc48d644e36cf0",
+      "title": "Compliance Specialist individual consultant",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457705",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Accelerating Sustainable and Clean Energy and Digital Access Transformation in Sudan | Sudan | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; INDIVIDUAL SELECTION)   &nbsp;  &nbsp;   Country:  Kenya   Project:  Accelerating Sustainable and Clean Energy and Digital Access Transformation in Sudan (Ascent - Sudan) Project Using Multiphase Programmatic Approach Program   Project ID:  P507788   Loan No./Credit No./ Grant No.:  E4720-SD   Assignment Title:  Compliance Specialist   Reference No.: &nbsp;KE-TDB-535550-CS-INDV&nbsp;   The Eastern and Southern Africa Trade and Development Bank (TDB) Group has received financing from the World Bank toward the cost of the  Acc",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "7dfef451243a43f2",
+      "title": "Furniture and Fixtures for the new PIU Office Building",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459102",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "27-Jul-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Invitation for Bids | Request for Bids |  &nbsp;   MINISTRY OF WATER RESOURCES AND IRRIGATION, SOUTH SUDAN   &nbsp;  SPECIFIC PROCUREMENT NOTICE  &nbsp;   Request for Bids Goods    (One-Envelope Bidding Process)   &nbsp;   Country: Republic of South Sudan    Name of Project:   Regional Climate Resilience Program for Eastern and Southern Africa    Contract Title:  Procurement of Furniture and Fixtures for the new PIU Office Building   Grant No.: E-1920-SS &nbsp;   RFB Reference No.:   SS-MWRI-556003-GO-RFB    Issued on:  27th July, 2027  &nbsp;  1. The  Government of the Republic of South Sudan, through the Ministry of Water Resources",
+      "matched_keywords": [
+        "climate",
+        "climate resilience",
+        "water resources"
+      ],
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
     {
       "id": "23316d34cd3ede77",
       "title": "Indonesia Mass Transit Project",
