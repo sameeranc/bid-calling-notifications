@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T10:10:14.032860+00:00",
+  "generated_at": "2026-08-04T10:13:09.897534+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 7,
-  "total_count": 59,
+  "new_today_count": 13,
+  "total_count": 72,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 7
+      "matched": 13
     },
     "reliefweb": {
       "ok": true,
@@ -21,11 +21,199 @@
     },
     "cbsl": {
       "ok": true,
-      "fetched": 179,
+      "fetched": 177,
       "matched": 0
     }
   },
   "items": [
+    {
+      "id": "378a0c983404ce19",
+      "title": "Renovation and improvement of Space allocated for Wee Oya, Salinity Barrier and Flood Modeling Consultant office",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460153",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Aug-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/PCT/W/S/56  Procurement Method: RFB-Request for Bids  Scope of Contract:  Renovation and improvement of Space allocated for Wee Oya, Salinity Barrier and Flood Modeling Consultant office   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/26    Duration of Contract   60 Day(s)           Awarded Bidder(s):           S.K CONSTRUCTION AND CONSULTANCY SERVICES (1094252)  No 366/26, Harischandra Dissanayake M",
+      "matched_keywords": [
+        "climate",
+        "climate resilience",
+        "flood modeling"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "7c12a5110371be73",
+      "title": "Acquisition de: \n-  GPS\n- Tablettes\nPour UEIR et UGP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460142",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "01-Aug-2026",
+      "snippet": "Food Systems Resilience Program for Eastern and Southern Africa | Eastern and Southern Africa | Invitation for Bids | Request for Bids |   MINISTRE-MINISTRE   DE   L&rsquo;AGRICULTURE   ET   DE   L&rsquo;&Eacute;L&Eacute;VATION    SECR&Eacute;TARIAT   G&Eacute;N&Eacute;RAL    PROJET   DE   R&Eacute;SILIENCE   DES   SYST&Egrave;MES   ALIMENTAIRES   DE   MADAGASCAR   (FSRP)   Cr&eacute;dit IDA-71570-MG/Don IDA-E0830-MG &ndash; Madagascar - PPM STEP N&deg; F 26-25/CN   ----------   Avis d&rsquo;Appel d&rsquo;Offres National     Pays      :     Madagascar    ACQUISITION DE GPS ET DE TABLETTES POUR UEIR ET UGP :    Lot   1   :   GPS   Lot 2 : Tablettes    AAON   N&deg;   F   26-25  /CN    Emis   le   :   01   ao&ucirc;t   2026    Le",
+      "matched_keywords": [
+        "GPS"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "ff9b8a41a6ba6161",
+      "title": "Provision of strategic creative marketing and communication services",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460094",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "01-Aug-2026",
+      "snippet": "Water and Sanitation Project - I | Malawi | Invitation for Bids | Request for Bids |   Specific Procurement Notice (SPN)   &nbsp;   Request for Bids   &nbsp;       Employer:       Blantyre Water Board        Project:      Malawi Water and Sanitation Project-1        Contract title:       Provision of strategic creative marketing and communication services         Country:       Malawi        Loan No. /Credit No. / Grant No:        IDA E159-MW       RFB No:       MW-BWB-544832-NC-RFB        Issued on:       24th July 2026       &nbsp;   The Malawi Government has received financing from the World Bank toward the cost of the Malawi Water and Sanitation Project &ndash; 1 (MWSP-1) ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "0253c911e351fee8",
+      "title": "Selection of a Colocation Service Provider for NIDP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460124",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "01-Aug-2026",
+      "snippet": "Ethiopia Digital ID for Inclusion and Services Project | Ethiopia | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;   Request for Bids    Non-Consulting Services   &nbsp;   Employer: National ID Program    Project:   Digital ID for Inclusion and Services Project (P179040)    Contract title: Selection of Service Provider that Provides a Data Center Colocation Service for NIDP    Country: Ethiopia    Credit No:     7463-ET    RFB No: ET-NIDP-539792-NC-RFB    Issued on: July 31, 2026   &nbsp;  1.&nbsp;&nbsp;&nbsp;&nbsp; The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Digital ID for Inclusion and Services Projec",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "c4cad7e2eb139af7",
+      "title": "Supply and Delivery of IT Infrastructures (Existing Expansion of Infrastructure)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460122",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "01-Aug-2026",
+      "snippet": "Ethiopia Digital ID for Inclusion and Services Project | Ethiopia | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;   Request for Bids    Goods    (Single Stage, One-Envelope Bidding Process)   &nbsp;   Country: Ethiopia    Name of Project:   Digital ID for Inclusion and Services Project (P179040)    Contract Title:   Supply and Delivery of IT Infrastructures (Existing Expansion of Data Center Infrastructure)    Credit No: 7463-ET    RFB Reference No.: ET-NIDP-502637-GO-RFB   &nbsp;   The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Digital ID for Inclusion and Services Project and intends to apply part of th",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "8653313f97de782f",
+      "title": "Construction, Interior Improvement and Related Works for the Flood Monitoring and Operations Room of Irrigation Department",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460082",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "01-Aug-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/ID/W/NCB/54  Procurement Method: RFB-Request for Bids  Scope of Contract:  Construction, Interior Improvement and Related Works for the Flood Monitoring and Operations Room of Irrigation Department   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/20    Duration of Contract   120 Day(s)           Awarded Bidder(s):           PANTHILA CIVIL ENGINEERS (1111809)  No. 814B, Jeswel place, Mirihana, Nugegoda",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "66225d4e24d380ca",
+      "title": "Procurement of Works for the Construction of Public Sanitation Facilities in Selected Primary Schools",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460091",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "01-Aug-2026",
+      "snippet": "Water and Sanitation Project - I | Malawi | Invitation for Bids | Request for Bids |   Specific Procurement Notice (SPN)   &nbsp;   Request for Bids    Works        Employer:       Blantyre Water Board        Project:      Malawi Water and Sanitation Project-1        Contract title:       Construction of Public Sanitation Facilities in Primary Schools        Country:       Malawi        Loan No. /Credit No. / Grant No:        IDA E159-MW       RFB No:       MW-BWB-543076-CW-RFB        Issued on:       24th &nbsp;July 2026       &nbsp;   The Malawi Government has received financing from the World Bank toward the cost of the Malawi Water and Sanitation Project &ndash; 1 (MWSP-1)",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "6ae029d28b15e792",
+      "title": "Master Design of Kampung LAUTRA Merah Putih",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459898",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Jul-2026",
+      "snippet": "Oceans for Prosperity Project - LAUTRA | Indonesia | Request for Expression of Interest | Consultant Qualification  Selection |   UNIT KERJA PENGADAAN BARANG/JASA    KEMENTERIAN KELAUTAN DAN PERIKANAN   &nbsp;  Undangan Untuk Memasukkan Pernyataan Berminat  &nbsp;  &nbsp;  Republik Indonesia  Nama Proyek:  Ocean for Prosperity Project &ndash; LAUTRA   No. Loan: IBRD-94980  Nama Paket : Master Design Kampung LAUTRA Merah Putih  No. Referensi :  ID-MMAF-559463-CS-CQS   &nbsp;  Pemerintah Republik Indonesia telah menerima bantuan dana berupa pinjaman dari World Bank untuk membiayai Ocean for Prosperity Project &ndash; LAUTRA dan bermaksud untuk menggunakan sebagian dari dana pinjaman tersebut untuk membiayai Paket Kontrak",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "ffd15fac130d1abc",
+      "title": "Rehabilitation of Malakal Town flood and drainage system",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459915",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Jul-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Invitation for Bids | Request for Bids |   MINISTRY OF WATER RESOURCES AND IRRIGATION, SOUTH SUDAN   &nbsp;  SPECIFIC PROCUREMENT NOTICE  &nbsp;   Request for Bids Small Works     (One-Envelope Bidding Process)   &nbsp;   Country: SOUTH SUDAN    Name of Project:     REGIONAL CLIMATE RESILIENCE PROGRAM FOR EASTERN AND SOUTHERN AFRICA    Contract Title:  Rehabilitation of Malakal Town Flood and Drainage System  &nbsp;   &nbsp;Grant No.: E-1920-SS &nbsp;   RFB Reference No.:   SS-MWRI-552785-CW-RFB    Issued on: 31st July, 2026   &nbsp;  1. The  Government of the Republic of South Sudan, through the Ministry of Water Resources and Irrig",
+      "matched_keywords": [
+        "climate",
+        "climate resilience",
+        "water resources"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "5d94f3f8f6e975c5",
+      "title": "Environmental, Health and Safety Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459962",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Jul-2026",
+      "snippet": "Mozambique Safer Roads for Socio-Economic Integration Program | Mozambique | Request for Expression of Interest | Individual Consultant Selection |   Country:  Republic of Mozambique   Name of Project:  Mozambique Safer Roads for Socio-Economic Integration(SRSEI)   Grant No.:  IDA-E0780   Assignment Title:  Environmental, Health and Safety Specialist, PMU   Reference No . MZ-PMU-555677-CS-INDV  The Government of Mozambique represented by the Ministry of Transport and Logistics (MTL), has received financing from the World Bank toward the cost of the Mozambique Safer Roads for Socio-Economic Integration Program and intends to apply part of the proceeds for consulting services.  The consulting services (&ldquo;the Services&rdquo;) involves s",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "dd09d7c3bf85edd0",
+      "title": "Consulting Services for Provision of Public-Private Partnership (PPP) Expert",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459867",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Jul-2026",
+      "snippet": "Regional Program for Distributed Access Through Renewable Energy Solutions Phase 1 | Western and Central Africa | Request for Expression of Interest | Individual Consultant Selection |  &nbsp;   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; INDIVIDUAL SELECTION)   &nbsp;  &nbsp;    West and Central Africa     Regional Program for Distributed Access through Renewable Energy Solutions (Regional DARES)   Project ID: P507938  Credit No.:8080-LR  &nbsp;  &nbsp;   Assignment Title: Consultancy Services for RCU Public Private Partnership (PPP) Expert   &nbsp;   Reference No .: LR-RCU-DARES-557723-CS-INDV  &nbsp;  The Governments of Liberia, Sierra Leone, Benin, and Central Africa Republic have received financing from the World Bank toward the cost of the Regio",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "fefe8cbbe6c35c23",
+      "title": "Training Service for DoR Senior Divisional Engineer and Engineers",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00459956",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Jul-2026",
+      "snippet": "Accelerating Transport and Trade Connectivity in Eastern South Asia – Nepal Phase 1 Project | Nepal | Contract Award | Direct Selection |   Contract Award   Project: P177902-Accelerating Transport and Trade Connectivity in Eastern South Asia  Nepal Phase 1 Project  Loan/Credit/TF Info: IDA-71590  Bid/Contract Reference No: ACCESS-DOR-NCS-DI-02  Procurement Method: DIR-Direct Selection  Scope of Contract:  Training for DoR Engineers on two modules. Module1: Climate-Resilient Hill Slope Management; Module 2: Pavement Design, Construction and Maintenance   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/08/21    Duration of Contract   1 Year(s)           Awarded Bidder(s):           NEPAL ADMINISTRATI",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    {
+      "id": "1b82732754596d8c",
+      "title": "Construction of Bridges along Mangochi – Makanjira (S129) Road – (Lot 3)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460034",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Jul-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2) | Malawi | Contract Award | Request for Bids |   Contract Award   Project: P181308-Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2)  Loan/Credit/TF Info: IDA-E2790; IDA-E2800  Bid/Contract Reference No: MW-RA-404467-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Construction of Selected Bridges and Approach Road Sections on Chingo  Makanjira (S129) Road in Mangochi District - Lot 3   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/04    Duration of Contract   24 Month(s)           Awarded Bidder(s):           ANHUI FOREIGN ECONOMIC CONSTRUCTION (G",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
     {
       "id": "b9efc0263d060695",
       "title": "System Integrator (SI) for MoMs LMIS Architecture Revitalization, Development, Enhancement, and Providing Implementation Support Services",
