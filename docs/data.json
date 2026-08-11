@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T10:13:09.897534+00:00",
+  "generated_at": "2026-08-11T08:31:08.318246+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 13,
-  "total_count": 72,
+  "new_today_count": 16,
+  "total_count": 88,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 13
+      "matched": 16
     },
     "reliefweb": {
       "ok": true,
@@ -16,16 +16,251 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 117,
+      "fetched": 116,
       "matched": 0
     },
     "cbsl": {
       "ok": true,
-      "fetched": 177,
+      "fetched": 180,
       "matched": 0
     }
   },
   "items": [
+    {
+      "id": "c11e5827f7c03e3b",
+      "title": "Costa Rica Climate Resilient Recovery and Territorial Development Project",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460356",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Aug-2026",
+      "snippet": "Costa Rica Climate Resilient Recovery and Territorial Development Project | Costa Rica | General Procurement Notice |    ANUNCIO GENERAL DE ADQUISICIONES    &nbsp;  &nbsp;  &nbsp;  COSTA RICA  Proyecto de recuperaci&oacute;n Resiliente al Clima y Desarrollo Territorial de Costa Rica  ADQUISICIONES  Pr&eacute;stamo/Donaci&oacute;n n&deg; 9653-CR / TF0C4693-CR  ID de Proyecto P178049  &nbsp;  La REP&Uacute;BLICA DE COSTA RICA ha recibido un pr&eacute;stamo del Banco Internacional de Reconstrucci&oacute;n y Fomento (BIRF) por un monto equivalente a USD 350,000,000 d&oacute;lares estadounidenses (trescientos cincuenta millones de d&oacute;lares) y una contribuci&oacute;n concesional del &ldquo;Global Concessional",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "293091482b306f96",
+      "title": "Tracer Study & Employer Survey Design and Pilot for FSM High Schools",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461477",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Aug-2026",
+      "snippet": "FSM Skills and Employability Enhancement Project | Micronesia, Federated States of | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (INDIVIDUAL CONSULTING SERVICES)   &nbsp;  &nbsp;   Country:  Federated States of Micronesia   FSM Skills and Employability Enhancement Project    Grant No.:  D-9870   Assignment Title:  Tracer Study &amp; Employer Survey Design and Pilot for FSM High Schools   Reference No . ( as per Procurement Plan ): FM-NDOE-526575-CS-INDV  &nbsp;  The National Department of Education (NDOE) received financing from the World Bank toward the cost of the FSM Skills and Employability Enhancement Project and intends to apply part of the proceeds for consulting services.",
+      "matched_keywords": [
+        "World Bank",
+        "survey design"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "29fa7a308cfc4336",
+      "title": "Fisheries Equipment & Branding: Lot 1- CA goods and equipment; Lot 2- TFA Branding; Lot 3- Field equipment ciguatera survey; Lot 4- Purchase underwater drone",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461478",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Aug-2026",
+      "snippet": "Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience: Tuvalu | Tuvalu | Invitation for Bids | Request for Quotations |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. INVITATION TO QUOTE.   &nbsp;  Date: 10 August 2026  &nbsp;  To:  &nbsp;  Dear Supplier,  &nbsp;  1.1 You are invited to submit your price quotation for the Observer and creel survey equipment (Component 1 &amp; 3).  &nbsp;  1.2 The Government of Tuvalu has received a Grant from the World Bank towards the cost of the Tuvalu Pacific Regional Oceanscape Program for Economic Resilience (PROPER) and intends to apply the proceeds of this grant to eligible payments under the contract for which this Request for Quotation is issued.  &nbsp;  1.3 You must quote",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "eba84e30f9af4e2c",
+      "title": "Accessories of requested equipment for completing real-time air quality sensor of monitoring network",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461402",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "08-Aug-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/NBRO/G/NCB/10-1  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 3: Ambient Dust Sampling Equipment and accessories for Air Quality Studies   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/26    Duration of Contract   3 Month(s)           Awarded Bidder(s):           BIOTECHNO CITY (PVT) LTD (1113648)  No: 740, Cotta Road,Rajagiriya,Sri Lanka Country: Sri Lanka      Bid Price at Open",
+      "matched_keywords": [
+        "NBRO",
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "3a9b6bc35e94e58c",
+      "title": "Accessories of requested equipment for completing real-time air quality sensor of monitoring network",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461403",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "08-Aug-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/NBRO/G/NCB/10-1  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 2: Accessories Required For 70 Rainwater Sensor Station Fabrication   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/23    Duration of Contract   3 Month(s)           Awarded Bidder(s):           BIOTECHNO CITY (PVT) LTD (1113648)  No: 740, Cotta Road,Rajagiriya,Sri Lanka Country: Sri Lanka      Bid Price at Opening LKR",
+      "matched_keywords": [
+        "NBRO",
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "dc644f1facdf1e75",
+      "title": "Acquisition Groupe électrogène au profit de la CTHA",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461418",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "08-Aug-2026",
+      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Contract Award | Request for Quotations |   Contract Award   Project: P177786-Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo)  Loan/Credit/TF Info: IBRD-94930  Bid/Contract Reference No: CG-PROCLIMAT/CTHA-007-F-DC-26  Procurement Method: RFQ-Demande de prix  Scope of Contract:  Acquisition d'un Groupe Electrogne au profit de la CTHA MOD ProClimat BSP-IGNIE   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/20    Duration of Contract   2 Month(s)           Awarded Bidder(s):           BJC ARIS (1109365)  Adresse : 47 Avenue Mbemba Landou, Pointe-NoireTel : 06 848 96 97/ 05 530 54 4",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "104c33ff3655830c",
+      "title": "Accessories of requested equipment for completing real-time air quality sensor of monitoring network",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461401",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "08-Aug-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/NBRO/G/NCB/10-1  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 01: Accessories required for 120 Air sensor station fabrication   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/23    Duration of Contract   3 Month(s)           Awarded Bidder(s):           AMBER DIGITAL (PVT) LTD (871858)  191/1, Borella Road, Depanama, Pannipitiya, Sri Lanka. Country: Sri Lanka      Bid Price at Ope",
+      "matched_keywords": [
+        "NBRO",
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "fc600b7ff8367a46",
+      "title": "Accessories of requested equipment for completing real-time air quality sensor of monitoring network",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461404",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "08-Aug-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/NBRO/G/NCB/10-1  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 5: Accessories for Multi-Purpose Powder X-Ray Diffractometer   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/23    Duration of Contract   3 Month(s)           Awarded Bidder(s):           BIOTECHNO CITY (PVT) LTD (1113648)  No: 740, Cotta Road,Rajagiriya,Sri Lanka Country: Sri Lanka      Bid Price at Opening LKR  Evalu",
+      "matched_keywords": [
+        "NBRO",
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "675447097d8423d0",
+      "title": "Training of Children and Youth (Schools) on climate leadership, environmental innovation, and active ecosystem restoration",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461432",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "08-Aug-2026",
+      "snippet": "West Africa Coastal Areas Resilience Investment Project 2 | Western and Central Africa | Contract Award | Direct Selection |   Contract Award   Project: P175525-West Africa Coastal Areas Resilience Investment Project 2  Loan/Credit/TF Info: IDA-E1400  Bid/Contract Reference No: GM-CPCU-541311-NC-DIR  Procurement Method: CDS-Direct Selection  Scope of Contract:  Training of Children and Youth (Schools) on climate leadership, environmental innovation, and active ecosystem restoration   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/19    Duration of Contract   6 Month(s)           Awarded Firm(s):           PLANT-FOR-THE-PLANET FOUNDATION (1113681)  Country: Germany              Fina",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "0e03571730071066",
+      "title": "Protection work between goge dam and RT wall of ukai dam Ta.Songadh Dist.Tapi.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461202",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "Second Dam Rehabilitation and Improvement Project | India | Invitation for Bids | Request for Bids |  E-Tender Notice No. 02 of 2022&ndash;23 &ndash; Point-wise Details    Tender Notice No.:  02 of 2022&ndash;23.   Department:  Government of Gujarat, Narmada Water Resources, Water Supply &amp; Kalpsar Department.   Inviting Authority:  Executive Engineer, Ukai Division No. 1, Ukai.   Office Address:  Tapi Jal Bhavan, 2nd Floor, Ukai, Taluka Songadh, District Tapi &ndash; 394680.   Phone No.:  02624-233221.   Mode of Tendering:  Online (E-Tender).   Details of Works    Protection work between Gorge Dam and RT Wall of Ukai Dam, Taluka Songadh, District Tapi.    Bid Security (EMD):  1,38,000.   ",
+      "matched_keywords": [
+        "water resources"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "99eb8f876bac4920",
+      "title": "Forklifts and Cherry Pickers for Substations",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461221",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "Temane Regional Electricity Project | Eastern and Southern Africa | Invitation for Bids | Request for Bids |   Request for Bids    Goods   &nbsp;   Employer  :   Sociedade Nacional de Transporte de Energia (STE)    Project:     Temane Regional Electricity Project (TREP)    Country:   Mozambique    Grant No.:   D495-MOZ    Issued on:   7/08/2026   &nbsp;   The  Government of Mozambique  has received financing from the World Bank toward the cost of the  Temane Regional Transmission Project  and intends to apply part of the proceeds toward payments under the contract for the acquisition of the goods listed below. For these contracts, the Borrower shall process the payments using the Direct Payment disbu",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "d862148054c93784",
+      "title": "Shelves for Warehouses",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461228",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "Temane Regional Electricity Project | Eastern and Southern Africa | Invitation for Bids | Request for Bids |   Request for Bids    Goods   &nbsp;   Employer  :   Sociedade Nacional de Transporte de Energia (STE)    Project:     Temane Regional Electricity Project (TREP)    Country:   Mozambique    Grant No.:   D495-MOZ    Issued on:   7/08/2026   &nbsp;   The  Government of Mozambique  has received financing from the World Bank toward the cost of the  Temane Regional Transmission Project  and intends to apply part of the proceeds toward payments under the contract for the acquisition of the goods listed below. For these contracts, the Borrower shall process the payments using the Direct Payment disbu",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "2c3d7e023d64097d",
+      "title": "Computers for GABHIC",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461258",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Request for Quotations |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 77AG3/GABHIC/R/26  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Aquisio de Equipamento de Informtica para o GABHIC   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/07    Duration of Contract   4 Month(s)           Awarded Bidder(s):           CICCI ANGOLA, LDA (1004059)  TRAVESSA DE JOO SECA 27/29 MAIANGA LUANDA Tel: +244 936 272 623/624 Fax+244 222 328 819 Country: Angola      Bid Pric",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "50f6affc6697f707",
+      "title": "Construction of New Building for the Ministry of Environment & Climate Change in Mogadishu",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461192",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "Barwaaqo - Somalia Water for Rural Resilience Project | Somalia, Federal Republic of | Invitation for Bids | Request for Bids |   FEDERAL GOVERNMENT OF SOMALIA    Ministry of Environment &amp; Climate Change     Specific Procurement Notice (SPN)    Request for Bids Works (One-Envelope Bidding Process)   Employer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ministry of Environment &amp; Climate Change, Federal Government of Somalia  Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Somalia Water for Rural Resilience Project &ldquo;Barwaaqo&rdquo;&nbsp;&nbsp;&nbsp;&n",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "da78e38ff4b55ff3",
+      "title": "Engagement of an Individual Road Safety Expert to undertake Road Safety Audit on the Feasibility Study and Detailed Engineering Design Report for the Ghana Market Access and Connectivity Project (GMACP)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461243",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "GFPP - Ghana Market Access and Connectivity Project | Ghana | Request for Expression of Interest | Individual Consultant Selection |   REPUBLIC OF GHANA    MINISTRY OF ROADS AND HIGHWAYS     DEPARTMENT OF FEEDER ROADS   &nbsp;   REQUEST FOR EXPRESSIONS OF INTEREST    (INDIVIDUAL CONSULTING SERVICES)        Name of Project     Ghana Market Access and Connectivity Project (GMACP)-Project Preparatory Grant       Grant Number     IDA-E6230       Assignment Title     Engagement of a Road Safety Expert (Road Safety Auditor) under the Ghana Market Access and Connectivity Project (GMACP)       Procurement Plan Ref Number     GH-MRH-DFR-563246-CS-INDV       Country of Delivery      Ghana       The Government of the Republic of Ghana",
+      "matched_keywords": [
+        "feasibility study"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    {
+      "id": "11558afa7783576e",
+      "title": "Contratação de um (1) consultor individual para avaliação do Projecto a meio termo.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00461268",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Aug-2026",
+      "snippet": "Smallholder Agricultural Transformation Project | Angola | Request for Expression of Interest | Individual Consultant Selection |   Loan No.:  BIRD-9396 - AO   Assignment Title:  Selection of an independent individual consultant to undertake the Project Mid-Term Review   Reference No  .:  177/C3/C/MOSAP3/26  &nbsp;  1. The Ministry of Agriculture and Forestry (MINAGRIF) has received financing from the World Bank toward the cost of the Smallholder Agricultural Transformation Project (MOSAP 3) and intends to apply part of the proceeds for consulting services above referenced.  &nbsp;  2. The consulting services (&ldquo;the Services&rdquo;) includes the assessment of the progress made towards the achievement of the specific",
+      "matched_keywords": [
+        "Ministry of Agriculture",
+        "World Bank"
+      ],
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
     {
       "id": "378a0c983404ce19",
       "title": "Renovation and improvement of Space allocated for Wee Oya, Salinity Barrier and Flood Modeling Consultant office",
