@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T08:03:48.612083+00:00",
+  "generated_at": "2026-08-25T08:09:16.757009+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 6,
-  "total_count": 94,
+  "new_today_count": 12,
+  "total_count": 106,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 6
+      "matched": 12
     },
     "reliefweb": {
       "ok": true,
@@ -16,16 +16,186 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 117,
+      "fetched": 109,
       "matched": 0
     },
     "cbsl": {
       "ok": true,
-      "fetched": 180,
+      "fetched": 178,
       "matched": 0
     }
   },
   "items": [
+    {
+      "id": "14b9e10ad7451ab6",
+      "title": "Regional Cluster No. 1: Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Northern Mindanao and Caraga (Region 10 and Region 13)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00463694",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Aug-2026",
+      "snippet": "Philippines Digital Infrastructure Project | Philippines | Invitation for Bids | Request for Bids |   Invitation to Bid for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Northern Mindanao and CARAGA (Region 10 and Region 13)   &nbsp;  1) The Government of the Philippines (GOP) has received a Loan from the World Bank toward the cost of  Philippine Digital Infrastructure Project (PDIP),  and it intends to apply part of the proceeds of this Loan to payments under the contract for the  Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Northern Mindanao and CARAGA (Region 10 and Region 13).   2) The  Department of Information and",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "1a844a6a97178ea2",
+      "title": "Regional Cluster No. 3: Design and Build of the Phase 4 And 5 Middle Mile Level 1 Fiber Optic Cable for Western and Northern Mindanao (Regions 9 and BARMM)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464259",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Aug-2026",
+      "snippet": "Philippines Digital Infrastructure Project | Philippines | Invitation for Bids | Request for Bids |   Invitation to Bid for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Zamboanga Peninsula and Northern Mindanao (Regions 9 and BARMM)    1) The Government of the Philippines (GOP) has received a Loan from the World Bank toward the cost of Philippine Digital Infrastructure Project (PDIP), and it intends to apply part of the proceeds of this Loan to payments under the contract for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Zamboanga Peninsula and Northern Mindanao (Regions 9 and BARMM).  2) The Department of Informati",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "db32b3c37e88bb2c",
+      "title": "Regional Cluster No. 4: Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Central Eastern & Negros Visayas (NIR, Regions 7 & 8)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464264",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Aug-2026",
+      "snippet": "Philippines Digital Infrastructure Project | Philippines | Invitation for Bids | Request for Bids |   Invitation to Bid for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Western, Central, Eastern &amp; Negros Island Visayas (Regions 6, 7, 8 and NIR) of the National Broadband Program    1) The Government of the Philippines (GOP) has received a Loan from the World Bank toward the cost of Philippine Digital Infrastructure Project (PDIP), and it intends to apply part of the proceeds of this Loan to payments under the contract for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Western, Central, Eastern &amp; Negros Island ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "ff617e6418c7cae3",
+      "title": "New-Power system Data management/Data Analytics Engineer",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00463983",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Aug-2026",
+      "snippet": "WAPP Ghana-Cote d'Ivoire Interconnection Project - Phase 1 WA-REMP MPA | Western and Central Africa | Request for Expression of Interest | Individual Consultant Selection |   &nbsp;  WEST AFRICAN POWER POOL    Project:   &nbsp;WAPP GHANA-C&Ocirc;TE D&rsquo;IVOIRE INTERCONNECTION REINFORCEMENT PROJECT    NOTICE OF INTERNATIONAL RECRUITMENT    Revised 23.8.2026    Consultant Services    Selection of individual consultant    Power System Data Management &amp; Data Analytics Engineer    Financing: World Bank IDA    Don IDA No: E4040    Reference: BJ-WAPP-568960-CS-INDV   Open to: All eligible individuals  Duty Station: Abomey-Calavi, Benin  Application Deadline: 24 September 2024  &nbsp;    CONTEXT    The West African Power Pool (WAPP) was created by the highest deci",
+      "matched_keywords": [
+        "World Bank",
+        "data analytics",
+        "data management"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "67f43373a96efa7b",
+      "title": "Regional Cluster No. 2: Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Southern and Western Mindanao (Region 11 and Region 12)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464256",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Aug-2026",
+      "snippet": "Philippines Digital Infrastructure Project | Philippines | Invitation for Bids | Request for Bids |   Invitation to Bid for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Davao and SOCCSKSARGEN Mindanao (Regions 11 and 12)    1) The Government of the Philippines (GOP) has received a Loan from the World Bank toward the cost of Philippine Digital Infrastructure Project (PDIP), and it intends to apply part of the proceeds of this Loan to payments under the contract for the Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Davao and SOCCSKSARGEN Mindanao (Regions 11 and 12).  2) The Department of Information and Communications Te",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "f7db0af1f056b841",
+      "title": "Procurement of Supply and Installation of Solar Pumping System for 8 Rural Pipe Systems (RPS) &1 CR-Project under the Climate Resilient Multi-Village Water Supply Projects, by the Ministry of Water & Energy (MoWE).",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464146",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P167794-One WASHConsolidated Water Supply, Sanitation, and Hygiene Account Project (One WASHCWA)  Loan/Credit/TF Info: IDA-64450  Bid/Contract Reference No: ET-MOWE-532227-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Supply and Installation of Solar Pumping System for Dinewale Water supply system (Lot 4)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/10    Duration of Contract   90 Day(s)           Awarded Bidder(s):           RUBANA G.T.& W.W.C (1118151)  Addis Ababa Country: Ethiopia      Bid Price at O",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "7af85d1279b0a28e",
+      "title": "Procurement of Supply and Installation of Solar Pumping System for 8 Rural Pipe Systems (RPS) &1 CR-Project under the Climate Resilient Multi-Village Water Supply Projects, by the Ministry of Water & Energy (MoWE).",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464147",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P167794-One WASHConsolidated Water Supply, Sanitation, and Hygiene Account Project (One WASHCWA)  Loan/Credit/TF Info: IDA-64450  Bid/Contract Reference No: ET-MOWE-532227-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Supply and Installation of Solar Pumping System for Bursa WSSP for CR-Project under the Climate Resilient Multi-Village Water Supply Project (Lot 5)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/10    Duration of Contract   90 Day(s)           Awarded Bidder(s):           BIRHANU FEYISSA W.W",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "851894bca9b6a216",
+      "title": "Procurement of Supply and Installation of Solar Pumping System for 8 Rural Pipe Systems (RPS) &1 CR-Project under the Climate Resilient Multi-Village Water Supply Projects, by the Ministry of Water & Energy (MoWE).",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464143",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P167794-One WASHConsolidated Water Supply, Sanitation, and Hygiene Account Project (One WASHCWA)  Loan/Credit/TF Info: IDA-64450  Bid/Contract Reference No: ET-MOWE-532227-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Supply and Installation of Solar Pumping System Gabala1BH WSSP in SWE, Lamfuro Gababa WSSP in Central Ethiopia and odo-Boko WSSPin Sidama (Lot 2)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/10    Duration of Contract   90 Day(s)           Awarded Bidder(s):           ACME ENGINEERING (1118",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "d16aa354469f83a8",
+      "title": "Consulting Services for Business Advisory Services to Beneficiaries (Grantees) of Gender Inclusive Workplace Infrastructure in Northern Region",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464207",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "Generating Growth Opportunities and Productivity for Women Enterprises Project | Uganda | Request for Expression of Interest | Consultant Qualification  Selection |   MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT    GENERATING GROWTH OPPORTUNITIES AND PRODUCTIVITY FOR WOMEN ENTERPRISES (GROW) PROJECT    Project ID: P176747    Grant No. 0920-UG    Request for Expressions of Interest    (Consulting Services &ndash; Firms Selection)    CONSULTANCY SERVICES TO BUSINESS ADVISORY SERVICES TO BENEFICIARIES (GRANTEES) OF GENDER INCLUSIVE WORKPLACE INFRASTRUCTURE   Reference No .:&nbsp;MGLSD-GROW/CONS/25-26/00071-UG-MOGLSD-547665-CS-CQS  Issued on: &nbsp;August 13, 2026   The Government of the Republic of Uganda has received financing from the World Bank towar",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "7342f1bfcbb1091d",
+      "title": "Consulting Services for Business Advisory Services to Beneficiaries (Grantees) of Gender Inclusive Workplace Infrastructure in Central Region",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464205",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "Generating Growth Opportunities and Productivity for Women Enterprises Project | Uganda | Request for Expression of Interest | Consultant Qualification  Selection |   &nbsp;MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT    GENERATING GROWTH OPPORTUNITIES AND PRODUCTIVITY FOR WOMEN ENTERPRISES (GROW) PROJECT    Project ID: P176747    Grant No. 0920-UG    Request for Expressions of Interest    (Consulting Services &ndash; Firms Selection)    CONSULTANCY SERVICES TO BUSINESS ADVISORY SERVICES TO BENEFICIARIES (GRANTEES) OF GENDER INCLUSIVE WORKPLACE INFRASTRUCTURE   Reference No .:&nbsp;MGLSD-GROW/CONS/25-26/00071-UG-MOGLSD-547665-CS-CQS  Issued on: &nbsp;August 13, 2026   The Government of the Republic of Uganda has received financing from the World Bank",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "ee46934abfb443b3",
+      "title": "Consulting Services for Business Advisory Services to Beneficiaries (Grantees) of Gender Inclusive Workplace Infrastructure in Eastern Region",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464203",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "Generating Growth Opportunities and Productivity for Women Enterprises Project | Uganda | Request for Expression of Interest | Consultant Qualification  Selection |   MINISTRY OF GENDER, LABOUR AND SOCIAL DEVELOPMENT    GENERATING GROWTH OPPORTUNITIES AND PRODUCTIVITY FOR WOMEN ENTERPRISES (GROW) PROJECT    Project ID: P176747    Grant No. 0920-UG    Request for Expressions of Interest    (Consulting Services &ndash; Firms Selection)    CONSULTANCY SERVICES TO BUSINESS ADVISORY SERVICES TO BENEFICIARIES (GRANTEES) OF GENDER INCLUSIVE WORKPLACE INFRASTRUCTURE   Reference No .:&nbsp;MGLSD-GROW/CONS/25-26/00071-UG-MOGLSD-547665-CS-CQS  Issued on: &nbsp;August 13, 2026   The Government of the Republic of Uganda has received financing from the World Bank towar",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    {
+      "id": "3781abf07128195d",
+      "title": "Procurement of Supply and Installation of Solar Pumping System for 8 Rural Pipe Systems (RPS) &1 CR-Project under the Climate Resilient Multi-Village Water Supply Projects, by the Ministry of Water & Energy (MoWE).",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00464145",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "22-Aug-2026",
+      "snippet": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P167794-One WASHConsolidated Water Supply, Sanitation, and Hygiene Account Project (One WASHCWA)  Loan/Credit/TF Info: IDA-64450  Bid/Contract Reference No: ET-MOWE-532227-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Supply and Installation of Solar Pumping System for Haro Somanea and Hakim Gara BH WSP (Lot 3)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/10    Duration of Contract   90 Day(s)           Awarded Bidder(s):           ARARAT GENERAL CONTRACTOR (1034748)  Kolfe Keraniyo sub city, woreda 07, ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
     {
       "id": "6df9b3d510c683c4",
       "title": "Technical Consultant with a Background in Economics to Support the Ministry of Health in the Implementation of the State Guaranteed Benefits Program №1",
