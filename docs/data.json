@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T08:09:16.757009+00:00",
+  "generated_at": "2026-09-01T12:41:57.786373+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 12,
-  "total_count": 106,
+  "new_today_count": 10,
+  "total_count": 116,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 12
+      "matched": 10
     },
     "reliefweb": {
       "ok": true,
@@ -26,6 +26,149 @@
     }
   },
   "items": [
+    {
+      "id": "c2f30a760111325b",
+      "title": "Consultancy Services for Procurement of Software Development, Update, and Maintenance Support Services for the Infectious Disease Surveillance and Early Warning System (İzci) Web and Mobile Application",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460434",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Türkiye Preparedness for Public Health Emergencies Project | Turkiye | Request for Expression of Interest | Quality And Cost-Based Selection |   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;REQUEST FOR EXPRESSIONS O",
+      "matched_keywords": [
+        "early warning system"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "1ec50306eb0ddbcb",
+      "title": "Paramétrage d'une nouvelle base dans le logiciel TOMPRO Web pour le financement additionnel, intervention sur la nouvelle base et formation TOMPRO WEB, Renouvellement de la maintenance et de l'hébergement SET et GED pour l'UGP-PRRC",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465861",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Contract Award | Direct Selection |   Contract Award   Project: P180171-Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1)  Loan/Credit/TF Info: IDA-78310  Bid/Contract Reference No: MD-CPGU-F027  Procurement Method: DIR-Passation de march de gr  gr  Scope of Contract:  PARAMETRAGE DUNE NOUVELLE BASE DANS LE LOGICIEL TOMPRO WEB, INTERVENTION SUR LA NOUVELLE BASE, FORMATION TOMPRO WEB, RATTRAPAGE COMPTABLE POUR LEDITION DES EJCD SUR TOMPRO WEB ET RENOUVELLEMENT DE   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/22    Duration of Contract   12 Month(s)         ",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "c2e01c28c537e5d1",
+      "title": "Communications Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465864",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Tajikistan Women's Economic Empowerment Project | Tajikistan | Request for Expression of Interest | Individual Consultant Selection |   Republic of Tajikistan    Tajikistan Women&#39;s Economic Empowerment Project (TWEEP)    Grant No.: TF-D1600    Title: Communications Specialist    Reference No.: TWEEP-CS-IC-10   The State Committee on Investment and State Property Management of the Republic of Tajikistan (SCISPM) has received financing from the World Bank toward the preparation and implementation of the Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP) and intends to apply part of the proceeds for individual consulting services.  The assignment is to ensure effective external and internal communications for TWE",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "874ec1ff934bf7fe",
+      "title": "Travaux de réhabilitation de local CPGU abritant l'UGP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465898",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Contract Award | Request for Quotations |   Contract Award   Project: P180171-Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1)  Loan/Credit/TF Info: IDA-73260  Bid/Contract Reference No: MD-CPGU-T005  Procurement Method: RFQ-Demande de prix  Scope of Contract:  Travaux de rnovation, rhabilitation et rorganisationfonctionnelle des bureaux et espaces communs de la CPGU/PRRC4 et Se tages, maison des produits  67HA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/24    Duration of Contract   45 Day(s)           Awarded Bidder(s):           HOUSE CONSTRUCTION (509974) ",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "7ed45b6371479737",
+      "title": "Procurement of office equipment and furniture for PIG\nLot 1 - Office Equipment\nLot 2 - Office Furniture",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465835",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Tajikistan Women's Economic Empowerment Project | Tajikistan | Invitation for Bids | Request for Quotations |   Country: Republic of Tajikistan  Project Name:&nbsp; Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP)  Contract Name:&nbsp; Procurement of Office Equipment (Lot 1) and Office Furniture (Lot 2) for the Project Implementation Group (PIG)  Project No.:&nbsp; P511398  Tender Reference No.:&nbsp; TWEEP-G-RFQ-01   The Government of the Republic of Tajikistan has received financing from the World Bank under the Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP) and intends to apply part of the proceeds toward payments under the contract for the procurement of office equipmen",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "39bc238f040b0993",
+      "title": "Environmental and Social Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465867",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Tajikistan Women's Economic Empowerment Project | Tajikistan | Request for Expression of Interest | Individual Consultant Selection |   Republic of Tajikistan    Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP)    Grant No.: TF-D1600    Title: Environmental and Social Specialist    Reference No.: TWEEP-CS-IC-09   The State Committee on Investment and State Property Management of the Republic of Tajikistan (SCISPM) has received financing from the World Bank toward the preparation and implementation of the Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP) and intends to apply part of the proceeds for individual consulting services.  The assignment is to support the management of environmental and socia",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "08a6144f0fcbdeb6",
+      "title": "Baseline Survey",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465869",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Tajikistan Women's Economic Empowerment Project | Tajikistan | Request for Expression of Interest | Consultant Qualification  Selection |   REPUBLIC OF TAJIKISTAN    Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP)    Grant No.: &nbsp;TF-D1600 (TWEEP, P511398)   Assignment Title: &nbsp;Conducting a Baseline Survey for the TWEEP Project   Reference No. (as per Procurement Plan): &nbsp;TWEEP-CS-CQS-01  The Government of the Republic of Tajikistan has received financing in the amount of US$4.73 million from the World Bank toward the cost of the Tajikistan Women&rsquo;s Economic Empowerment Project (TWEEP) and intends to apply part of the proceeds for consulting services.  The consulting services (&ldquo;Services&rdquo;",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "e65116ad29f9be6d",
+      "title": "MANAGEMENT, OPERATIONS AND MAINTENANCE SERVICES FOR CUANDO CUBANGO PROVINCE WATER SUPPLY SYSTEMS",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465908",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Request for Bids |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 53NC1/CUANDOCUBANGO/R/24  Procurement Method: RFB-Request for Bids  Scope of Contract:  Management, Operations and Maintenance Services for Cuando Cubango Province Water Supply Systems   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/26    Duration of Contract   36 Month(s)           Awarded Bidder(s):           SEURECA VEOLIA (889246)  SIRET NO. 592 065 528 00073 30 RUE MADELEINE VIONNET - 93300 AUBERVILLIER",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "a6f05a4763f4f317",
+      "title": "Procurement of vehicle for official use - Electric",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465883",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project | India | Contract Award | Request for Bids |   Contract Award   Project: P178254-Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project  Loan/Credit/TF Info: IBRD-97270  Bid/Contract Reference No: IN-DOADFW-554770-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Procurement of Vehicle for Official Use Electric   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/03/17    Duration of Contract   90 Day(s)           Awarded Bidder(s):           MAHINDRA AND MAHINDRA LIMITED (1091132)  MAHINDRA AND MAHINDRA LIMITED Mumbai MAHARASHTRA - 400101 Country: India      Evaluation Sco",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "4a210db60f2df61c",
+      "title": "Support with development of legislation for expansion of fixed Fisheries Aggregating Devices (FADs)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00465968",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "31-Aug-2026",
+      "snippet": "Unleashing the Blue Economy of the Caribbean (UBEC) | Caribbean | Request for Expression of Interest | Consultant Qualification  Selection |   &nbsp;REQUEST FOR EXPRESSIONS OF INTEREST    INDIVIDUAL CONSULTANT SELECTION (INDV)        Name of Project      UNLEASHING THE BLUE ECONOMY OF THE CARIBBEAN PROJECT (UBEC)        Loan No.      IDA-70870        Assignment Title      Support with development of legislation for expansion of fixed Fisheries Aggregating Devices (FADs)        Procurement Plan Ref Number      GD-MOIID-553530-CS-CQS        Country of Delivery       GRENADA        Date       31st August 2026       &nbsp;  The Government of Grenada has received financing from the World Bank toward the cost of the Unleashing the Blue E",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
     {
       "id": "14b9e10ad7451ab6",
       "title": "Regional Cluster No. 1: Design and Build of the Phase 4 and 5 Middle Mile Level 1 Fiber Optic Cable for Northern Mindanao and Caraga (Region 10 and Region 13)",
