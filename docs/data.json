@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T12:41:57.786373+00:00",
+  "generated_at": "2026-09-08T12:15:26.715010+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 10,
-  "total_count": 116,
+  "new_today_count": 18,
+  "total_count": 134,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 10
+      "matched": 19
     },
     "reliefweb": {
       "ok": true,
@@ -27,18 +27,272 @@
   },
   "items": [
     {
+      "id": "baf1b3e8b237f559",
+      "title": "Procurement of Equipment for Hainan One-health International Research Institution (Batch No. 2A)（3.3.1）",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467205",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "China Emerging Infectious Diseases Prevention, Preparedness and Response Project | China | Invitation for Bids | Request for Bids |  Invitation for Bids  Date:&nbsp;September 4, 2026  Bid No.:&nbsp;0733-26092892  1The Government of the People&rsquo;s Republic of China has received a loan from the World Bank to finance the Hainan Province Project under the World Bank Loan for Emerging Infectious Diseases Prevention, Preparedness and Response Project (Global &ldquo;One Health&rdquo; Hainan Demonstration Project), and intends to apply part of the proceeds of the loan to eligible payments under the contract for the Procurement of Equipment for the Hainan International One Health Research Institute &ndash; Second Batch, Package",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "ce34ece3cbbaeae8",
+      "title": "Procurement of MicroStation for the Survey Department under the allocation of the Irrigation Department",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467240",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Direct Selection |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: SLMOI/CRES/ID/G/DP/109  Procurement Method: DIR-Direct Selection  Scope of Contract:  Procurement of MicroStation for the Survey Department under the allocation of the Irrigation Department   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/27    Duration of Contract   14 Day(s)           Awarded Bidder(s):           COMINTO TECHNOLOGIES (PRIVATE) LIMITED (790343)  No. 252, Galle Road 2nd Floor Country: Sri Lanka ",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "d67253b48db7df4f",
+      "title": "PROCUREMENT OF ICT EQUIPMENT FOR PIU AND CHITEDZE RESEARCH STATION",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467369",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP | Eastern and Southern Africa | Contract Award | Request for Quotations |   Contract Award   Project: P177816-Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP  Loan/Credit/TF Info: IDA-E1840  Bid/Contract Reference No: MW-MOA-547077-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Supply of GPS (BUSINESS MACHINE)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/29    Duration of Contract   4 Week(s)           Awarded Bidder(s):           BUSINESS MACHINES (1073439)  Business Machines Limited P.O. Box 5095 Limbe - Blantyre Country: Malawi      Bid Price at Opening MWK 4930000.",
+      "matched_keywords": [
+        "GPS"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "6f0ae54e6537eb28",
+      "title": "Recruitment of a Focal Point for Seychelles",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467399",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Regional Emergency Preparedness & Access to Inclusive Recovery Project | Southwest Indian Ocean | Request for Expression of Interest | Individual Consultant Selection |  REQUEST FOR EXPRESSIONS OF INTEREST  (CONSULTING SERVICES &ndash; INDIVIDUAL CONSULTANT SELECTION)  Country: Eastern and Southern Africa (ESA)  Project: Regional Emergency Preparedness and Access to Inclusive Recovery (REPAIR)  Loan No./Credit No./Grant No.: TF0C5097-3E  Assignment Title: Recruitment of Seychelles Country Focal Point  Reference No.: MZ-REPAIR-495524-CS-INDV-2  African Risk Capacity Limited (ARC Ltd.) has received financing from the World Bank toward the cost of the Regional Emergency Preparedness and Access to Inclusive Recovery (REPAIR) Programme and intends to apply part of",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "c6a435adbad479a3",
+      "title": "Purchase of Fifteen (15) EV Vehicles",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467318",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Rwanda - Energy Access and Quality Improvement Project | Rwanda | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;   Procuring Agency:  Energy Development Corporation Limited (EDCL)-Rwanda   Name of Project:  Rwanda Energy Access and Quality Improvement Project (EAQIP)   Title:  Purchase of Fifteen (15) Electrical Vehicles   RFB No .: RW-REG/EDCL-569697-GO-RFB   Loan No./Credit No./Grant No.:  IDA-67760  &nbsp;   The Government of Rwanda  has received financing  from the World Bank toward the cost of the Energy Access and Quality Improvement Project and intends to apply part of the proceeds toward payments under the contract for Purchase of Fifteen (15) Electrical Veh",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "53830133d0d59620",
+      "title": "Supplier of Procured Goods; Equipment Procurement, Supply, Installation and Acceptance for the Upgrade Project of 3 Provincial-Level Core Laboratories for Risk Monitoring",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00466936",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "China Food Safety Improvement Project | China | Invitation for Bids | Request for Bids |   INVITATION FOR BIDS   Date: September 4, 2026  Tender No.: 0733-26084235  Invitation for Bids No.: 0733-26084235   1.    The Government of China has received a loan from the   World Bank  &nbsp;toward the cost of   the World Bank-financed Guangdong Provincial Agricultural Product Quality and Safety Improvement (Demonstration) Project  , and it intends to apply part of the proceeds of the loan to eligible expenditures under the Contract for   the Upgrade Project of Provincial-Level Core Laboratories for Risk Monitoring (Contract No.: GDEQ-003).     2.      CITIC International Tendering Co., L",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "04038b5141b427f8",
+      "title": "NMC (National Management Consultant) - Technical Support for CPMU and PIUs",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00463909",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Local Service Delivery Improvement Project | Indonesia | Request for Expression of Interest | Quality And Cost-Based Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES &ndash; FIRMS SELECTION)    Indonesia    Local Service Delivery Improvement Project   (P512328)    IBRD-99020    Project ID No. P512328   &nbsp;       Assignment Title      :      National Management Consultant Indonesia Local Service Delivery Improvement Project        Reference No      :      ID-PEIPD-DITJEN BINA BA-555163-CS-QCBS       The Government of Indonesia has received financing from the World Bank toward the cost of the  Local Service Delivery Improvement Project  (IBRD-99020) and intends to apply part of the proceeds for co",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "07299083fcc69e46",
+      "title": "Procurement of Backup Software Licenses",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467353",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Türkiye: Education for Job Market Readiness | Turkiye | Invitation for Bids | Request for Bids |   Notice for Bids    Country:  T&uuml;rkiye   Project Name:  T&uuml;rkiye: Education for Job Market Readiness Project (E4J)   Contract Title:  Procurement of Backup Software Licenses   Loan No./Credit No.:  98940-TR / P510381   RFB Reference No.:  GO-C1.1-03.01    The Ministry of National Education (MoNE), General Directorate of Innovation and Educational Technologies,  has received financing from the World Bank toward the cost of the  T&uuml;rkiye: Education for Job Market Readiness Project (E4J)  and intends to apply part of the proceeds toward payments under the contract for the  &ldquo;Pro",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "6c658f9fcb2c7806",
+      "title": "Strengthening an enabling Environment for Sea moss Aquaculture and Value added business development.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467405",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Unleashing the Blue Economy of the Caribbean (UBEC) | Caribbean | Request for Expression of Interest | Individual Consultant Selection |   Government of Saint Vincent and the Grenadines   &nbsp;    Unleashing the Blue Economy of the Caribbean (UBEC)    &nbsp;    CREDIT no. 7089-VC    &nbsp;   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    Assignment Title :  STRENGTHENING AN ENABLING ENVIRONMENT FOR SEAMOSS AQUACULTURE AND VALUE-ADDED BUSINESS DEVELOPMENT.    Reference No: SVGUBEC-C-IC-24   The Government of Saint Vincent and the Grenadines (GoSVG) has received financing from the World Bank toward the cost of the SVG Unleashing the Blue Economy of the Caribbean (UBEC) project and intends",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "5a6db29550051d1c",
+      "title": "Construction of Livestock Value Chain Hub in Akure",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467238",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Livestock Productivity and Resilience Support Project | Nigeria | Invitation for Bids | Request for Bids |   Specific Procurement Notice    Request for Bids Works    (One-Envelope Bidding Process without Prequalification)    Employer:  Ondo State  Ministry of Agriculture and forestry, Animal Husbandry Services Department    Project:   Livestock Productivity and Resilience Support Project (L-PRES)    Country:  Nigeria   Project:  Livestock Productivity and Resilience Support Project, (L-PRES)   Contract Title:   CONSTRUCTION OF LIVESTOCK VALUECHAIN HUB   PROJECT   AKURE,   ONDO STATE    Credit No .: IDA 70570   RFB No:   NG-ONDO L-PRES-532024-CW-RFB    Issued on:   Issued on: 7th September. 2026    ",
+      "matched_keywords": [
+        "Ministry of Agriculture"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "112375ed7ac22eb5",
+      "title": "Supply and Delivery of Laptops for Data Management Towards KEMIS Under Kenya Primary Education Equity in Learning (KPEEL) Program",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467348",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Primary Education Equity in Learning Program | Kenya | Contract Award | Request for Bids |   Contract Award   Project: P176867-Primary Education Equity in Learning Program  Loan/Credit/TF Info: IDA-70670  Bid/Contract Reference No: KE-MOE-546770-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  SUPPLY AND DELIVERY OF LAPTOPS FOR DATA MANAGEMENT FOR KEMIS UNDER KENYA PRIMARY EDUCATION EQUITY IN LEARNING (KPEEL)PROGRAM   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/01    Duration of Contract   4 Month(s)           Awarded Bidder(s):           FORTUNE BESTBUYS AFRICA (1070247)  P.O BOX 41037-80100 MOMBASA Country: Kenya      Bid ",
+      "matched_keywords": [
+        "data management"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "7d322e4b5093d50c",
+      "title": "Site Assessment, Design, and Supervision of Upgrading Investments in\nHarvest and Post-Harvest Fisheries Infrastructure: Calliaqua Fisheries Centre",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467403",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Unleashing the Blue Economy of the Caribbean (UBEC) | Caribbean | Request for Expression of Interest | Quality And Cost-Based Selection |  &nbsp;  &nbsp;   Government of Saint Vincent and the Grenadines     Unleashing the Blue Economy of the Caribbean (UBEC)      CREDIT no. 7089-VC     REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)   Consultancy Services for Site Assessment, Design, and Supervision of Upgrading Investments In Harvest and Post-Harvest Fisheries Infrastructure: Calliaqua Fisheries Centre.   Reference No: SVGUBEC-C-QCBS-8   The Government of Saint Vincent and the Grenadines (GoSVG) has received financing from the World Bank toward the cost of the SVG Unleashing the Blue Economy",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "5b61f4ba3b5739b3",
+      "title": "IT Consultant",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467290",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Reducing Rural Poverty and Malnutrition Project II (RRPM II) | Lao People's Democratic Republic | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (RE- ADVERTISEMENT)    (Ref. No. C1-IC-04.1: National IT Consultant; Project ID No. P178883, IDA Credit No. 7431-LA)   The Government of Lao PDR (GOL) is implementing the Reducing Rural Poverty and Malnutrition Project II (RRPMP II) (P178883) from 2024 to 2029 with financing from the World Bank (WB).&nbsp; The RRPMP II will implement a nutrition-sensitive social protection program or a Conditional Cash Transfer (CCT) Program to address issues of poverty and malnutrition and develop and implement mechanism to ensure multi-sectoral coordination, planning, mo",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "f1faeebffccd47d0",
+      "title": "Hiring of Training Partner - Rejuvenation of Coffee",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467293",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project | India | Contract Award | Direct Selection |   Contract Award   Project: P178254-Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project  Loan/Credit/TF Info: IBRD-97270  Bid/Contract Reference No: IN-DOADFW-502938-NC-DIR  Procurement Method: DIR-Direct Selection  Scope of Contract:  Hiring of Training Partner Coffee   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/12/08    Duration of Contract   12 Month(s)           Awarded Bidder(s):           THE COFFEE BOARD (1123675)  PB No 5366, Bengaluru - 560001 Country: India      Bid Price at Opening INR 17665000.00  Evaluated Bid Price INR 17665",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "a1aba191cc7f64e0",
+      "title": "Recrutement d'un Cabinet pour la réactualisation de l'APD, DAO, EIES pour les travaux prioritaires pour la gestion des inondations (Tamatave, Majunga et Tuléar)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467342",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P180171-Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1)  Loan/Credit/TF Info: IDA-73260  Bid/Contract Reference No: MD-CPGU-C007  Procurement Method: QCBS-Slection fonde sur la qualit et le cot  Scope of Contract:  RECRUTEMENT D'UN CABINET ASSURANT L'ETUDES APD ET APS TOAMSINA ET MAHAJANGA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/11/25    Duration of Contract   12 Month(s)    Minimum Qualifying Score   75          Awarded Firm(s):           SETEC MADAGASCAR (935663)  LOT IBM 23 TSARALALANA",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "6725106f2dc797bb",
+      "title": "Supply and Installation of Integrated Hammer Mills for Agricultural Lime Production (Lime Crusher Machines)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00437257",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Food Systems Resilience Program for Eastern and Southern Africa | Eastern and Southern Africa | Invitation for Bids | Request for Bids |   (Two-Envelope Bidding Process)   Country : &nbsp;&nbsp;  Ethiopia    Name of Project:&nbsp;  Ethiopia Food System Resilience Program    Contract Title: &nbsp; Supply and Installation&nbsp;Supply and Installation of Integrated Hammer Mills for Agricultural Lime Production (Lime Crusher Machines) including construction facilities     Loan No./Credit No./ Grant No .: &nbsp;   IDA Credit   &ndash;71560-ET    RFB Reference No .: &nbsp;&nbsp;  ET-MOA-510856-GO-RFB     The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Ethiopia Food System ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "577bc3388de93088",
+      "title": "Procurement of Equipment for Hainan One-health International Research Institution (Batch No. 2B)（3.3.1）",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467206",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "China Emerging Infectious Diseases Prevention, Preparedness and Response Project | China | Invitation for Bids | Request for Bids |  Invitation for Bids  Date:&nbsp;September 4, 2026  Bid No.:&nbsp;0733-26092917  1The Government of the People&rsquo;s Republic of China has received a loan from the World Bank to finance the Hainan Province Project under the World Bank Loan for Emerging Infectious Diseases Prevention, Preparedness and Response Project (Global &ldquo;One Health&rdquo; Hainan Demonstration Project), and intends to apply part of the proceeds of the loan to eligible payments under the contract for the Procurement of Equipment for the Hainan International One Health Research Institute &ndash; Second Batch, Package",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
+      "id": "a283e461c59d8546",
+      "title": "Recruitment of Monitoring and Evaluation Officer",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467357",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "07-Sep-2026",
+      "snippet": "Eswatini Youth Employment Opportunities Project | Eswatini | Request for Expression of Interest | Consultant Qualification  Selection |   MONITORING AND EVALUATION OFFICER   Reporting directly to the Project Manager, the Monitoring and Evaluation Officer will design and implement the project&#39;s M&amp;E framework, collect and analyze performance data and provide reports and feedback to enhance project effectiveness and support informed decision-making.    KEY PERFORMANCE AREAS:     Design and implement the project&rsquo;s M&amp;E framework, including indicators, baselines, targets and data collection tools.  Develop and maintain databases and systems to track project inputs, outputs, outcomes and impacts in alignment with th",
+      "matched_keywords": [
+        "monitoring and evaluation"
+      ],
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    {
       "id": "c2f30a760111325b",
       "title": "Consultancy Services for Procurement of Software Development, Update, and Maintenance Support Services for the Infectious Disease Surveillance and Early Warning System (İzci) Web and Mobile Application",
       "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00460434",
       "source": "worldbank",
       "source_name": "World Bank Procurement Notices",
-      "published": "31-Aug-2026",
+      "published": "07-Sep-2026",
       "snippet": "Türkiye Preparedness for Public Health Emergencies Project | Turkiye | Request for Expression of Interest | Quality And Cost-Based Selection |   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;REQUEST FOR EXPRESSIONS O",
       "matched_keywords": [
         "early warning system"
       ],
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01"
+      "last_seen": "2026-09-08"
     },
     {
       "id": "1ec50306eb0ddbcb",
