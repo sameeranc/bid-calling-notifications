@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T12:15:26.715010+00:00",
+  "generated_at": "2026-09-15T12:50:23.441314+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 18,
-  "total_count": 134,
+  "new_today_count": 9,
+  "total_count": 143,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 19
+      "matched": 9
     },
     "reliefweb": {
       "ok": true,
@@ -16,16 +16,143 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 109,
+      "fetched": 105,
       "matched": 0
     },
     "cbsl": {
       "ok": true,
-      "fetched": 178,
+      "fetched": 176,
       "matched": 0
     }
   },
   "items": [
+    {
+      "id": "ffe491dbefb7c154",
+      "title": "Implement training programmes on the principles of digital transformation, cybersecurity, artificial intelligence and cloud computing",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468461",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Mozambique Digital Acceleration Project | Mozambique | Request for Expression of Interest | Quality And Cost-Based Selection |  &nbsp;   REPUBLIC OF MOZAMBIQUE    MINISTRY OF COMUNICATIONS AND DIGITAL TRANSFORMATION    Mozambique Digital Acceleration Project (MDAP)   &nbsp;    REQUEST FOR EXPRESSIONS OF INTEREST (Firms Selection)     Assignment:  Implement of training programs on the principles of digital transformation, cybersecurity, artificial intelligence and cloud computing.   Project ID : P176459    Credit No.    IDA-71820-MZ    Contract Reference No . 78A/MDAP/MCTD/QCBS/25  The Government of Mozambique has received financing from the World Bank toward the cost of the Mozambique Digital Acceleration Project and ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "cb280c9f5602e0bc",
+      "title": "Environmental & Social Management Plan (ESMP) for the National Drug Quality Control Laboratory (Sub Activity Number 3.3.8)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468274",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Botswana Health Emergency Preparedness, Response and Resilience Project Using the Multi-Phase Progra | Botswana | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST   (CONSULTING SERVICES &ndash; FIRMS SELECTION)    Botswana Health Emergency Preparedness, Response and Resilience Project    Using the Multi-Phase Programmatic Approach (MPA)   &nbsp;   Loan No.:  98750-BW  &nbsp;   Assignment Title:  Consulting Services to Carry Out an Environmental and Social Management Plan (ESMP) for the National Drug Quality Control Laboratory (NDQCL)   Reference No.:  BW-BOMRA-561248-CS   1. Background   The Republic of Botswana has received financing from the World Bank toward the cost of implementing the  Health Emergency Prepared",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "e0c3dc12aacac55d",
+      "title": "Selection of Consultancy Services for Detailed Engineering Design and Construction Supervision of:\nWater Supply Systems; and\nThe Kotu Faecal Sludge Treatment Plant, together with the Rehabilitation of Sanitation Infrastructure in Kotu and Banjul.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468646",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "The Gambia Water and Sanitation Project | Gambia, The | Request for Expression of Interest | Quality And Cost-Based Selection |  REQUEST FOR EXPRESSIONS OF INTEREST  (CONSULTING SERVICES &ndash; FIRMS SELECTION)  REPUBLIC OF THE GAMBIA  The Gambia Water and Sanitation Project (WASAP)  Project ID: P513113  Assignment Title:   Consultancy Services for Feasibility Studies, Detailed Engineering Design, Procurement Support, Construction Supervision, and Defects Liability Support for Urban Water Supply Systems in Kombo East and Urban Sanitation Infrastructure in Kotu and Banjul   Reference No.: GM-NAWEC-565968-CS-QCBS  The Republic of The Gambia has received financing from the World Bank toward the cost of the Gambia Water a",
+      "matched_keywords": [
+        "World Bank",
+        "feasibility studies"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "a355eff69c38c0d8",
+      "title": "Procurement of Solid Waste Equipment",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468795",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Unleashing the Blue Economy of the Caribbean (UBEC) | Caribbean | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;  &nbsp;   Request for Bids    Goods    (Two-Envelope Bidding Process)   &nbsp;   Country:  Saint Lucia   Name of Project:  UNLEASHING THE BLUE ECONOMY OF THE CARIBBEAN (UBEC)   Contract Title:  Procurement of Solid Waste Equipment   Project ID P171833 IDA Credit No. 70880    RFB Reference No.:   LC-MOFED-520306-GO-RFB-SWE-25   &nbsp;   The Government of Saint Lucia  has received  financing from the World Bank toward the cost of the Unleashing the Blue Economy of the Caribbean (UBEC) Project, and intends to apply part of the proceeds toward payments under ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "6593e10c9d8b9787",
+      "title": "Consultancy Services for Dam Safety Archiving, Information Management and Decision Support System",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468620",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Jordan Water Sector Efficiency Project | Jordan | Request for Expression of Interest | Quality And Cost-Based Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES/FIRMS SELECTION)   &nbsp;  HASHEMITE KINGDOM OF JORDAN      JORDAN WATER SECTOR EFFICIENCY PROGRAM     IBRD Loan No.&nbsp;9560-JO, CFF TF No. TF0C1892, AFD No. CJO 1141 01P   &nbsp; Assignment Title:   Consultancy Services for Dam Safety Archiving, Information Management and Decision Support System    Reference No .:  JO-JVA-064-CS-QCBS   &nbsp;  The Hashemite Kingdom of Jordan, Ministry of Water and Irrigation, has received financing from the International Bank for Reconstruction and Development (World Bank), the Agence Fran&ccedil",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "06c2dc4bca25a198",
+      "title": "CONSULTANCY SERVICES TO GUIDE DISCOS SUBMISSION OF END-TO-END FEEDER UPGRADE PROJECT FOR DISREP (LOT 4-BENIN, ENUGU AND PORT HARCOURT)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468653",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Nigeria Distribution Sector Recovery Program | Nigeria | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    NIGERIA    DISTRIBUTION SECTOR RECOVERY PROGRAM (DISREP)    CREDIT NO: 9206-NG    PROJECT ID No. P172891    Date: 14th September, 2026    ASSIGNMENT TITLE:  Consultancy Services to Guide DisCos Submission of End-to-End Feeder Upgrade Project for DISREP   REFERENCE NO.:   DREP-CQS-7A, 8A, 9A &amp; 10A   The Federal Government of Nigeria has applied for financing from the World Bank through the International Bank for Reconstruction and Development (IBRD) toward the cost of the Distribution Sector Recovery P",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "118938edf57e10c1",
+      "title": "CONSULTANCY SERVICES TO GUIDE DISCOS SUBMISSION OF END-TO-END FEEDER UPGRADE PROJECT FOR DISREP (LOT 3-EKO, IBADAN AND IKEJA)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468651",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Nigeria Distribution Sector Recovery Program | Nigeria | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    NIGERIA    DISTRIBUTION SECTOR RECOVERY PROGRAM (DISREP)    CREDIT NO: 9206-NG    PROJECT ID No. P172891    Date: 14th September, 2026    ASSIGNMENT TITLE:  Consultancy Services to Guide DisCos Submission of End-to-End Feeder Upgrade Project for DISREP   REFERENCE NO.:   DREP-CQS-7A, 8A, 9A &amp; 10A   The Federal Government of Nigeria has applied for financing from the World Bank through the International Bank for Reconstruction and Development (IBRD) toward the cost of the Distribution Sector Recovery P",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "40de30e32a96c30c",
+      "title": "Central Asia Irrigation Efficiency Program",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467235",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "Central Asia Irrigation Efficiency Program | Central Asia | General Procurement Notice |   GENERAL PROCUREMENT NOTICE   &nbsp;   Kyrgyz Republic     CENTRAL ASIA IRRIGATION EFFICIENCY PROGRAM     GRANT: TF E6910-KG     Project ID No. P515973   The Kyrgyz Republic has received World Bank-approved grant in the amount of US$ 650&nbsp;000 from the Grant Facility for Project Preparation World Bank toward the cost of the support for preparation of the Kyrgyz Republic National Irrigation Program (NIIP) for the second phase of the Central Asia Water Efficiency and Conservation MPA Program, and it intends to apply part of the proceeds to payments for consulting services and goods to be pro",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "4afe566e93416ab1",
+      "title": "Owner's engineering services for works supervision in The Gambia and in Togo",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00468135",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "14-Sep-2026",
+      "snippet": "WA-REMP MPA Phase II: Regional Access Increase and Sustainable Energy | Western and Central Africa | Request for Expression of Interest | Quality And Cost-Based Selection |    English Version     REGIONAL ACCESS TO ELECTRICITY AND INTEGRATION OF SUSTAINABLE ENERGY    RAISE - Regional Access Increase and Sustainable Energy (P515184) ECOWAS - THE GAMBIA - TOGO     Request for Expression of Interest - REOI&nbsp;     Financing: World Bank / IDA    Countries:  The Gambia and Togo   Name of Project:  RAISE - Regional Access Increase and Sustainable Energy (P515184)   Assignment Title:  Owner&#39;s engineering services for works supervision in The Gambia and in Togo   Reference No .:  NG-ECOWAS-DEM-568125-CS-QCBS   The Republics of The Gambia and Togo have received fina",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
     {
       "id": "baf1b3e8b237f559",
       "title": "Procurement of Equipment for Hainan One-health International Research Institution (Batch No. 2A)（3.3.1）",
