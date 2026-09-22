@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T12:50:23.441314+00:00",
+  "generated_at": "2026-09-22T12:47:27.999981+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 9,
-  "total_count": 143,
+  "new_today_count": 7,
+  "total_count": 150,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 9
+      "matched": 7
     },
     "reliefweb": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 105,
+      "fetched": 0,
       "matched": 0
     },
     "cbsl": {
@@ -26,6 +26,106 @@
     }
   },
   "items": [
+    {
+      "id": "f27db9bc360276b4",
+      "title": "Procurement of Transaction Advisor – Project Restructuring and Commercial Advisory",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00469943",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "South Sudan Energy Sector Access and Institutional Strengthening Project | South Sudan | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSION OF INTEREST    (Consulting Services &ndash; Individual Selection)   Country:  Republic of South Sudan   Project:  South Sudan Energy Sector Access and Institutional Strengthening Project (ASSIST)    Grant No.:  E166-SS   Assignment Title:  Transaction Advisor   Reference No.:  SS-MOED-567736-CS-INDV   The Government of South Sudan (GoSS) has received funding from the World Bank towards the cost of implementing Access and Institutional Strengthening Project (ASSIST) and is being implemented by the Ministry of Energy and Dams (MoED) and South Sudan Electricity Corporatio",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
+    {
+      "id": "1b4e398a0f4272d2",
+      "title": "Hiring of Consultancy Firm to conduct Data Collection and Verification",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00469982",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "Technical Assistance for Sustainable Agriculture Transformation in the Philippines Project | Philippines | Request for Expression of Interest | Quality Based Selection |  REQUEST FOR EXPRESSION OF INTEREST (EOI) FOR CONSULTING SERVICES FOR THE PHILIPPINES SUSTAINABLE AGRICULTURE TRANSFORMATION (PSAT) PROGRAM AND THE TECHNICAL ASSISTANCE FOR SUSTAINABLE AGRICULTURAL TRANSFORMATION (TASAT) IN THE PHILIPPINES PROJECT INDEPENDENT VERIFICATION AGENCY (IVA)  1. The Government of the Philippines (GoP) has received a Grant from the World Bank toward the cost of  Hiring of Consultancy Firm (Independent Verification Agent) for Data Collection and Verification of Philippines Sustainable Agricultural Transformation (PSAT) Program&rsquo;s Disbursement Linked Results (DLRs)",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
+    {
+      "id": "6c5c252555af9a54",
+      "title": "Fornecimento e entrega de 200 kits profissionais para cooperativas agricolas para jovens empreendedores 1º Lote",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00470058",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "Angola Youth Employment Opportunities Project | Angola | Invitation for Bids | Request for Bids |   Specific Procurement Notice    Request for Bids    Goods    (Two-Envelope Bidding Process)    Country:  Angola   Name of Project:  Angola Youth Employment Opportunities Project   Contract Title:  Procurement of 200 professional kits for agricultural Cooperatives for Young Entrepreneurs   Project ID.:  P505158   RFB Reference No.:  AO-INEFOP-554506-GO-RFB  &nbsp;   The Government of Angola has received financing from the World Bank toward the cost of the Angola Youth Employment Opportunities Project and intends to apply part of the proceeds toward payments under the contract  Procurement of 2",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
+    {
+      "id": "150873dc8d3a0932",
+      "title": "Services de consultant pour appui technique de la Croix Rouge Internationale (CRI) à l'UP-PRCCB pour l'élaboration des Priorités d'Actions Climatiques Collinaires (PACC) dans la zone d'intervention du PRCCB",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00470077",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "Burundi Colline Climate Resilience Project | Burundi | Contract Award | Direct Selection |   Contract Award   Project: P180864-Burundi Colline Climate Resilience Project  Loan/Credit/TF Info: IDA-E3940  Bid/Contract Reference No: BI-MINEAGRIE-BCCR PIU-513057-CS-CDS  Procurement Method: CDS-Slection de consultants par entente directe  Scope of Contract:  Appui technique a lUGP-PRCCB dans llaboration des priorits dactions climatiques collinaires (PACC) dans la zone dintervention du PRCCB   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/20    Duration of Contract   5 Month(s)           Awarded Firm(s):           CENTRE CLIMATIQUE DE LA CROIX ROUGE INT",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
+    {
+      "id": "a31aea6e62841df4",
+      "title": "Supply of ICT and electronic equipment for PIU Office",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00470035",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "Scaling-up Locally Led Climate Action Program | Tanzania | Contract Award | Request for Quotations |   Contract Award   Project: P180742-Scaling-up Locally Led Climate Action Program  Loan/Credit/TF Info: IDA-78540  Bid/Contract Reference No: TZ-PO-RALG-524278-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Supply of ICT and Virtual Meeting Equipment for Program PIT Office CONTRACT NO. 56/2025/2026/G/110    Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/09    Duration of Contract   30 Day(s)           Awarded Bidder(s):           .ALLTIME TECHNOLOGY LIMITED (897188)  Street: Manara, PLOT NO. 12, Block c, House No 5 DAR VES SALAAM ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
+    {
+      "id": "dc57a54df644ec4b",
+      "title": "Non-Consulting Service for Port Public Health Emergency Response Exercises and Producing Exercise Videos.（1.4.4）",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00470174",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "China Emerging Infectious Diseases Prevention, Preparedness and Response Project | China | Invitation for Bids | Request for Quotations |  Request for Quotations &ndash; Non-Consulting Services (RFQ)  Project Name: World Bank Loan Hainan Project for Prevention, Preparedness and Response to Emerging Infectious Diseases (Global One Health Hainan Demonstration Project)  Contract Name: Emergency Response Exercises for Public Health Emergencies at Ports of Entry, Development of Training Materials, and Health Quarantine Skills Competition  Contract No.: HN-NS-12  Date of Invitation: August 31, 2026  Client: Haikou Customs District, People&rsquo;s Republic of China  1China CNTIC Tendering Co., Ltd. (the &ldquo;Procurement Agent&rdquo;)",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
+    {
+      "id": "60fd62ce46ea90f3",
+      "title": "Construction of irrigation canals and weirs / intake gates at Chibile and Ngulula in Mungwi district and Iyendwe in Mpulungu district of Northern province",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00467661",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "21-Sep-2026",
+      "snippet": "Transforming Landscapes for Resilience and Development in Zambia II | Zambia | Invitation for Bids | Request for Bids |   REPUBLIC OF ZAMBIA    OFFICE OF THE PRESIDENT &ndash; PROVINCIAL ADMINISTRATION    NORTHERN PROVINCE   &nbsp;   REQUEST FOR BIDS (RFB)   &nbsp;   RFB No :  ZM-MGEE-570646-CW-RFB  &ndash; &ldquo;CONSTRUCTION OF IRRIGATION CANALS AND WEIRS IN MUNGWI AND MPULUNGU DISTRICTS OF NORTHERN PROVINCE UNDER THE TRANSFORMING LANDSCAPES FOR RESILIENCE AND DEVELOPMENT (TRALARD) II PROJECT&rdquo;.  &nbsp;  The Government of the Republic of Zambia (GRZ) through Ministry of Green Economy and Environment has received financing from the World Bank (WB), Nordic Development Fund (NDF), Climate Investment Funds (",
+      "matched_keywords": [
+        "World Bank",
+        "climate"
+      ],
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22"
+    },
     {
       "id": "ffe491dbefb7c154",
       "title": "Implement training programmes on the principles of digital transformation, cybersecurity, artificial intelligence and cloud computing",
