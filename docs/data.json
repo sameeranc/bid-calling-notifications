@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T12:47:27.999981+00:00",
+  "generated_at": "2026-09-29T14:15:58.450959+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
   "new_today_count": 7,
-  "total_count": 150,
+  "total_count": 157,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 7
+      "matched": 8
     },
     "reliefweb": {
       "ok": true,
@@ -16,16 +16,117 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 0,
+      "fetched": 104,
       "matched": 0
     },
     "cbsl": {
       "ok": true,
-      "fetched": 176,
+      "fetched": 177,
       "matched": 0
     }
   },
   "items": [
+    {
+      "id": "a62dd63f65cc80ed",
+      "title": "Firm Services for Environmental impact and damage Assessment of Rohingya inhabited area and a project preparation for ecosystem restoration with restoration activities followed by feasibility study",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471542",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Host and Rohingya Enhancement of Lives Project | Bangladesh | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P501274-Host and Rohingya Enhancement of Lives Project  Loan/Credit/TF Info: IDA-E3250  Bid/Contract Reference No: DOE-S-7  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Environmental Impact and Damage Assessment of the Rohingya Inhabited Area, and a Project Preparation for Ecosystem Restoration with restoration activities Followed by Feasibility Study   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/28    Duration of Contract   12 Month(s)    Minimum Qualifying Score   75          Awarded Firm(s): ",
+      "matched_keywords": [
+        "feasibility study"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "c5bee3699b0868b8",
+      "title": "Rehabilitation Works for the GABHIC Head Office and the GABHIC Offices in Ondjiva and Menongue (3 Lots)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471683",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Request for Quotations |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 4W2/GABHIC-HO-ONDJIVA-MENONGUE/R/25  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  OBRAS DE REABILITAO DA SEDE DO GABHIC EM LUANDA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/28    Duration of Contract   3 Month(s)           Awarded Bidder(s):           PARBEN CONSTRUO, MANUTENO, FISCALIZAO & CONSULTORIA LDA (1126862)  Bairro Hoji Ya Henda, Rua 11 de NovembroLuanda - Angola Country:",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "fba68b25028c54ff",
+      "title": "MANAGEMENT, OPERATIONS AND MAINTENANCE SERVICES FOR ZAIRE PROVINCE WATER SUPPLY SYSTEMS",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471593",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Request for Bids |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 51NC1/ZAIRE/R/24  Procurement Method: RFB-Request for Bids  Scope of Contract:  Management, Operations and Maintenance Services for Zaire Province Water Supply Systems   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/24    Duration of Contract   36 Month(s)           Awarded Bidder(s):           INDAQUA  INDSTRIA E GESTAO DE GUAS, S.A. (1075052)  Rua Dr. Eduardo Torres, 24 4450-117 Matosinhos Portugal Country",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "df7dcb6eefdef5ea",
+      "title": "Hiring Project Manager for Childcare Expansion Unit at MoSD",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471608",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Enhancing Women Economic Opportunities in Jordan Operation | Jordan | Request for Expression of Interest | Individual Consultant Selection |  REQUEST FOR EXPRESSIONS OF INTEREST (REOI) Individual Consulting Services Hashemite Kingdom of Jordan Project: Enhancing Women Economic Opportunities in Jordan  A leading government institution has received financing from the World Bank to support the implementation of the Enhancing Women Economic Opportunities in Jordan project and intends to apply part of the proceeds to hire qualified and eligible individual consultants for the following consulting services:       Title of Consulting Service     Reference No.     Link for Terms of Reference      Hiring Project Manager for Childcare Expansi",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "c62f84306b4afc35",
+      "title": "Recrutement d’un Spécialiste en développement des MPME du PRETE",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471663",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Burundi Jobs and Economic Transformation Project | Burundi | Request for Expression of Interest | Individual Consultant Selection |    SOLLICITATION DE MANIFESTATIONS D&rsquo;INTERET    &nbsp;   Pays&nbsp;: Burundi    Nom du Projet&nbsp;: Projet pour l&rsquo;Emploi et la Transformation Economique (PRETE)    Num&eacute;ro de Pr&ecirc;t/Cr&eacute;dit/Don: &nbsp;Don IDA N&deg; E-2650-BI    N&deg; du projet: P172988   &nbsp;   Intitule de la mission :   Sp&eacute;cialiste en Micro, Petites et Moyennes Entreprises (MPME)   du PRETE    Num&eacute;ro de r&eacute;f&eacute;rence  (selon le Plan de Passation des march&eacute;s) :  BI-ADB-571156-CS-INDV   La R&eacute;publique du Burundi a obtenu un financement de la Banque mondiale p",
+      "matched_keywords": [
+        "ADB"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "88a76408f70cb2eb",
+      "title": "Rehabilitation of Shelters (Public Schools)\nBatch 1: Lot 1, Lot 2 and Lot 3",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471722",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Lebanon Emergency Assistance Project | Lebanon | Invitation for Bids | Request for Bids |  COUNCIL FOR DEVELOPMENT AND RECONSTRUCTION  BEIRUT - LEBANON  &nbsp;   Specific Procurement Notice    Template    Request for Bids    Small Works    (One-Envelope Bidding Process)   &nbsp;   Country:   Lebanon    Name of Project:   Lebanon Emergency Assistance Project (LEAP)    Contract Title: Rehabilitation of Shelters (Public Schools) &ndash; Batch 1 (Lot 1, Lot 2 &amp; Lot 3)    Loan No.: 9841 - LB  &nbsp;     RFB Reference No.: LEAP-SH-SW-MEHE- Batch 1   &nbsp;  1. The Republic of Lebanon (hereinafter called &ldquo;Borrower&rdquo;) has received financing from the World Bank toward the cos",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "e5753aaf075bd3ce",
+      "title": "Rehabilitation Works for the GABHIC Head Office and the GABHIC Offices in Ondjiva and Menongue (3 Lots)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471684",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "28-Sep-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Request for Quotations |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 4W2/GABHIC-HO-ONDJIVA-MENONGUE/R/25  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Instalao e Configurao dos elementos de Rede de TILote 2   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/28    Duration of Contract   2 Month(s)           Awarded Bidder(s):           CMTECH SOLUES (SU), LDA - PRESTAO DE SERVIOS (1126869)  Bairro Comercial, Zona do Benfica, Prdio da Polica Econmica 1 andar",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
     {
       "id": "f27db9bc360276b4",
       "title": "Procurement of Transaction Advisor – Project Restructuring and Commercial Advisory",
@@ -46,13 +147,13 @@
       "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00469982",
       "source": "worldbank",
       "source_name": "World Bank Procurement Notices",
-      "published": "21-Sep-2026",
+      "published": "28-Sep-2026",
       "snippet": "Technical Assistance for Sustainable Agriculture Transformation in the Philippines Project | Philippines | Request for Expression of Interest | Quality Based Selection |  REQUEST FOR EXPRESSION OF INTEREST (EOI) FOR CONSULTING SERVICES FOR THE PHILIPPINES SUSTAINABLE AGRICULTURE TRANSFORMATION (PSAT) PROGRAM AND THE TECHNICAL ASSISTANCE FOR SUSTAINABLE AGRICULTURAL TRANSFORMATION (TASAT) IN THE PHILIPPINES PROJECT INDEPENDENT VERIFICATION AGENCY (IVA)  1. The Government of the Philippines (GoP) has received a Grant from the World Bank toward the cost of  Hiring of Consultancy Firm (Independent Verification Agent) for Data Collection and Verification of Philippines Sustainable Agricultural Transformation (PSAT) Program&rsquo;s Disbursement Linked Results (DLRs)",
       "matched_keywords": [
         "World Bank"
       ],
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22"
+      "last_seen": "2026-09-29"
     },
     {
       "id": "6c5c252555af9a54",
