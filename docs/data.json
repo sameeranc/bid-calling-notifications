@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T14:15:58.450959+00:00",
+  "generated_at": "2026-10-06T14:24:39.779468+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 7,
-  "total_count": 157,
+  "new_today_count": 8,
+  "total_count": 165,
   "last_run_status": {
     "worldbank": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 104,
+      "fetched": 106,
       "matched": 0
     },
     "cbsl": {
@@ -26,6 +26,119 @@
     }
   },
   "items": [
+    {
+      "id": "e1302dc5c2c1c50d",
+      "title": "Procurement of 50.000 Interactive Boards",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00472490",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Türkiye: Education for Job Market Readiness | Turkiye | Invitation for Bids | Request for Bids |   SPECIFIC PROCUREMENT NOTICE   &nbsp;   Country:  T&uuml;rkiye   Name of Project:  T&Uuml;RKYE: Education for Job Market Readiness Project (E4J)   Contract Title:  Procurement of  50,000 Interactive Boards  for Inclusive, Accessible and Equitable Digital Contents in Classrooms   Loan No./Credit No./ Grant No.:  98940-TR / P510381   RFB Reference No.:  GO-C1.1-01  &nbsp;   The  Ministry of National Education of T&uuml;rkiye  has received financing from the World Bank toward the cost of the  T&Uuml;RKYE: Education for Job Market Readiness Project  and intends to apply part of the proceeds towar",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "5f48981cb952f504",
+      "title": "Printing of 2,000 copies of Grievance Redress Mechanism (GRM) Handbooks and 500 copies of Registers under IFPA-CD Project",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473066",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project | Uganda | Contract Award | Request for Quotations |   Contract Award   Project: P170466-Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project  Loan/Credit/TF Info: IDA-65920  Bid/Contract Reference No: UG-MWE-450422-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Printing services for 2000 Copies of GRM handbooks and 500 copies of GRM Registers under IFPA-CD Project.   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2024/11/11    Duration of Contract   30 Day(s)           Awarded Bidder(s):           KEMEN UGANDA LIMITED (920346)  PLOT 183, TUFFNEL DRIVEUPPER ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "4a17326fde5b9a03",
+      "title": "Provision of a contractor to construct minor works and provide irrigation equipment for watershed management activities",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473046",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Smallholder Agriculture Development Project - II | Lesotho | Contract Award | Request for Quotations |   Contract Award   Project: P165228-Smallholder Agriculture Development Project - II  Loan/Credit/TF Info: IDA-64220  Bid/Contract Reference No: LS-MAFS-519582-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Construction of minor works for watershed management activities- Mosaqane, Tsitsong, Makhetheng, Pulane and Nkhunkhu (Lot A)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/23    Duration of Contract   11 Month(s)           Awarded Bidder(s):           HS CONSTRUCTION (666050)  HS ConstructionMaseru, Lesotho Country: Lesotho  ",
+      "matched_keywords": [
+        "watershed management"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "9f231b864b9493b0",
+      "title": "Procurement of Individual Consultancy Services for Project Implementation Support-Technical Expert (Information Technologies Specialist)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473057",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Türkiye: Education for Job Market Readiness | Turkiye | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    FOR INDIVIDUAL CONSULTANT    Republic of Turkey    T&uuml;rkiye: Education for Job Market Readiness Project (E4J) P510381   Loan No. 98940-TR   Assignment Title:&nbsp; Procurement of Individual Consultancy Services for Project Implementation Support   Assignment:  Technical Expert (Information Technologies Specialist)   Reference No .: CS-C3.2-Y15  The Republic of T&uuml;rkiye has obtained a loan from the International Bank for Reconstruction and Development (IBRD &ndash; World Bank) to finance the expenditures under the T&uuml;rkiye: Education for Job ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "e19a6b8a1556f446",
+      "title": "Specialised TA (short-term)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00472961",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Second Lao PDR Competitiveness and Trade Project | Lao People's Democratic Republic | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (INDIVIDUAL CONSULTANTS)    LAO PEOPLE&rsquo;S DEMOCRATIC REPUBLIC    MINISTRY OF INDUSTRY AND COMMERCE    National Implementation Unit    Second Lao PDR Competitiveness and Trade Project (LCTP 2) (P512702)    International Inclusive Trade Consultant (Ref. No. A1.1.3)   The Ministry of Industry and Commerce (MOIC) of the Government of Lao PDR has received a grant from Australia&rsquo;s Department of Foreign Affairs and Trade (DFAT) through the Umbrella Facility for Trade Multi-Donor Trust Fund 2.0, administered by the World Bank, toward the cost of the Sec",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "914bf5f66e41e665",
+      "title": "Consulting Services for preparation of Environmental and Social Impact Assessment (ESIA) and Resettlement Action Plan (RAP) for Cluster 1 and Cluster 3",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00472925",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "GFPP - Ghana Market Access and Connectivity Project | Ghana | Request for Expression of Interest | Consultant Qualification  Selection |   REPUBLIC OF GHANA    MINISTRY OF ROADS AND HIGHWAYS     DEPARTMENT OF FEEDER ROADS   &nbsp;   REQUEST FOR EXPRESSIONS OF INTEREST    CONSULTANT&rsquo;S QUALIFICATIONS BASED SELECTION (CQS)        Name of Project     Ghana Market Access and Connectivity Project (GMACP)-Project Preparatory Grant       Loan No/Credit No/ Grant Number     IDA-E6230       Assignment Title     Consulting Services for Preparation of Environmental and Social Impact Assessment (ESIA) and Resettlement Action Plan (RAP) for Cluster 1 and 3       Procurement Plan Ref Number     GH-MRH-572771-CS-CQS       Country of Deli",
+      "matched_keywords": [
+        "Social Impact Assessment"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "c0a4513016162781",
+      "title": "Acquisition d'une machine pour la production des blocs de brique autobloquant",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473001",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Contract Award | Request for Quotations |   Contract Award   Project: P177786-Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo)  Loan/Credit/TF Info: IBRD-94930; TF-C0684  Bid/Contract Reference No: CG-MOD NOE-556619-GO-RFQ  Procurement Method: RFQ-Demande de prix  Scope of Contract:  Acquisition d'une machine pour la production des briques autobloquantes   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/02    Duration of Contract   120 Day(s)           Awarded Bidder(s):           BJC-ARIS (1104239)  47, avenue Mbemba Tandou, Pointe-NoireTel : 06 848 96 97/05 530 54 40Gmail. Roger",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
+    {
+      "id": "34f12709006f0690",
+      "title": "Topographical surveys at the chimpacas.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473027",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "05-Oct-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Direct Selection |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 86NCS2-UCP-R-26  Procurement Method: DIR-Direct Selection  Scope of Contract:  86-NCS2-R-26, LEVANTAMENTOS TOPOGRFICOS S CHIMPACAS   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/20    Duration of Contract   850 Day(s)           Awarded Bidder(s):           A. M. PROJECTOS DO SUL  ARQUITECTURA URBANISMO, ENGENHARIA,TOPOGRAFIA E GEODESIA (1130004)  Lubango, Huila - Angola Country: Angola      Bid Price at Ope",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
     {
       "id": "a62dd63f65cc80ed",
       "title": "Firm Services for Environmental impact and damage Assessment of Rohingya inhabited area and a project preparation for ecosystem restoration with restoration activities followed by feasibility study",
