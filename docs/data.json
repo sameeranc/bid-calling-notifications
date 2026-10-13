@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T14:24:39.779468+00:00",
+  "generated_at": "2026-10-13T15:13:19.902582+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 8,
-  "total_count": 165,
+  "new_today_count": 17,
+  "total_count": 182,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 8
+      "matched": 17
     },
     "reliefweb": {
       "ok": true,
@@ -16,16 +16,255 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 106,
+      "fetched": 107,
       "matched": 0
     },
     "cbsl": {
       "ok": true,
-      "fetched": 177,
+      "fetched": 0,
       "matched": 0
     }
   },
   "items": [
+    {
+      "id": "320823b95db3415b",
+      "title": "Recrutement d'un prestataire pour l'entretien/réparation de la climatisation, plomberie, électricité et du mobilier de bureau, du groupe électrogène de l’UGP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474509",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Contract Award | Request for Quotations |   Contract Award   Project: P177786-Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo)  Loan/Credit/TF Info: IBRD-94930  Bid/Contract Reference No: CG-PROCLIMAT-079-SAC-DC-25  Procurement Method: RFQ-Demande de prix  Scope of Contract:  Recrutement d'un prestataire pour l'entretien/rparation de la climatisation, plomberie, lectricit et du mobilier de bureau, du groupe lectrogne de lUGP (lot 3)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/28    Duration of Contract   1 Year(s)           Awarded Bidder(s):           GENIE CONFORT SERVICES",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "c9d8157309cfdea1",
+      "title": "Specialist in the Development of Dual Education and Education for Veterans",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474638",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Ukraine Improving Higher Education for Results Project | Ukraine | Request for Expression of Interest | Individual Consultant Selection |  REQUEST FOR EXPRESSIONS OF INTEREST  (MOES-C3-05-SUP-IC-15-RR &ndash; Specialist in the Development of Dual Education and Education for Veterans)   Market Approach - Open, National   UKRAINE  Ukraine Improving Higher Education for Results Project&nbsp;  Loan Agreement No. 9238-UA  &nbsp;  Assignment Title: Specialist in the Development of Dual Education and Education for Veterans  &nbsp;  Reference No. MOES-C3-05-SUP-IC-15-RR  The Ministry of Education and Science of Ukraine (MOES) has received financing from the World Bank toward the cost of Ukraine Improving Higher Education for Results Pro",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "8841e9bd34988b09",
+      "title": "Acquisition of software Licenses for IFMIS",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474650",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Revenue Improvement and Spending Efficiency Program-for-Results Operation | Rwanda | Invitation for Bids | Request for Bids |  The Ministry of Finance and Economic Planning (MINECOFIN) through its SPIU, with financing from the  World Bank-funded Revenue Improvement and Spending Efficiency (RISE) Program-for-Results (PforR)  hereby invites eligible companies to submit their bids on the tender of  Acquisition of ML Models and AI Platform software Licenses  Participation is open on equal conditions to all specialized companies in the field.   &nbsp; Tender documents are obtained from the E-Procurement system for Rwanda (www.umucyo.gov.rw&nbsp;). &nbsp;All bids will be submitted online using the E-Procurement system on o",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "da108a172cd6a468",
+      "title": "Specialist in International Cooperation and Internationalisation in Higher Education",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474635",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Ukraine Improving Higher Education for Results Project | Ukraine | Request for Expression of Interest | Individual Consultant Selection |  REQUEST FOR EXPRESSIONS OF INTEREST  (MOES-C3-05-SUP-IC-08-R4 &ndash; Specialist in International Cooperation and Internationalisation in Higher Education)   Market Approach - Open, National   UKRAINE  Ukraine Improving Higher Education for Results Project&nbsp;  Loan Agreement No. 9238-UA  &nbsp;  Assignment Title: Specialist in International Cooperation and Internationalisation in Higher Education  &nbsp;  Reference No. MOES-C3-05-SUP-IC-08-R4  The Ministry of Education and Science of Ukraine (MOES) has received financing from the World Bank toward the cost of Ukraine Improving Higher Educa",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "994de83fb97a8656",
+      "title": "Selection of National Social Safeguard Consultant",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474445",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Cambodia Regional Connectivity Improvement Project Phase 1 | Cambodia | Request for Expression of Interest | Individual Consultant Selection |   KINGDOM OF CAMBODIA    Nation Religion King    MINISTRY OF PUBUC WORKS AND TRANSPORT (MPWT)    Project Management Unit   &nbsp;   Cambodia Regional Connectivity Improvement Project Phase 1 (  CRCI)    Project No.: P510547    IDA Credit No.: 8012-KH &amp; 8013-KH    REQUEST FOR THE EXPRESSION OF INTEREST OF    National Social Safeguards Consultant (NSSC)   The Ministry of Public Works and Transport (MPWT) of the Royal Government of Cambodia (RGC) has applied for financing support from the World Bank&#39;s (WB) International Development Association (IDA) to implement the Cambodia Regional Conn",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "9e98695163d4dfb9",
+      "title": "Fabrication of Base for GHG Chamber",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474541",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project | India | Contract Award | Request for Quotations |   Contract Award   Project: P178254-Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project  Loan/Credit/TF Info: IBRD-97270  Bid/Contract Reference No: IN-SPMU-K-552656-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Fabrication of Base for Chamber for GHG sampling   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/12/20    Duration of Contract   14 Day(s)           Awarded Bidder(s):           M R VARGHESE (1134747)  Menachery (H), Mannuthy PO Country: India      Bid Price at Opening INR 158400.00  Evaluated Bid Price ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "84e09fe72f487957",
+      "title": "Recruitment of Consultant for the Monitoring & Supervision of Works/Construction of Four (4) climate-resilient long-span Bridges and their link roads at Kabba - Lot 1, Komrabai - Lot 2, Moselolo - Lot 3 and Sumbuya - Lot4",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474598",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Sierra Leone Connectivity and Agricultural Market Infrastructure Project | Sierra Leone | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P178683-Sierra Leone Connectivity and Agricultural Market Infrastructure Project  Loan/Credit/TF Info: IDA-E3340  Bid/Contract Reference No: SL-MTA - TIDU-471479-CS-QCBS  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Monitoring and Supervision of Works/Construction of Four (4) climate-resilient long-span bridges and their link roads. Lot 2   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/07    Duration of Contract   30 Month(s)    Minimum Qualifying Score   70          Awarded Firm(s):           COR",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "0aa2704784720cb5",
+      "title": "Selection of National Environmental Safeguard Consultant",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471760",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Cambodia Regional Connectivity Improvement Project Phase 1 | Cambodia | Request for Expression of Interest | Individual Consultant Selection |   KINGDOM OF CAMBODIA    Nation Religion King    MINISTRY OF PUBUC WORKS AND TRANSPORT (MPWT)    Project Management Unit   &nbsp;   Cambodia Regional Connectivity Improvement Project Phase 1 (  CRCI)    Project No.: P510547    IDA Credit No.: 8012-KH &amp; 8013-KH   &nbsp;   REQUEST FOR THE EXPRESSION OF INTEREST OF    National Environmental Safeguards Consultant (NESC)   The Ministry of Public Works and Transport (MPWT) of the Royal Government of Cambodia (RGC) has applied for financing support from the World Bank&#39;s (WB) International Development Association (IDA) to implement the Cambodi",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "2749456bec104b8e",
+      "title": "Recruitment of Consultant for the Monitoring & Supervision of Works/Construction of Four (4) climate-resilient long-span Bridges and their link roads at Kabba - Lot 1, Komrabai - Lot 2, Moselolo - Lot 3 and Sumbuya - Lot4",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474590",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Sierra Leone Connectivity and Agricultural Market Infrastructure Project | Sierra Leone | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P178683-Sierra Leone Connectivity and Agricultural Market Infrastructure Project  Loan/Credit/TF Info: IDA-E3340  Bid/Contract Reference No: SL-MTA - TIDU-471479-CS-QCBS  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Monitoring and Supervision of Works/Construction of Four (4) climate-resilient long-span bridges and their link roads. Lot 1   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/07    Duration of Contract   30 Month(s)    Minimum Qualifying Score   70          Awarded Firm(s):           STU",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "86a292bfc213251c",
+      "title": "Procurement of Laptops for field offices (Package-II)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474607",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Punjab Urban Land Systems Enhancement Project | Pakistan | Invitation for Bids | Request for Bids |   Request for Bids   Goods    (One-Envelope Bidding Process)   &nbsp;   Country:   Pakistan    Name of Project:   Punjab Urban Land Systems Enhancement (PULSE) Project    Contract Title:  Procurement of Laptops for field offices (Package-II)   Credit No.:  7041-PK   Reference No.  PK-PLRA-573907-GO-RFB   The Project Implementation Unit, Punjab Urban Land Systems Enhancement (PULSE) Project, Govt. of Punjab has received financing from the World Bank toward the cost of the Punjab Urban Land Systems Enhancement (PULSE) Project and intends to apply part of the proceeds towards Procurement of Lapto",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "1b993d1c0fb203ec",
+      "title": "Tender to conduct Feasibility  Studies for Construction of Retaining Walls- KIREHE District",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474578",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Rwanda Quality Basic Education for Human Capital Development Project | Rwanda | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P168551-Rwanda Quality Basic Education for Human Capital Development Project  Loan/Credit/TF Info: IDA-71580  Bid/Contract Reference No: RW-MINEDUC-336914-CS-QCBS  Procurement Method: CQS-Consultant Qualification Selection  Scope of Contract:  Consultancy services to conduct Feasibility Studies for Construction of Retaining Walls   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2024/03/04    Duration of Contract   4 Month(s)    Minimum Qualifying Score   80          Awarded Firm(s):           MAK GROUP LTD (1134733)  Kigali Country: Rwanda",
+      "matched_keywords": [
+        "feasibility studies"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "21e647ac2606e9e1",
+      "title": "Procurement includes Construction and Civil Works for the Digital Archive and Museum.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474489",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Geospatial Infrastructure and Valuation Enhancement Project (GIVE) | Bosnia and Herzegovina | Contract Award | Request for Bids |   Contract Award   Project: P180409-Geospatial Infrastructure and Valuation Enhancement Project (GIVE)  Loan/Credit/TF Info: IBRD-99560  Bid/Contract Reference No: BA-RGARS-561584-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Procurement of Construction and Civil Works for the Digital Archive Facility   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/05    Duration of Contract   24 Month(s)           Awarded Bidder(s):           GP GRADIP D.O.O. PRNJAVOR (1134673)  Svetog Save 28, 78430 Prnjavor, Bosna i Hercegovina Country: Bosnia and ",
+      "matched_keywords": [
+        "geospatial"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "aa2d5421188901c3",
+      "title": "Recrutement d'un prestataire pour l'entretien/réparation de la climatisation, plomberie, électricité et du mobilier de bureau, du groupe électrogène de l’UGP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474501",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Contract Award | Request for Quotations |   Contract Award   Project: P177786-Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo)  Loan/Credit/TF Info: IBRD-94930  Bid/Contract Reference No: CG-PROCLIMAT-079-SAC-DC-25  Procurement Method: RFQ-Demande de prix  Scope of Contract:  Recrutement d'un prestataire pour l'entretien/rparation de la climatisation, plomberie, lectricit et du mobilier de bureau, du groupe lectrogne de lUGP (lot 1)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/28    Duration of Contract   1 Year(s)           Awarded Bidder(s):           GENIE CONFORT SERVICES",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "3b9e0f545ae73569",
+      "title": "The activity involves collecting and analyzing spatial planning documentation for all 64 local self-government units in Republika Srpska, with the aim of assessing its availability, quality, level of digitization, and suitability for use in MREV.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474535",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Geospatial Infrastructure and Valuation Enhancement Project (GIVE) | Bosnia and Herzegovina | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P180409-Geospatial Infrastructure and Valuation Enhancement Project (GIVE)  Loan/Credit/TF Info: IBRD-99560  Bid/Contract Reference No: BA-RGARS-570618-CS-CQS  Procurement Method: CQS-Consultant Qualification Selection  Scope of Contract:  Study and analyses of spatial plans for all 64 municipalities in Republic of Srpska   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/30    Duration of Contract   4 Month(s)    Minimum Qualifying Score   1          Awarded Firm(s):           \"GEO-CENTAR\" d.o.o. Banja Luka (869390)  Vrbaski put 18b",
+      "matched_keywords": [
+        "geospatial"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "6e48418e6c7d1b41",
+      "title": "School Block construction- Ngongomwa",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474618",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2) | Malawi | Contract Award | Request for Quotations |   Contract Award   Project: P181308-Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2)  Loan/Credit/TF Info: IDA-E2800  Bid/Contract Reference No: MW-BTDC-549895-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  CONSTRUCTION OF NGONGOMWA SCHOOL BLOCK   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/07    Duration of Contract   120 Day(s)           Awarded Bidder(s):           LEWIS FULL BOARD INVESTMENT (1134712)  po box 30451,lilongwe Country: Malawi      Bid Price at Opening MWK 292657257.75  Eval",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "081d3109d938964f",
+      "title": "Consulting Services for Capacity Building and Specialized In-Depth Training of One Health Seed Talents in Hainan Province.（3.7.2）",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474499",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "China Emerging Infectious Diseases Prevention, Preparedness and Response Project | China | Request for Expression of Interest | Consultant Qualification  Selection |   Request for Expressions of Interest   (Consulting Services &ndash; Selection of Firms)  People&rsquo;s Republic of China  World Bank Loan Hainan Project for Prevention, Preparedness and Response to Emerging Infectious Diseases (Global One Health Hainan Demonstration Project)  Loan No.: 9084-CN  Procurement No.: 0733-26094508  Assignment Name: Consulting Services for Capacity Building of One Health Seed Talents and Thematic Advanced Training in Hainan Province  Contract No.: HN-FC-100  The Government of the People&rsquo;s Republic of China has received a loan from the World Bank toward the co",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "eb17468aaee62daa",
+      "title": "Recrutement d'un prestataire pour l'entretien/réparation de la climatisation, plomberie, électricité et du mobilier de bureau, du groupe électrogène de l’UGP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474507",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "12-Oct-2026",
+      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Contract Award | Request for Quotations |   Contract Award   Project: P177786-Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo)  Loan/Credit/TF Info: IBRD-94930  Bid/Contract Reference No: CG-PROCLIMAT-079-SAC-DC-25  Procurement Method: RFQ-Demande de prix  Scope of Contract:  Recrutement d'un prestataire pour l'entretien/rparation de la climatisation, plomberie, lectricit et du mobilier de bureau, du groupe lectrogne de lUGP (lot 2)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/28    Duration of Contract   1 Year(s)           Awarded Bidder(s):           GENIE CONFORT SERVICES",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
     {
       "id": "e1302dc5c2c1c50d",
       "title": "Procurement of 50.000 Interactive Boards",
