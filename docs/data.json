@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-13T15:13:19.902582+00:00",
+  "generated_at": "2026-10-20T12:53:24.451251+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 17,
-  "total_count": 182,
+  "new_today_count": 15,
+  "total_count": 197,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 17
+      "matched": 15
     },
     "reliefweb": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 107,
+      "fetched": 110,
       "matched": 0
     },
     "cbsl": {
@@ -26,6 +26,221 @@
     }
   },
   "items": [
+    {
+      "id": "bc4f1573ac516cf3",
+      "title": "10-National Site Engineers for Construction Supervision",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473841",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Cambodia Basic Education Improvement Project | Request for Expression of Interest | Individual Consultant Selection |   MINISTRY OF EDUCATION, YOUTH AND SPORT    BASIC EDUCATION IMPROVEMENT PROJECT    IDA-Credit No.: 79160-KH    REQUEST FOR EXPRESSIONS OF INTEREST    &nbsp;(INDIVIDUAL CONSULTANT)    TEN (10) NATIONAL SITE ENGINEER    Ref: MoEYS-BEIP-ICS-(038-047)     Background    The Cambodia Basic Education Improvement Project (BEIP) was approved by the Board of Directors of the World Bank on August 29, 2025. The Project is funded by an International Development Association (IDA) Credit of US$100 million equivalent and an Early Learning Partnership Multi Donor Trust Fund of US$5 million. It is expected to b",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "de3822d66f72d050",
+      "title": "PIU MONITORING AND EVALUATION SPECIALIST",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00475991",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Somalia Urban Resilience Project - Phase II | Somalia, Federal Republic of | Request for Expression of Interest | Individual Consultant Selection |  &nbsp;  &nbsp;   &nbsp; &nbsp; &nbsp;Government of Somaliland    &nbsp;&nbsp;&nbsp; Hargeisa Local Government   &nbsp; Somali Urban Resilience Project (SURP II)   REQUEST FOR EXPRESSIONS OF INTEREST  (REOI)    (INDIVIDUAL CONSULTING SERVICES)    PIU Monitoring and Evaluation Specialist   &nbsp;   Country: Government of Somaliland    Project ID No: P170922    Project: Somali Urban Resilience Project (SURP-II)    Consultant Service:   PIU Monitoring and Evaluation Specialist    Individual/Firm: Individual     Duty Station: Hargeisa    Deadline:   November 05, 2026    Ref: SO-HM-574039-CS-INDV  ",
+      "matched_keywords": [
+        "monitoring and evaluation"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "0ff4fc5bbd332f9a",
+      "title": "Consulting Services for establishing a cross-sectoral data exchange on outbreaks and climate-related risks for inclusion in the online platform being developed for the National One Health Coordination Structure",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476039",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia | Central Asia | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P181459-One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia  Loan/Credit/TF Info: IDA-E4520  Bid/Contract Reference No: OHP/CS/CQS-2026/09  Procurement Method: CQS-Consultant Qualification Selection  Scope of Contract:  Consulting Services for establishing a cross-sectoral data exchange on outbreaks and climate-related risks for inclusion in the online platform being developed for the NOHCS   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/09    Duration of Contract   7 Month(s)    Minim",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "632be5440964225e",
+      "title": "Hiring of Procurement Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476045",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Support for Preparation of the Modernizing Ethiopia’s Statistical System Project | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    Individual Consultant Selection    Ethiopian Statistical Service (ESS)    Reference No.: ET-ESS-574157-CS-INDV    Hiring of Procurement Specialist   The Ethiopian Statistical Service (ESS) intends to recruit a  Procurement Specialist  under the  Modernizing Ethiopia&#39;s Statistical System Project (MESSP) , financed by the World Bank.  The Procurement Specialist will be responsible for the overall management of project procurement activities in accordance with the World Bank Procurement Regulations for IPF Borrowers, including procurement planning, imp",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "eeb951af7328a59d",
+      "title": "Accompagnement de Bank Al-Maghrib pour la mise en place d'un cadre régissant l'Open Banking / Open Finance au Maroc.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476140",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Morocco Climate, Long Term & Risk Finance | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P182012-Morocco Climate, Long Term & Risk Finance  Loan/Credit/TF Info: TF-C8936  Bid/Contract Reference No: MA-FSEC-560154-CS-CQS  Procurement Method: CQS-Consultant Qualification Selection  Scope of Contract:  laboration du cadre rgissant l'Open Banking / Open Finance au Maroc   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/21    Duration of Contract   3 Month(s)    Minimum Qualifying Score   50          Awarded Firm(s):           SOUTHBRIDGE A&I (1127979)  Villa Jacaranda 23 route d Anfa Suprieur, Ain Diab Casablanca Country: M",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "448830a29ede5e2b",
+      "title": "Improvements of Uyanwatta canal and Bunds in uyanwaththa scheme",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476061",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: CRESMPA-1/RP/WORKS/ID-KAL/NCB/066  Procurement Method: RFB-Request for Bids  Scope of Contract:  CRESMPA-1/RP/WORKS/ID-KAL/NCB/066 / Improvements of Uyanwatta canal and Bunds in uyanwaththa scheme   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/19    Duration of Contract   210 Day(s)           Awarded Bidder(s):           MTR ENGINEERING (PVT) LTD (1080087)  312/78, Yahampath mawatha, Godigamuwa, Maharagama Cou",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "0c0a2c3a8a57fbbc",
+      "title": "Procurement of a IT Equipment",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476105",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Zletovica Productivity through Irrigation and Renewable Energy | Invitation for Bids | Request for Quotations |  Republic of North Macedonia  Ministry of Agriculture, Forestry and Water Economy  Project Implementation Unit   Specific Procurement Notice for IT Equipment    Request for Quotations    Project:  Preparation Grant for the Zletovica Productivity through Irrigation and Renewable Energy Project (Phases II and III)   Grant No.:  TF0D2152   Reference No.:  PIREP-GO-RFQ-12   Method and approach:  Request for Quotations (RFQ) for Goods; Open National   Date of notice:  19 October 2026   1.&nbsp;  The Republic of North Macedonia has received a grant from the World Bank, acting as trustee of the Grant",
+      "matched_keywords": [
+        "Ministry of Agriculture",
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "15ce4e32a926b987",
+      "title": "CONSULTANCY SERVICES FOR GHANA EDUCATION EVIDENCE AND DATA LABORATORY(GEEDLAB) RESEARCH REPOSITORY",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00475870",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Ghana Accountability for Learning Outcomes Project | Ghana | Request for Expression of Interest | Consultant Qualification  Selection |    MINISTRY OF EDUCATION    &nbsp;    REQUEST FOR EXPRESSIONS OF INTEREST (REOI)    &nbsp;    GHANA ACCOUNTABILITY FOR LEARNING OUTCOMES PROJECT ADDITIONAL FINANCING 2 (GALOP AF 2)      PROJECT ID: 165557    &nbsp;    PROCUREMENT OF CONSULTANCY SERVICES    &nbsp;(FIRMS)    &nbsp;    BACKGROUND    The Government of Ghana, under World Bank and Global Partnership for Education (GPE) funding, is supporting the government&rsquo;s education strategic plan to improve equitable access to quality basic education in Ghana. The Ghana Accountability for Learning Outcomes Project (GALOP), approved for an a",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "eee66d13384736b7",
+      "title": "Rehabilitation/ Improvement of 6.50 Km of Rural Roads in Kundasale and Medadumbara Divisional Secretariat in Kandy District in Central Province-LOT1R",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476025",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Inclusive Connectivity and Development Project | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P176164-Inclusive Connectivity and Development Project  Loan/Credit/TF Info: IBRD-92900  Bid/Contract Reference No: LK-RDA-542414-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  REHABILITATION/ IMPROVEMENT OF 6.50 KM OF RURAL ROADS IN KUNDASALE AND MEDADUMBARA DIVISIONAL SECRETARIATS IN KANDY DISTRICT IN CENTRAL PROVINCE Lot 01   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/16    Duration of Contract   12 Month(s)           Awarded Bidder(s):           SJT ENGINEERING (PVT) (701577)  No 16/1, Paramulla Road,",
+      "matched_keywords": [
+        "RDA"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "86afb857e411f982",
+      "title": "Hiring of Financial Management Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476074",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Support for Preparation of the Modernizing Ethiopia’s Statistical System Project | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    Individual Consultant Selection    Ethiopian Statistical Service (ESS)    Reference No.: ET-ESS-574154-CS-INDV    Hiring of Financial Management Specialist   The Ethiopian Statistical Service (ESS) intends to recruit a  Financial Management Specialist  under the  Modernizing Ethiopia&#39;s Statistical System Project (MESSP) Preparation Grant , financed by the World Bank.  The Financial Management Specialist will support the Project Implementation Unit (PIU) in ensuring sound financial planning, budgeting, accounting, internal control, disbursement, fina",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "44a7853217f85f6e",
+      "title": "10-National Site Engineers for Construction Supervision",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00473842",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Cambodia Basic Education Improvement Project | Request for Expression of Interest | Individual Consultant Selection |   MINISTRY OF EDUCATION, YOUTH AND SPORT    BASIC EDUCATION IMPROVEMENT PROJECT    IDA-Credit No.: 79160-KH    REQUEST FOR EXPRESSIONS OF INTEREST    &nbsp;(INDIVIDUAL CONSULTANT)    TEN (10) NATIONAL SITE ENGINEER    Ref: MoEYS-BEIP-ICS-(049-058)     Background    The Cambodia Basic Education Improvement Project (BEIP) was approved by the Board of Directors of the World Bank on August 29, 2025. The Project is funded by an International Development Association (IDA) Credit of US$100 million equivalent and an Early Learning Partnership Multi Donor Trust Fund of US$5 million. It is expected to b",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "0e4418c02e0e1a90",
+      "title": "Tender for supply of video conferencing system including video & display system, audio system, control and connectivity and infrastructure to outfit one room",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00469283",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Rwanda Urban Mobility Improvement Project | Rwanda | Invitation for Bids | Request for Bids |  The City of Kigali hereinafter called Client has received fund from the World Bank, EIB and EU towards the cost of the tender for supply of video conferencing system including video and display system audio system control and connectivity and infrastructure to outfit one room.&nbsp;  Bids shall be accompanied by bid security as specified in the e-procurement system of Rwanda at www.umucyo.gov.rw.&nbsp;  A complete set of bidding Documents in&nbsp;English may be obtained by interested bidders at the following address www.umucyo.gov.rw, payment of non-refundable fee&nbsp; Rwandan francs ten tho",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "39d557d8194643a1",
+      "title": "Procurement of Defibrillator (DC Shock) 4 Lots : Lot 1 - 2524 units, Lot 2 - 2051 units, Lot 3 - 2341 units, Lot 4 - 2254 units",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00471622",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Indonesia Health Systems Strengthening Project | Indonesia | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;  &nbsp;   Request for Bids    Goods    (Two-Envelope Bidding Process)   &nbsp;   Country:  Indonesia   Name of Project:  Indonesia Health Systems Strengthening Project   Contract Title:  Procurement of Defibrillator (DC Shock)   Loan No.:  9626-ID (IBRD), 4430-INO (ADB), L0787A (AIIB)   RFB Reference No.:  ID-PMU SOPHI-554211-GO-RFB   The Government of Indonesia   has applied for joint co-financing from the World Bank, Asian Infrastructure Investment Bank and Asian Development Bank toward the cost of the Indonesia Health Systems Strengthening Project and ",
+      "matched_keywords": [
+        "ADB",
+        "Asian Development Bank",
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "33de9ec40b2a6be5",
+      "title": "Anaklia Regional Gateway and Overland Connectivity Project",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476030",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Anaklia Regional Gateway and Overland Connectivity Project | General Procurement Notice |   Georgia    Anaklia Regional Gateway and Overland Connectivity Project    GENERAL PROCUREMENT NOTICE (GPN)    Project ID No. P519916   The Government of Georgia intends to apply for financing from the World Bank towards the cost of Anaklia Regional Gateway and Overland Connectivity Project, and it intends to apply part of the proceeds to payments for goods, works, non-consulting services and consulting services to be procured under this Project. &nbsp;  The project will include the following main components:   Component 1:     Civil Works (US$ 205 million).  This component will finance the de",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
+    {
+      "id": "adf1a20802fb54b5",
+      "title": "Hiring of a Monitoring and Evaluation Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476048",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "19-Oct-2026",
+      "snippet": "Support for Preparation of the Modernizing Ethiopia’s Statistical System Project | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    Individual Consultant Selection    Ethiopian Statistical Service (ESS)    Reference No.: ET-ESS-574158-CS-INDV    Hiring of Monitoring and Evaluation Specialist   The Ethiopian Statistical Service (ESS) intends to recruit a  Monitoring and Evaluation (M&amp;E) Specialist  under the  Modernizing Ethiopia&#39;s Statistical System Project (MESSP) Preparation Grant , financed by the World Bank.  The Monitoring and Evaluation Specialist will support the Project Implementation Unit (PIU) in establishing and operationalizing the project&#39;s results monitorin",
+      "matched_keywords": [
+        "World Bank",
+        "monitoring and evaluation"
+      ],
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20"
+    },
     {
       "id": "320823b95db3415b",
       "title": "Recrutement d'un prestataire pour l'entretien/réparation de la climatisation, plomberie, électricité et du mobilier de bureau, du groupe électrogène de l’UGP",
