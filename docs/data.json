@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T12:53:24.451251+00:00",
+  "generated_at": "2026-10-27T13:29:51.518660+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 15,
-  "total_count": 197,
+  "new_today_count": 16,
+  "total_count": 213,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 15
+      "matched": 16
     },
     "reliefweb": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 110,
+      "fetched": 113,
       "matched": 0
     },
     "cbsl": {
@@ -26,6 +26,241 @@
     }
   },
   "items": [
+    {
+      "id": "ad0694686ba069bd",
+      "title": "It Equipment for UCP Luanda, UCP Lubango and Young Professionals",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477163",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Invitation for Bids | Request for Bids |  &nbsp;   MINIST&Eacute;RIO DA ENERGIA E &Aacute;GUAS    UNIDADE DE COORDENA&Ccedil;&Atilde;O DE PROJECTOS (UCP-BM/AFD)    RESILI&Ecirc;NCIA CLIM&Aacute;TICA E SEGURAN&Ccedil;A H&Iacute;DRICA EM ANGOLA (RECLIMA)   &nbsp;   Cr&eacute;dito No. IBRD 9380-AO    N.&ordm; DE IDENTIFICA&Ccedil;&Atilde;O DO PROJECTO P177004   &nbsp;   SOLICITA&Ccedil;&Atilde;O DE PROPOSTAS PARA AQUISI&Ccedil;&Atilde;O DE BENS   &nbsp;   AQUISI&Ccedil;&Atilde;O DE EQUIPAMENTO DE TI PARA UNIDADE DE COORDENA&Ccedil;&Atilde;O DE PROJECTOS (UCP)   &nbsp;   Concurso No. 89G3/IT EQUIPMENT/R/26   &nbsp;  O Governo da Rep&uacu",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "16d3cddb9354bb36",
+      "title": "System Integration Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00472721",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Integrated Flood Resilience and Adaptation Project | Pakistan | Request for Expression of Interest | Individual Consultant Selection |  &nbsp;   Pakistan Meteorological Department    Modernization of Hydromet Services of PMD in Pakistan (MHSP)    Strengthening Hydromet and Climate Services (Component-2)    Integrated Flood Resilience and Adaptation Project (IFRAP)   &nbsp;  &nbsp;   EXTENSION IN SUBMISSION DATE    REQUEST FOR EXPRESSIONS OF INTEREST &ndash; INTERNATIONAL PANEL OF EXPERTS (IPEs)   &nbsp;   Reference the Request for Expressions of Interest (EOIs) for selection of four (4) Individual Consultants for the International Panel of Experts (IPEs) under the World Bank-financed Integrated Flood Resilience and Adaptation",
+      "matched_keywords": [
+        "World Bank",
+        "climate",
+        "hydromet"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "1d2ebd2f9bd3f1e3",
+      "title": "Eua & Haapai (Package 3): Risk Based School Works Package",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477339",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Tonga Safe and Resilient Schools Project | Tonga | Contract Award | Request for Quotations |   Contract Award   Project: P174434-Tonga Safe and Resilient Schools Project  Loan/Credit/TF Info: IDA-D9270; IDA-E0650  Bid/Contract Reference No: TO-MET-521704-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Package 3: GPS Ha'atu'a ('EUA) - LOT2   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/18    Duration of Contract   9 Month(s)           Awarded Bidder(s):           PULOKA CONSTRUCTION LTD (380929)  Maufanga,Tongatapu Country: Tonga      Bid Price at Opening TOP 1433180.87  Evaluated Bid Price TOP 1432124.60      Signed Cont",
+      "matched_keywords": [
+        "GPS"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "146e48fd64ac154c",
+      "title": "Construction of a center for industrial 4.0 and technology transfer at ITC",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476470",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Second Higher Education Improvement Project | Cambodia | Invitation for Bids | Request for Bids |   MINISTRY OF EDUCATION, YOUTH AND SPORT    SECOND HIGHER EDUCATION IMPROVEMENT PROJECT (HEIP2)    IDA-CREDIT No: 76340-KH   &nbsp;   Request for Bids    Construction of Center for industrial 4.0 and technology transfer at Institute of Technology of Cambodia (ITC)    Identification No: MoEYS-HEIP2-ITC-ICB-W-003    (Two-Envelope Bidding Process)    The Kingdom of Cambodia has received a Credit from financing from the World Bank toward the cost of the Second Higher Education Improvement Project (HEIP2), Ministry of Education, Youth and Sport (MoEYS), and intends to apply part of the proceeds tow",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "657f161733477bdf",
+      "title": "Hire a firm for GRM Audit of UPSNJP in 15 project cities",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477217",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Urban Productive Safety Net and Jobs Project | Ethiopia | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    Federal Democratic Republic of Ethiopia    The Ministry of Urban and Infrastructure    Urban Food Security and Safety Net Office    Urban Productive Safety Net and Job Project (UPSNJP)    Grant No. D732-ET    Assignment Title: Hiring a firm for GRM Audit of UPSNJP in Project cities    Reference No .&nbsp; ET-MOUDI-572340-CS-CQS   The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Urban Productive Safety Net and Jobs Project (UPSNJP), and intends t",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "872473e6fc315a37",
+      "title": "Individual Consultancy to Develop Multi-hazard Early Warning Systems (MHEWS) Roadmaps",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477154",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Request for Expression of Interest | Individual Consultant Selection |   SADC SECRETARIAT    REQUEST FOR EXPRESSION OF INTEREST (INDIVIDUAL CONSULTANTS SELECTION    COUNTRY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Botswana    NAME OF PROJECT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SADC REGIONAL CLIMATE RESILIENCE PROJECT (RCRP)    PROJECT ID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P180171    ASSIGNMENT TITLE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INDIVIDUAL CONSULTANCY FOR THE DEVELOPMENT OF NATIONAL M",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "bbbdf793cf583b29",
+      "title": "Numerical Weather Prediction Specialist",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00472715",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Integrated Flood Resilience and Adaptation Project | Pakistan | Request for Expression of Interest | Individual Consultant Selection |  &nbsp;   Pakistan Meteorological Department    Modernization of Hydromet Services of PMD in Pakistan (MHSP)    Strengthening Hydromet and Climate Services (Component-2)    Integrated Flood Resilience and Adaptation Project (IFRAP)   &nbsp;  &nbsp;   EXTENSION IN SUBMISSION DATE    REQUEST FOR EXPRESSIONS OF INTEREST &ndash; INTERNATIONAL PANEL OF EXPERTS (IPEs)   &nbsp;   Reference the Request for Expressions of Interest (EOIs) for selection of four (4) Individual Consultants for the International Panel of Experts (IPEs) under the World Bank-financed Integrated Flood Resilience and Adaptation",
+      "matched_keywords": [
+        "World Bank",
+        "climate",
+        "hydromet",
+        "weather"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "e25d7042f1e8f490",
+      "title": "Supply of Wooden Poles",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00474473",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Accelerating Sustainable and Clean Energy Access Transformation in Mozambique | Mozambique | Invitation for Bids | Request for Bids |   Country:  Mozambique   Name of Project:  Accelerating Sustainable and Clean Energy Access Transformation (ASCENT)   Contract Title: &nbsp;Supply of Wooden Poles   Grant No.:  IDA-E6130   RFB Reference No.:  MZ-EDM-554189-GO-RFB  1. The Government of Mozambique has applied for financing from the World Bank toward the cost of the Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) and intends to apply part of the proceeds toward payments under the Contract for  Supply of Wooden Poles . For this contract, the Borrower shall process the payments using the direct payment disb",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "c6a801a4ba1d3324",
+      "title": "Montagem e Instalação de um Sistema de Painéis Fotovoltaicos nas novas construções de Escolas no Cubango, Namibe, Cunene, Malanje e Lunda Norte",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477060",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Girls Empowerment and Learning for All Project | Angola | Invitation for Bids | Request for Bids |   Specific Procurement Notice    Request for Bids    Goods (Two-Envelope Bidding Process)   &nbsp;   Country:  Angola   Name of Project:  Girls&#39; Empowerment and Learning for All Project   Contract Title:  Acquisition and Installation of Photovoltaic Panel System   Loan No.:  IBRD-9234-AO   RFB Reference No.:   AO-PAT-556520-GO-RFB   1. The  Government of Angola(hereinafter referred to as the Borrower has received/  financing from the World Bank toward the cost of the Girls Empowerment and Learning for All Project, and intends to apply part of the proceeds toward payments under the contract",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "6474eb5aa415e6fc",
+      "title": "Consultancy Services - Report Preparation  (Enterprise Census)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477328",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "OECS Data for Decision Making (DDM) Project | OECS Countries | Request for Expression of Interest | Individual Consultant Selection |    Request for Expressions of Interest     SAINT LUCIA  &nbsp;  CONSULTING SERVICES &mdash; INDIVIDUAL CONSULTANT SELECTION OECS DATA FOR DECISION MAKING PROJECT- SAINT LUCIA COMPONENT  Assignment:  Consultancy to Support Data Analysis and Report Preparation for the 2022 Saint Lucia Enterprise Census  Financing No.:71120 Reference No.:  SLU-DDM-DATAPRO-EC-CS-06-25  Issue date: October 22,2026  The Government of Saint Lucia, through the Ministry of Economic Development and Youth Economy, is implementing the World Bank financed OECS Data for Decision Making Project and intends to apply part of t",
+      "matched_keywords": [
+        "World Bank",
+        "data analysis"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "abc4a2cbd821ced3",
+      "title": "Consultancy Services-  Data processing , Report Preparation and Dissemination (LFS/SLCHBS/CAF)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477326",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "OECS Data for Decision Making (DDM) Project | OECS Countries | Request for Expression of Interest | Quality And Cost-Based Selection |   GOVERNMENT OF SAINT LUCIA    MINISTRY OF ECONOMIC DEVELOPMENT AND YOUTH ECONOMY   &nbsp;    Request for Expressions of Interest     Consulting Services &mdash; Firms Selection   Project: OECS Data for Decision Making Project &mdash; Saint Lucia Component Project ID: P174986 Credit / Financing No.: 71120 Procurement Reference No.:  SLU-DDM-QCBS-DATAPRO-LFS-CAF-SLCHBS-26    Notice Date:  October 22, 2026    Assignment: Consultancy Services for Data Processing, Statistical Analysis and Report Preparation for the Saint Lucia Survey of Living Conditions and Household Budget Survey (SLC-HBS) and O",
+      "matched_keywords": [
+        "statistical analysis"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "a6e770f4986e8e69",
+      "title": "Feasibility Study for Hazardous Waste Treatment and Disposal Facilities",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00475482",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste GFPP | Georgia | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    Georgia    Preparation Grant for Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste Project    Grant Number: P518850    Assignment Title:  Feasibility Study for Hazardous Waste Treatment and Disposal Facilities.   Reference No .: GFPP /CS/CQS-01  The Government of Georgia has received financing from the World Bank toward the cost of the  Preparation Grant for Georgia Water Supply, Sanitation, Wastewater, and Hazardous Waste Project  and intends to apply part of the proceeds for consulting s",
+      "matched_keywords": [
+        "World Bank",
+        "feasibility study"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "6ef5c93ba9c182f0",
+      "title": "Mise en place d’un dispositif de pompage transitoire  pour lutter contre les inondations dans les zones : Sous bassin versant de Kounoune Sangalkam (BV du Lac Rose),  Sous bassin versant MBS3-5 (BV Mbeubeuss) et BV Mbao",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477198",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Stormwater Management and Climate Change Adaptation Project 2 | Senegal | Contract Award | Request for Bids |   Contract Award   Project: P175830-Stormwater Management and Climate Change Adaptation Project 2  Loan/Credit/TF Info: IDA-68890  Bid/Contract Reference No: SN-ADM-538777-NC-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Mise en place d'un dispositif de pompage transitoire pour lutter contre les inondations dans les zones : Sous bassin versant de Kounoune-sangalkam (BV Lac Rose), Sous bassin versant MBS3-5 (BV Mbeubeu   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/21    Duration of Contract   5 Month(s)           Awarded Bidder(s):     ",
+      "matched_keywords": [
+        "climate",
+        "climate change adaptation"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "6d9a0ff72fb4156b",
+      "title": "Review of PW Activities Respone to Climate Change",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477222",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Urban Productive Safety Net and Jobs Project | Ethiopia | Request for Expression of Interest | Quality And Cost-Based Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    Federal Democratic Republic of Ethiopia    The Ministry of Urban and Infrastructure    Urban Food Security and Safety Net Office    Urban Productive Safety Net and Job Project (UPSNJP)    Grant No. D732-ET    Assignment Title: Review of PW Activities Response to Climate Change    Reference No .&nbsp; ET-MOUDI-567112-CS-QCBS   The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Urban Productive Safety Net and Jobs Project (UPSNJP), and intends to ap",
+      "matched_keywords": [
+        "World Bank",
+        "climate"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "d45d467545b74f7e",
+      "title": "Consultancy services on preparing a pre-investment study – pre-feasibility study (according to international practices) for the transport corridor M-15 Odesa – Reni",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00477246",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Preparation of Resilient Projects to Advance Recovery of Ukraine (PREPARE Ukraine) | Ukraine | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P508490-Preparation of Resilient Projects to Advance Recovery of Ukraine (PREPARE Ukraine)  Loan/Credit/TF Info: TF-C8992  Bid/Contract Reference No: PREPARE-C2-03  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Consultancy services on preparing a pre-investment study  pre-feasibility study (according to international practices) for the transport corridor M-15 Odesa  Reni   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/12    Duration of Contract   8 Month(s)    Minimum Qualifying Score   80         ",
+      "matched_keywords": [
+        "feasibility study"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "5846948b221ed7cc",
+      "title": "Supply of Cables and Conductor",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00476378",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "26-Oct-2026",
+      "snippet": "Accelerating Sustainable and Clean Energy Access Transformation in Mozambique | Mozambique | Invitation for Bids | Request for Bids |   Country:  Mozambique   Name of Project:  Accelerating Sustainable and Clean Energy Access Transformation (ASCENT)   Contract Title:  Supply of Cable and Conductors   Grant No.:  IDA-E6130   RFB Reference No.:  MZ-EDM-554190-GO-RFB  1.The Government of Mozambique has applied for financing from the World Bank toward the cost of the Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) and intends to apply part of the proceeds toward payments under the Contract for  Supply of Cable and Conductors . For this contract, the Borrower shall process the payments using the direct pa",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
     {
       "id": "bc4f1573ac516cf3",
       "title": "10-National Site Engineers for Construction Supervision",
