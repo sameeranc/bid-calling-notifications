@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T13:29:51.518660+00:00",
+  "generated_at": "2026-11-03T15:25:51.369793+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 16,
-  "total_count": 213,
+  "new_today_count": 9,
+  "total_count": 222,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 16
+      "matched": 9
     },
     "reliefweb": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 113,
+      "fetched": 114,
       "matched": 0
     },
     "cbsl": {
@@ -26,6 +26,136 @@
     }
   },
   "items": [
+    {
+      "id": "e6ef4c1e35a1ceea",
+      "title": "COSS and Rate Review Consultancy",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478742",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Caribbean Efficient and Green-Energy Buildings Project (CEGEB) | Caribbean | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)   &nbsp;  &nbsp;   Country: Grenada   &nbsp;   Project: Caribbean Efficient and Green-Energy Buildings Project (P179519)   &nbsp;  Loan No.: Credit No./ Grant No.: IDA-77130  &nbsp;   Assignment Title: COSS and Rate Review Consultancy   &nbsp;   Reference No .: GD-MCRERE-489829-CS-CQS  &nbsp;  The Government of Grenada (GOG) has secured funding through the World Bank (WB) to pursue the Caribbean Efficient and Green-Energy Buildings Project (CEGEB) Project. The Project Development Objective (PDO) is to increa",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "325c7b373f9a00fe",
+      "title": "Procurement of ICT Hardware & Software",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478548",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Strengthening Institutions for Transparency and Accountability (SITA) | Bangladesh | Invitation for Bids | Request for Bids |  Ministry : Ministry of Planning&nbsp;  Division : Implementation Monitoring and Evaluation Division  Organization : Bangladesh Public Procurement Authority(BPPA)  Procuring Entity Name : Procurement Modernization to Improve Public Service Delivery (PMIPSD)  Procurement Nature: Goods  Invitation for : Tender - Single Lot  Invitation Reference No. : 21.00.0000.000.391.07.0041.26-412  Tender/Proposal ID : 1310824  Re-Tendered ID : 1258153  Procurement Method : Open Tendering Method (OTM)  Budget Type : Development  Source of Funds : Government, Aid or Grant  Development Partner : World Bank  Pro",
+      "matched_keywords": [
+        "World Bank",
+        "monitoring and evaluation"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "d8f5c5936f14ffb9",
+      "title": "Construction of Biosafety Level 2 (BSL-2) and Biosafety Level 3 (BSL-3) Laboratories at the Istanbul (Pendik), Izmir (Bornova), and Konya Veterinary Control Institute Directorates",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478577",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Turkey Climate Smart and Competitive Agricultural Growth Project (TUCSAP) | Turkiye | Contract Award | Request for Bids |   Contract Award   Project: P175011-Turkey Climate Smart and Competitive Agricultural Growth Project (TUCSAP)  Loan/Credit/TF Info: IBRD-93720  Bid/Contract Reference No: W.GKGM.CS2.1-02  Procurement Method: RFB-Request for Bids  Scope of Contract:  Construction of Biosafety Level 2 (BSL-2) and Biosafety Level 3 (BSL-3) Laboratories at Istanbul (Pendik) Veterinary Control Institute Directorate   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/27    Duration of Contract   12 Month(s)           Awarded Bidder(s):           MAGNESIA YAPI INSAAT SANAYI VE TICARET ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "7b8135fb987b4cd2",
+      "title": "Reconstruction of 1no. Semi-detached house, 2no. classroom blocks and 1no. VIP latrine at Nseru Primary School in T/A Kalolo.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478790",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2) | Malawi | Invitation for Bids | Request for Quotations |  RE-roofing of 3no Classroom Blocks and 2no Staff Houses at Nseru Primary School ",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "ad9d340c3ab5d82d",
+      "title": "Supply of Insulators",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478072",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Accelerating Sustainable and Clean Energy Access Transformation in Mozambique | Mozambique | Invitation for Bids | Request for Bids |   Country:  Mozambique   Name of Project:  Accelerating Sustainable and Clean Energy Access Transformation (ASCENT)   Contract Title:  Supply of Insulator   Grant No.:  IDA-E6130   RFB Reference No.:  MZ-EDM-554194-GO-RFB  1. The Government of Mozambique has applied for financing from the World Bank toward the cost of the Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) and intends to apply part of the proceeds toward payments under the Contract for  Supply of Insulator . For this contract, the Borrower shall process the payments using the direct payment disbursement me",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "25e7174e0f21c82d",
+      "title": "Construction of 6No. Low-Cost Houses in Chifunabuli District of Luapula Province for the Project Affected Persons along Road R82 – Lot 2 (Repair Works Only)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478701",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Zambia: Improved Rural Connectivity Project | Zambia | Contract Award | Request for Bids |   Contract Award   Project: P159330-Zambia: Improved Rural Connectivity Project  Loan/Credit/TF Info: IDA-60390  Bid/Contract Reference No: ZM-RDA-568107-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  CONSTRUCTION OF 6NO. LOW-COST HOUSES IN CHIFUNABULI DISTRICT OF LUAPULA PROVINCE FOR THE PROJECT AFFECTED PERSONS ALONG ROAD R82 - SEGMENT 2 - REPAIR WORKS TO DAMAGED LOW-COST HOUSES AND ASSOCIATED ST   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/28    Duration of Contract   2 Month(s)           Awarded Bidder(s):           KISHMAY INOV",
+      "matched_keywords": [
+        "RDA"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "3d306ca4ebfe7e7a",
+      "title": "IT related equipment and server CIIP",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478550",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "RESILAND CA+ Program: Tajikistan Resilient Landscape Restoration Project | Central Asia | Invitation for Bids | Request for Quotations |  INVITATION TO PARTICIPATE IN A REQUEST FOR QUOTATIONS  Tajikistan Resilient Landscape Restoration Project  &nbsp;&ldquo;IT related server and equipment CIIP &rdquo;  Request for Quotations Number: TRLRP-IT-S-CIIP-GR-2.1-0926  The Government of the Republic of Tajikistan has received grant funding from the World Bank to implement the &ldquo;Tajikistan Resilient Landscape Restoration Project&rdquo; aimed at increasing the area of land under sustainable management in selected districts of Tajikistan, as well as promoting cooperation among Central Asian countries in the restoration of transbounda",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "32909e90c5b163ff",
+      "title": "Review and Updating of Feasibility Studies, Technical Assessments and Detailed Engineering Design for Irrigation Schemes",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478016",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "GFPP to Support Preparation of Competitive, Resilient Agriculture and Irrigation Services (CRAIS) in | Azerbaijan | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)    The Republic of Azerbaijan    Project Preparation in relation to: Competitive and Resilient Agriculture and Irrigation Services (CRAIS) Project    Loan/Grant No.: TF0D1739    Assignment Title: Review and Updating of Feasibility Studies, Technical Assessments and Detailed Engineering Design for Irrigation Schemes    Reference No.: CRAIS-P515925-CS-CQS/1   The Ministry of Agriculture of the Republic of Azerbaijan has received grant financing from the World Bank for the preparation of the proposed Competitiv",
+      "matched_keywords": [
+        "Ministry of Agriculture",
+        "World Bank",
+        "feasibility studies"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    {
+      "id": "1d0882dfe112f3d2",
+      "title": "Construction of Biosafety Level 2 (BSL-2) and Biosafety Level 3 (BSL-3) Laboratories at the Istanbul (Pendik), Izmir (Bornova), and Konya Veterinary Control Institute Directorates",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00478579",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "02-Nov-2026",
+      "snippet": "Turkey Climate Smart and Competitive Agricultural Growth Project (TUCSAP) | Turkiye | Contract Award | Request for Bids |   Contract Award   Project: P175011-Turkey Climate Smart and Competitive Agricultural Growth Project (TUCSAP)  Loan/Credit/TF Info: IBRD-93720  Bid/Contract Reference No: W.GKGM.CS2.1-02  Procurement Method: RFB-Request for Bids  Scope of Contract:  Construction of Biosafety Level 2 (BSL-2) and Biosafety Level 3 (BSL-3) Laboratories at Konya Veterinary Control Institute Directorate   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/27    Duration of Contract   12 Month(s)           Awarded Bidder(s):           ASMN YKSELEN NAAT A.. (1112251)  AH MESUT MAH. 2207",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
     {
       "id": "ad0694686ba069bd",
       "title": "It Equipment for UCP Luanda, UCP Lubango and Young Professionals",
