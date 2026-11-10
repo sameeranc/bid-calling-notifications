@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T15:25:51.369793+00:00",
+  "generated_at": "2026-11-10T15:43:41.842557+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 9,
-  "total_count": 222,
+  "new_today_count": 13,
+  "total_count": 214,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 9
+      "matched": 13
     },
     "reliefweb": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 114,
+      "fetched": 115,
       "matched": 0
     },
     "cbsl": {
@@ -26,6 +26,189 @@
     }
   },
   "items": [
+    {
+      "id": "5cd8f645426cb9c5",
+      "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Ambo city",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480274",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Urban Productive Safety Net and Jobs Project | Ethiopia | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (REOI)    (Consulting Services - Individual Consultant Selection)   The  Oromia Bureau of Industry and Enterprise  invites qualified and eligible applicants for the position of  Youth Employment Apprenticeship Specialist  under the  Urban Productive Safety Net and Jobs Project (UPSNJP)  financed by the World Bank.   &nbsp;Positions #1: Youth Employment Specialist for the following cities        City      Required No.      Reference Number         Ambo    1    ET-OROMIA-OJCVB/AMBO-573676-CS-INDV      Asella    1    ET-OROMIA-OJCVB/ASELLA-573672-CS-INDV     ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "0bb758ee472b5e0f",
+      "title": "Subdivision Survey of the Collective CLOAs 2026 - C",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480409",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Support to Parcelization of Lands for Individual Titling (SPLIT) Project | Philippines | Invitation for Bids | Request for Bids |   Invitation to Bid for   Subdivision Survey of the Collective CLOAs 2026-C   &nbsp;   The Government of the Philippines (GOP) has received a Loan from the World Bank toward the cost of Support to Parcelization of Lands for Individual Titling Project (Project SPLIT), and it intends to apply part of the proceeds of this Loan to payments under the contract for  Subdivision Survey 2026-C &ndash; SPLIT-REF-063I .  The  Department of Agrarian Reform  now invites bids for the various works with description, Estimated Project Costs (EPCs) and required completion period for the lots as indicated the b",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "e7e0965e95097935",
+      "title": "Procurement Manager",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480254",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Georgia Relief and Recovery for Micro, Small, and Medium Enterprises | Georgia | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    Georgia    Project Name:  The Relief and Recovery for Micro, Small and Medium Enterprises (MSMEs)   Project No:  P173975   Loan No.  9239-GE   Assignment Title:  Procurement Manager   Reference No.  GE-GEDC-CS-IC-48  &nbsp;   Introduction    JSC Georgian Economic Development Corporation (GEDC), within the Relief and Recovery for Micro, Small and Medium Enterprises (MSMEs) Project supported by the World Bank (WB) intends to apply part of the loan proceeds for consulting services of Procurement Manager (National Consultant).  The Project Development Objec",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "4a02bd097b04401a",
+      "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Nekemte city",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480294",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Urban Productive Safety Net and Jobs Project | Ethiopia | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (REOI)    (Consulting Services - Individual Consultant Selection)   The  Oromia Bureau of Industry and Enterprise  invites qualified and eligible applicants for the position of  Youth Employment Apprenticeship Specialist  under the  Urban Productive Safety Net and Jobs Project (UPSNJP)  financed by the World Bank.   &nbsp;Positions #1: Youth Employment Specialist for the following cities        City      Required No.      Reference Number         Ambo    1    ET-OROMIA-OJCVB/AMBO-573676-CS-INDV      Asella    1    ET-OROMIA-OJCVB/ASELLA-573672-CS-INDV     ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "18b0a019eafcfeeb",
+      "title": "Supply & Installation of A3 Black & White Printers, A3 Color Printers and High-Speed Scanners for KERA",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480238",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project | India | Contract Award | Request for Quotations |   Contract Award   Project: P178254-Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project  Loan/Credit/TF Info: IBRD-97270  Bid/Contract Reference No: IN-DOADFW-556470-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Supply and Installation of A3 Black and White Printers, A3 Color Printers and High Speed Scanners for KERA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/11/09    Duration of Contract   30 Day(s)           Awarded Bidder(s):           K M TECHNOLOGIES (1122166)  K M Technologies Reg. Off: XVII/1A, Kanno",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "634720cd6d25477e",
+      "title": "Adquisición de equipos técnicos destinados a fortalecer las capacidades de monitoreo ambiental de las instituciones beneficiarias de Colombia, contribuyendo a la implementación del Sistema de Alertas Tempranas para la calidad del agua en el marco",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480397",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Integrated watershed management of the Putumayo-Içá river basin | Latin America and Caribbean | Contract Award | Request for Quotations |   Contract Award   Project: P172893-Integrated watershed management of the Putumayo-I river basin  Loan/Credit/TF Info: TF-B8254  Bid/Contract Reference No: CI-WCS-565808  Procurement Method: RFQ-Solicitud de cotizaciones  Scope of Contract:  Adquisicin de equipos tcnicos destinados a fortalecer las capacidades de monitoreo ambiental de las instituciones beneficiarias de Colombia Lote 2   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/09    Duration of Contract   90 Day(s)           Awarded Bidder(s):           EQUIPOS INDUSTRIALES FENIX SAS (1142411)  licita",
+      "matched_keywords": [
+        "watershed management"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "64968d9ffc5646bd",
+      "title": "Procurement of Publicity Services (Documentary and Airing) - National and Community Radios and Newspapers",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480229",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "SADC Regional Statistics Project | Eastern and Southern Africa | Contract Award | Direct Selection |   Contract Award   Project: P175731-SADC Regional Statistics Project  Loan/Credit/TF Info: IDA-E1900  Bid/Contract Reference No: MW-NSO-564239-NC-DIR  Procurement Method: DIR-Direct Selection  Scope of Contract:  Provision of Production Services for Jingles CEA 2   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/05/18    Duration of Contract   30 Day(s)           Awarded Bidder(s):           ZODIAK BROADCASTING STATION (758543)  P/Bag 312 Capital City Lilongwe 3 Country: Malawi      Bid Price at Opening MWK 2512495.11  Evaluated Bid Price MWK 2512495.11      Sign",
+      "matched_keywords": [
+        "CEA"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "03c60e7e00c4aaa0",
+      "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Bishoftu city",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480291",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Urban Productive Safety Net and Jobs Project | Ethiopia | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (REOI)    (Consulting Services - Individual Consultant Selection)   The  Oromia Bureau of Industry and Enterprise  invites qualified and eligible applicants for the position of  Youth Employment Apprenticeship Specialist  under the  Urban Productive Safety Net and Jobs Project (UPSNJP)  financed by the World Bank.   &nbsp;Positions #1: Youth Employment Specialist for the following cities        City      Required No.      Reference Number         Ambo    1    ET-OROMIA-OJCVB/AMBO-573676-CS-INDV      Asella    1    ET-OROMIA-OJCVB/ASELLA-573672-CS-INDV     ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "6b664b897534e797",
+      "title": "Hiring of Consultancy firm for Preparation of ESIA for Integrated Gongri Hydropower Project (HPP) and Jeri Pumped Storage Project (PSP)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480235",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Accelerating Transport and Trade Connectivity in Eastern South Asia Phase 2 - Bhutan Project | Bhutan | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P181278-Accelerating Transport and Trade Connectivity in Eastern South Asia Phase 2 - Bhutan Project  Loan/Credit/TF Info: IDA-77560; IDA-E4310  Bid/Contract Reference No: DGPC/ACCESS/ESIA GONGRI-JERI/2025/02  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Consultancy Services for Preparation of Environmental and Social Impact Assessment (ESIA) for Integrated Gongri Hydropower Project and Jeri Pumped Storage Project, Bhutan   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/26    Duration of Contract  ",
+      "matched_keywords": [
+        "Social Impact Assessment"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "e91a82e454cbcaf2",
+      "title": "Recruitment of 1 additional procurement Specialist for UDHB UPSNJP regional Hub",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480267",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Urban Productive Safety Net and Jobs Project | Ethiopia | Request for Expression of Interest | Individual Consultant Selection |   Request for Expression of Interest   (Consulting Services- Individual Consultant Selection)  Urban Development Bureau, Urban Productive Safety Net and Job Project (UPSNJP)  Grant Number- D732-ET  Oromia Urban Development Bureau invite qualified eligible individuals of the following positions for Regional Urban Productive Safety Net and Job Project PCU, which is financed by World Bank and Government of Ethiopia.   Position # 1 :  Procurement Specialist for Regional HUB    Required number: 1    Ref # ET-OROMIA-UDHB-573623-CS-INDV for Regional HUB    &nbsp; Specific roles and responsibilities  ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "0f870ca2422fea95",
+      "title": "Diseñar, desarrollar e implementar una campaña integral de comunicación del Proyecto GEF Manejo Integrado de la Cuenca del río Putumayo-Içá, basada en un enfoque de educomunicación, que articule los distintos componentes",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480406",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Integrated watershed management of the Putumayo-Içá river basin | Latin America and Caribbean | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P172893-Integrated watershed management of the Putumayo-I river basin  Loan/Credit/TF Info: TF-B8254  Bid/Contract Reference No: CF-WCS-552799  Procurement Method: CQS-Seleccin basada en calificaciones de consultores  Scope of Contract:  Disear, desarrollar e implementar una campaa integral de comunicacin del Proyecto GEF Manejo Integrado de la Cuenca del ro Putumayo-I, basada en un enfoque de educomunicacin, que articule los d   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/15    Duration of Contract   10 Month(s)      Awarded Fi",
+      "matched_keywords": [
+        "watershed management"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "fa9811ca2047dff1",
+      "title": "Supply and Installation of Projector and Projector screen for KERA",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480236",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project | India | Contract Award | Request for Quotations |   Contract Award   Project: P178254-Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project  Loan/Credit/TF Info: IBRD-97270  Bid/Contract Reference No: IN-DOADFW-556469-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Supply and Installation of Projector and Projector Screen for KERA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/11/09    Duration of Contract   30 Day(s)           Awarded Bidder(s):           K M TECHNOLOGIES (1122166)  K M Technologies Reg. Off: XVII/1A, Kannothra Bldg., Opp. K.K Apartments, Vadavat",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
+    {
+      "id": "941656f6d24712c9",
+      "title": "Consultancy Services for Construction Supervision Services for Ege Neighborhood Interchange Bridge Project",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480262",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "09-Nov-2026",
+      "snippet": "Climate and Disaster Resilient Cities Project | Turkiye | Request for Expression of Interest | Quality And Cost-Based Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (REOI)    (CONSULTING SERVICES &ndash; FIRMS SELECTION)   &nbsp;   T&Uuml;RKYE    CLIMATE AND DISASTER RESILIENT CITIES PROJECT (CDRCP)    &nbsp;   Loan No.:  9444-TR  &nbsp;   Assignment Title:  Consultancy Services for Construction Supervision Services for Ege Neighborhood Interchange Bridge Project  &nbsp;   Reference No . (as per Procurement Plan): IZMIR-CDRC-C1  &nbsp;  1. The ILBANK has received financing from the World Bank toward the cost of the Climate and Disaster Resilient Cities Project (CDRCP) and intends to apply part of the proceeds for cons",
+      "matched_keywords": [
+        "World Bank",
+        "climate"
+      ],
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10"
+    },
     {
       "id": "e6ef4c1e35a1ceea",
       "title": "COSS and Rate Review Consultancy",
@@ -2899,303 +3082,6 @@
       ],
       "first_seen": "2026-07-14",
       "last_seen": "2026-07-14"
-    },
-    {
-      "id": "d4e9ce884f6019b4",
-      "title": "Procurement and Contract Management Specialist",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455897",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Accelerating Sustainable Energy Transition Program | East Asia and Pacific | Request for Expression of Interest | Individual Consultant Selection |  [INDONESIA]&nbsp;  Clean Energy and Power Trade Development in Southeast Asia Project of the Multi-Phase Programmatic Approach Accelerating Sustainable Energy Transition/MPA ASET&nbsp;  Project/Grant No.: P181555 / IDA -E3430&nbsp;  Assignment Title:  Procurement and Contract Management Specialist&nbsp;   Reference No.: ID-ACE-539896-CS-INDV&nbsp;  The ASEAN Centre for Energy has received financing from the World Bank toward the cost of the Clean Energy and Power Trade Development in Southeast Asia Project of the Multi-Phase Programmatic Approach Accelerating Sustainable Energy Transition/MPA",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "f3fdb7994eed0b9a",
-      "title": "CONSULTORÍA INDIVIDUAL ESPECIALISTA ENCARGADO DE LA OFICINA REGIONAL YAQUE DEL NORTE (JUL-2026 - DIC-2027)",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455953",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "DR Resilient Agriculture and Integrated Water Resources Management | Dominican Republic | Contract Award | Direct Selection |   Contract Award   Project: P163260-DR Resilient Agriculture and Integrated Water Resources Management  Loan/Credit/TF Info: IBRD-89120  Bid/Contract Reference No: DO-RAWRM-553780-CS-CDS  Procurement Method: CDS-Seleccin directa de consultores  Scope of Contract:  Especialista Encargado de la Oficina Regional Yaque del Norte, seleccin directa de Nelson Bienvenido Cruz Santos, por un monto de US$48,600.00   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/30    Duration of Contract   18 Month(s)           Awarded Firm(s):           NELSON CRUZ SANTOS (799882)  C",
-      "matched_keywords": [
-        "water resources"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "a3baf04d5f068f92",
-      "title": "ASEAN RE Project Database and Investment Assessment & Derisking Financing Framework",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455899",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Accelerating Sustainable Energy Transition Program | East Asia and Pacific | Request for Expression of Interest | Consultant Qualification  Selection |  [INDONESIA]&nbsp;  Clean Energy and Power Trade Development in Southeast Asia Project of the Multi-Phase Programmatic Approach Accelerating Sustainable Energy Transition/MPA ASET&nbsp;  Project/Grant No.: P181555 / IDA -E3430&nbsp;  Assignment Title:&nbsp; ASEAN Renewable Energy Project Database, Investment Assessment, and Derisking Financing Framework   The ASEAN Centre for Energy has received financing from the World Bank toward the cost of the Clean Energy and Power Trade Development in Southeast Asia Project of the Multi-Phase Programmatic Approach Accelerating Sustainable Energy Transiti",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "5dce3a7af948ee82",
-      "title": "Chattogram Water Supply Improvement Project",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00406123",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Chattogram Water Supply Improvement Project | Bangladesh | General Procurement Notice |   GENERAL PROCUREMENT NOTICE   &nbsp;  BANGLADESH  Chattogram Water Supply Improvement Project  Water Global Practice  GENERAL PROCUREMENT NOTICE  Credit No. 7674-BD &amp; 7675-BD  Project ID No. P176429  &nbsp;  The Government of the People&#39;s Republic of Bangladesh (GoB) has received financing in the amount of US$ 280 Million equivalent from the World Bank toward the cost of the Chattogram Water Supply Improvement Project, and it intends to apply part of the proceeds to payments for goods, works, non-consulting services and consulting services to be procured under this project. This proje",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "448d799ad232856e",
-      "title": "Supply of Seedlings for FAO Activities in Kogi State",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455910",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) | Nigeria | Contract Award | Request for Quotations |   Contract Award   Project: P175237-Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL)  Loan/Credit/TF Info: IDA-70150  Bid/Contract Reference No: KGACRESAL/GO/25/002/RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Supply of Seeds and Seedlings for FAO Activities in Kogi State   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/02/11    Duration of Contract   4 Week(s)           Awarded Bidder(s):           3D'S GLOBAL CONCEPT (1104654)  24 Mombasa Street, Wuse Zone 5, Abuja. Country: Nigeria      Bid Price at Opening NGN 198900000.",
-      "matched_keywords": [
-        "FAO"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "10f5447e345fdffa",
-      "title": "Grant Facility for the Preparation of the Groundwater for Sustainability and Sovereignty Project (GRASS) Feasibility Studies and Engineering Design for Groundwater Sector",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455741",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Food and Water Security Project Preparation Grant | Indonesia | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P181912-Food and Water Security Project Preparation Grant  Loan/Credit/TF Info: TF-C8784  Bid/Contract Reference No: PIU-ATAB-CS-06  Procurement Method: CQS-Consultant Qualification Selection  Scope of Contract:  Negotiation for the procurement of consulting services for Feasibility Studies and Engineering Design for Groundwater Sector   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/23    Duration of Contract   6 Month(s)    Minimum Qualifying Score   70          Awarded Firm(s):           SATRIA BUMISTRATA SERVICE (1104373)  Coun",
-      "matched_keywords": [
-        "feasibility studies"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "642ebec541d2e672",
-      "title": "Engagement of Consultant for Institutional Reform and Regulatory Framework Streghtening to Enable Private Sector Participation (PSP) in the Water Sector",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455804",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results | Nigeria | Request for Expression of Interest | Consultant Qualification  Selection |   EKITI STATE   SUSTAINABLE URBAN, RURAL WATER SUPPLY SANITATION AND HYGIENE (SURWASH)   &nbsp;   Issue Date :11  th,  &nbsp;June 2026     REQUEST FOR EXPRESSIONS OF INTEREST (REOI)    &nbsp;FOR    CONSULTANCY SERVICES    &nbsp;  The Federal Government of Nigeria (FGN) has received a credit &nbsp;from the International Development Association (IDA) under the World Bank&nbsp;towards the cost of the Nigeria Sustainable Urban, Rural Water Supply Sanitation &amp; Hygiene (NG-SURWASH) Programme and intends to apply part of the proceeds for &nbsp;Consultancy services&nbsp;under the SURWASH program. ",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "a28c42356c84ef6c",
-      "title": "Supply of Farm tools for FAO Activities in Kogi State",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455808",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL) | Nigeria | Contract Award | Request for Quotations |   Contract Award   Project: P175237-Agro-Climatic Resilience in Semi-Arid Landscapes (ACReSAL)  Loan/Credit/TF Info: IDA-70150  Bid/Contract Reference No: KGACRESAL/GO/25/001/RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Supply of Farm Tools and Personal Protective Equipment(PPE)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/02/04    Duration of Contract   4 Week(s)           Awarded Bidder(s):           KENNY(NIG) SERVICES ENT. (1104486)  4th Floor Oyo House, Raiph Shodeinde Street, Central Business District, Abuja. Country: Nigeri",
-      "matched_keywords": [
-        "FAO"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "9c7848282c0b5e42",
-      "title": "Procurement of 25 units Full Diving Equipment",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455809",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Ethiopia Flood Management Project | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P176327-Ethiopia Flood Management Project  Loan/Credit/TF Info: IDA-E1240  Bid/Contract Reference No: ET-EDRMC-514981-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Procurement of 25 units Full Diving Equipment for Ethiopia Disaster Risk Management Commission   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/02/10    Duration of Contract   120 Day(s)           Awarded Bidder(s):           BOMDIA TRADING PLC (1104455)  Ethiopia, Addis Ababa Email: Bomdiaplc15@gmail.com Country: Ethiopia      Bid Price at Opening E",
-      "matched_keywords": [
-        "disaster risk"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "e8ac00073a4ea2e5",
-      "title": "SUPPLY AND DELIVERY OF PEST AND DIESEASE AND CONTROL ITEMS.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455825",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP | Eastern and Southern Africa | Contract Award | Request for Quotations |   Contract Award   Project: P177816-Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP  Loan/Credit/TF Info: IDA-73270  Bid/Contract Reference No: KE-LAMU COUNTY-544808-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  SUPPLY AND DELIVERY OF PEST AND DIESEASE MANAGEMENT VERTENARY ITEMS FOR DROUGHT MITIGATION INTERVENTIONS   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/20    Duration of Contract   120 Day(s)           Awarded Bidder(s):           TANWEER GENERAL SUPPLY (1104458)  P.O BOX 21 LAMU Country: ",
-      "matched_keywords": [
-        "drought"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "714f6ccf26e661e1",
-      "title": "Content Development Project Manager (upper secondary school, \npilot lyceums’ coordination)",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455589",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Lifting Education Access and Resilience in times of Need in Ukraine Program | Ukraine | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (  LEARN-IC-NIO-2.11.1 &ndash; Content Development Project Manager (upper secondary school, pilot lyceums&rsquo; coordination))   &nbsp;  &nbsp;   UKRAINE    Lifting Education Access and Resilience in Times of Need in Ukraine Program   Grant No. TF0C5794  &nbsp;   Assignment Title:   Content Development Project Manager (upper secondary school, pilot lyceums&rsquo; coordination)    Reference No . LEARN-IC-NIO-2.11.1  Ukraine and World bank have signed the agreements for the Program &ldquo;Lifting Education Access and Resilience in times of Need in Ukrain",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "e6f9fe87d6625e9c",
-      "title": "Selection of Individual Consultant for  Monitoring, Customizing, and developing Software.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455723",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Governance Modernization to Enable Efficient Service Delivery Project | Ethiopia | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; INDIVIDUAL CONSULTANT SELECTION)   &nbsp;   Country:  Federal Democratic Republic of Ethiopia   Employer:  Federal Civil Service Commission (FCSC)   Project : Governance Modernization to Enhance Efficient Service Delivery Project   Credit No .: 7619-ET   Assignment title : Individual Consultant - Monitoring, Customizing and Developing Software   Reference No .: ET -CSC-544241-CS-INDV   &nbsp;    Background    The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Governa",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "7c723050596a2ee6",
-      "title": "Consulting Service to conduct External Audit for Eastern and Southern Africa Girls’ Empowerment and Resilience (EAGER) programme",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455830",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "East Africa Girls' Empowerment and Resilience | Southwest Indian Ocean | Request for Expression of Interest | Least Cost Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRM SELECTION)   &nbsp;   Country:  Ethiopia   Name of Project:  Eastern and Southern Africa Girls&rsquo; Empowerment and Resilience (EAGER) programme   Grant No : P179293   Assignment Title : Consulting Service to conduct Project Audit   Reference No . REF: ET-AUC-552838-CS-LCS  &nbsp;  The African Union Commission has received financing from the World Bank toward the cost of  Eastern and Southern Africa Girls&rsquo; Empowerment and Resilience (EAGER) programme  and intends to apply part of the proceeds for consulting serv",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "42be947e08a1a00e",
-      "title": "Recrutement de cabinet pour élaboration de la stratégie de participation de Madagascar au marché carbone",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455878",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "09-Jul-2026",
-      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Request for Expression of Interest | Consultant Qualification  Selection |  &nbsp;     &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;    &nbsp;    &nbsp;     &nbsp;  &nbsp;  &nbsp;   PRIMATURE    ----------    CELLULE DE PREVENTION ET D&rsquo;APPUI A LA GESTION DES URGENCES (CPGU)    ---------    PROJET REGIONAL POUR LA RESILIENCE CLIMATIQUE     PRRC    &nbsp;(P180171, IDA N&deg;7326-MG)    ---------   &nbsp;   SOLLICITATION DE MANIFESTATIONS D&rsquo;INTERET (SERVICES DE CONSEIL-SELECTION DES FIRMES)   &nbsp;   SELECTION DE CONSULTANTS PAR LES EMPRUNTEURS DE LA BANQUE MONDIALE   &nbsp;  &nb",
-      "matched_keywords": [
-        "climate",
-        "climate resilience"
-      ],
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11"
-    },
-    {
-      "id": "a1691084c77764fb",
-      "title": "Recrutement d’un Consultant International pour la revue à mi-parcours du Projet d’élargissement des opportunités d’apprentissages (PRODA)",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455222",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "Expanding Opportunities for Learning | Djibouti | Request for Expression of Interest | Individual Consultant Selection |      &nbsp;  &nbsp; &nbsp;  MINIST&Egrave;RE DE L&rsquo;&Eacute;DUCATION NATIONALE ET DE LA FORMATION PROFESSIONNELLE    PROJET D&rsquo;  &Eacute;LARGISSEMENT DES OPPORTUNIT&Eacute;S D&rsquo;APPRENTISSAGE   (PRODA-FA)    PROJET N&deg;166059    AVIS DE MANIFESTATION D&rsquo;INT&Eacute;R&Ecirc;T DU RECRUTEMENT D&rsquo;UN     CONSULTANT&nbsp;    &nbsp;  Le Gouvernement de Djibouti &agrave; travers le Minist&egrave;re de l&rsquo;&Eacute;ducation Nationale et de la Formation Professionnelle (MENFOP) a re&ccedil;u un don pour financer le projet&nbsp; intitul&eacute; &laquo;&nbsp; Fond Additionnel au",
-      "matched_keywords": [
-        "GIS"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
-    },
-    {
-      "id": "18b9c84b878a424f",
-      "title": "BERESTI connection to electricity public distribution system",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455114",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "Strengthening Disaster Risk Management Project | Romania | Contract Award | Request for Quotations |   Contract Award   Project: P166302-Strengthening Disaster Risk Management Project  Loan/Credit/TF Info: IBRD-95290  Bid/Contract Reference No: RO-GIES-550859-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Racordare la reteaua electrica conform ATR nr. 3050260200826 din 13.03.2026 a noii cladiri pentru Garda de interventie nr. 2 Beresti din cadrul ISUJ Galati, inclusiv servicii conexe   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/03    Duration of Contract   1.5 Month(s)           Awarded Bidder(s):           LUGANA ELECTRIC (1",
-      "matched_keywords": [
-        "disaster risk"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
-    },
-    {
-      "id": "efa73228ec1edc96",
-      "title": "Procurement of 3 Hybrid Vehicle All Wheel Drive Off Road Vehicles",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455187",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "Climate Resilient Water Services Project | Kyrgyz Republic | Invitation for Bids | Request for Bids |   The advertisement is published on the website of the Government Electronic Procurement Portal of the Kyrgyz Republic .&nbsp; No. of the Advertisement 260707573412124    Climate&nbsp;Resilient Water Services Project  &nbsp;  (CRWSP),&nbsp;  Water Resources Service under&nbsp;  the Ministry of Water Resources,&nbsp;  Agriculture and Processing Industry&nbsp;  of the Kyrgyz Republic    RFQ #.:&nbsp;  CREWSP/G/C.1.2/RFB/1  &nbsp;&ldquo;Procurement of 3 Hybrid All Wheel Drive Off Road Vehicles&rdquo;    Date of request for&nbsp;  proposals:  July 7 , 2026    For: All bidders    Dear Suppliers,   ",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
-    },
-    {
-      "id": "e0996381f8c32e21",
-      "title": "Procurement of Goods (Lot-1)-Supply of HDPE Pipes and (Lot-2)-Supply of Cast Iron, and HDPE Fittings for Guradhamole Climate Resilient Multi-Village Water Supply Project, by MoWE.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455247",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "One WASH—Consolidated Water Supply, Sanitation, and Hygiene Account Project (One WASH—CWA) | Ethiopia | Contract Award | Request for Bids |   Contract Award   Project: P167794-One WASHConsolidated Water Supply, Sanitation, and Hygiene Account Project (One WASHCWA)  Loan/Credit/TF Info: IDA-64450  Bid/Contract Reference No: ET-MOWE-539871-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot-2: Procurement of Goods (Lot-1)-Supply of HDPE Pipes and (Lot-2)-Supply of Cast Iron, and HDPE Fittings for Guradhamole Climate Resilient Multi-Village Water Supply Project, by MoWE.   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/29    Duration of Contract   2 Month(s)           Awarded B",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
-    },
-    {
-      "id": "b434b6cd91eeaf3c",
-      "title": "Travaux de réalisation de réseau secondaire et de voiries dans le bassin versant de Mbao (Partie Sud / Marigot)",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455238",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "Stormwater Management and Climate Change Adaptation Project 2 | Senegal | Contract Award | Request for Bids |   Contract Award   Project: P175830-Stormwater Management and Climate Change Adaptation Project 2  Loan/Credit/TF Info: IDA-68890  Bid/Contract Reference No: SN-ADM-502621-CW-RFB  Procurement Method: RFB-Appel d'offres  Scope of Contract:  Travaux de ralisation de rseau secondaire aux abords du marigot de Mbao (Partie sud du BV Mbao)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/10    Duration of Contract   6 Month(s)           Awarded Bidder(s):           KELIMANE ENTREPRISE (1061341)  Malika sur mer 2 villa N27 Dakar - Tlphone : 33 87856 46 Email : eccot",
-      "matched_keywords": [
-        "climate",
-        "climate change adaptation"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
-    },
-    {
-      "id": "d74aa2c7807d5a4b",
-      "title": "Construction of Msenjere EPA Office. TA.Kanyenda, Nkhotakota Northeast Constituency, Bua Ward, Aron VDC, Aron Village",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455300",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2) | Malawi | Invitation for Bids | Request for Bids |  Advert for the construction of Msenjere EPA  &nbsp; ",
-      "matched_keywords": [
-        "climate",
-        "climate resilience"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
-    },
-    {
-      "id": "06a1d5be41dae6b3",
-      "title": "Supply and delivery of four (04) Tipper trucks under Phase II",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455193",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "07-Jul-2026",
-      "snippet": "Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project | Uganda | Contract Award | Request for Bids |   Contract Award   Project: P170466-Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project  Loan/Credit/TF Info: IDA-65920; IDA-D5960  Bid/Contract Reference No: UG-UWA-521975-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Supply of 04 units of Tipper Trucks   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/02/03    Duration of Contract   4 Month(s)           Awarded Bidder(s):           VICTORIA MOTORS LIMITED (578825)  Plot 8/10 Old Port-Bell RoadKAMPALA-UGANDAinfo@motor.g,achgroup.com p/kafeero@gmach.ug Cou",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09"
     }
   ]
 }
