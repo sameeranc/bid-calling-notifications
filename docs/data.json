@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T15:43:41.842557+00:00",
+  "generated_at": "2026-11-17T17:00:17.450985+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 13,
-  "total_count": 214,
+  "new_today_count": 22,
+  "total_count": 213,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 13
+      "matched": 21
     },
     "reliefweb": {
       "ok": true,
@@ -16,8 +16,8 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 115,
-      "matched": 0
+      "fetched": 116,
+      "matched": 1
     },
     "cbsl": {
       "ok": true,
@@ -26,6 +26,324 @@
     }
   },
   "items": [
+    {
+      "id": "9d11e8270eb2826a",
+      "title": "DESIGN, SUPPLY,INSTALLATION AND COMMISSIONING OF METEOROGICAL WEATHER RADAR SYSTEM",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481720",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2) | Malawi | Contract Award | Direct Selection |   Contract Award   Project: P181308-Regional Climate Resilience Program for Eastern and Southern Africa 2 Project (RCRP2)  Loan/Credit/TF Info: IDA-E2800  Bid/Contract Reference No: MW-EP&D-557319-CW-DIR  Procurement Method: DIR-Direct Selection  Scope of Contract:  Supply, installation and commissioning of meteorogical Weather Radar System   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/09/21    Duration of Contract   3 Month(s)           Awarded Bidder(s):           E TRADING CORPORATION (1143714)  Area 47 Sector 3, Msokera street. Plot No. 179, Lilongwe Coun",
+      "matched_keywords": [
+        "climate",
+        "climate resilience",
+        "weather"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "f7dc63297a179946",
+      "title": "Recruitment of E&S Specialist.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481809",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "GFPP_Seychelles Transformative and Resilient Inclusive Digital Economy | Seychelles | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST   &nbsp;    SEYCHELLES      GFPP - Seychelles&rsquo; Transformative and Resilient Inclusive Digital Economy (STRIDE)    Loan No./Credit No./ Grant No.:    P515960     &nbsp;   Assignment Title:   Recruitment of an Environmental and Social (E&amp;S) Specialist      Reference No . (as per Procurement Plan):    SC-DICT-002-CS-INV     &nbsp;  The Government of Seychelles  has received  financing from the World Bank toward the cost of the   GFPP - Seychelles&rsquo; Transformative and Resilient Inclusive Digital Economy (STRIDE)  , and intends to apply part of t",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "5ced7d83938cd89a",
+      "title": "Supervision of Rehabilitation of Rural Water Services, Huíla 2 (Lots 3 & 4)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481827",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Climate Resilience and Water Security in Angola-RECLIMA | Angola | Contract Award | Consultant Qualification  Selection |   Contract Award   Project: P177004-Climate Resilience and Water Security in Angola-RECLIMA  Loan/Credit/TF Info: IBRD-93700  Bid/Contract Reference No: 85-2CS2/HUILA/R/25  Procurement Method: CQS-Consultant Qualification Selection  Scope of Contract:  FISCALIZAO DO LOTE 2 E LOTE 3 (HUILA) DO PROGRAMA DE REABILITAO DOS SERVIOS DE ABASTECIMENTO DE GUA RURAL GERIDOS PELA COMUNIDADE NO SUL DE ANGOLA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/08/30    Duration of Contract   24 Month(s)    Minimum Qualifying Score   70          Awarded Firm(s):           PEOPLE",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "e09d7e8db5c9da2d",
+      "title": "Travaux de réalisation de quarante-cinq (45) forages communautaires dans les villages, les écoles, les marchés à bétails et de cinq (05) forages à gros débit au profit du PCE-LON",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481953",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Lome-Ouagadougou-Niamey Economic Corridor | Western and Central Africa | Contract Award | Request for Bids |   Contract Award   Project: P168386-Lome-Ouagadougou-Niamey Economic Corridor  Loan/Credit/TF Info: IDA-D8910  Bid/Contract Reference No: BF-HYDROMET-391178-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 4 : Travaux de ralisation de cinq (05) forages  gros dbit (dbit suprieur ou gale  5 m3/h pour r AEPSS et dbitsuprieur ou gale  3,5 m3/h pour les PEA) au profit du PCE-LON   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2024/11/04    Duration of Contract   120 Day(s)           Awarded Bidder(s):           FGE SARL (1083059)  11 BP 899 Ouaga",
+      "matched_keywords": [
+        "hydromet"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "23206987c506cc28",
+      "title": "Provision of Automation of Services for Marriage Registration for the Office of the Attorney General",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481963",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Kenya Digital Economy Acceleration Project | Kenya | Invitation for Bids | Request for Bids |    Specific Procurement Notice     Request for Bids    Non-Consulting Services   &nbsp;   Employer:  Information and Communications Technology Authority (ICTA)   Project:  Kenya Digital Economy Acceleration Project   Contract title:  Provision of Automation Services for Marriage Registration for the Office of the Attorney General   Country:  Kenya   Loan No. /Credit No.:  KE-7289 and KE-7290   RFB No:  KE-ICTA-580413-NC-RFB   Issued on:  17 November 2026  &nbsp;  1.&nbsp;&nbsp;&nbsp; The  Government of Kenya  has received financing from the World Bank toward the cost of the  Kenya Digital Econ",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "e85a6f0adbbea059",
+      "title": "Procurement of Anak Timbangan standar E2 (1 mg – 2 kg) : 36 Units",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481967",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Indonesia Health Systems Strengthening Project | Indonesia | Invitation for Bids | Request for Quotations |  Specific Procurement Notice (SPN) Request for Quotations (RfQ) (Single-Envelope Bidding Process) Date: 3 November 2026   Country: Indonesia Project Name: Indonesia Health Systems Strengthening Project Contract Title: Procurement of E2 Standard Weights (1 mg &ndash; 2 kg) Loan Nos.: 9626-ID (IBRD) and 4430-INO (ADB) RfQ Reference No.: ID-PMU INPULS-572373-GO-RFQ   1. The Government of Indonesia has received joint financing from the World Bank and the Asian Development Bank (ADB) toward the cost of the Indonesia Health Systems Strengthening Project, and intends to apply part of the proceeds to ",
+      "matched_keywords": [
+        "ADB",
+        "Asian Development Bank",
+        "World Bank"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "6dff15e8c3496071",
+      "title": "Improvements to D1 Canal (2+730-2+980) in Tract II Muruthawela Scheme",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481756",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: CRESMPA-1/RP/WORKS/ID-HAM/NCB/082  Procurement Method: RFB-Request for Bids  Scope of Contract:  Improvements to DI canal (2+730-2+980) in Tract II Muruthawela Scheme Contract no - CResMPA-l/RP/WQRKS/ID-HAM/NCB/082   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/01/13    Duration of Contract   8 Month(s)           Awarded Bidder(s):           GARUSINGHE CONSTRUCTION (870233)  Sri Lanka Country: Sri Lanka      Bid ",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "737d579afbf18efb",
+      "title": "Travaux de réalisation de quarante-cinq (45) forages communautaires dans les villages, les écoles, les marchés à bétails et de cinq (05) forages à gros débit au profit du PCE-LON",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481951",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Lome-Ouagadougou-Niamey Economic Corridor | Western and Central Africa | Contract Award | Request for Bids |   Contract Award   Project: P168386-Lome-Ouagadougou-Niamey Economic Corridor  Loan/Credit/TF Info: IDA-D8910  Bid/Contract Reference No: BF-HYDROMET-391178-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 2: Ralisation de quinze (15) forages quips de PMH pour le compte du PCE-LON   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2024/11/04    Duration of Contract   120 Day(s)           Awarded Bidder(s):           CHAMPY FORAGE (1090023)  01 BP 5490 Ouaga 01 Tl : +226 70 20 31 08 Email : ktraore@champyforage.com RC NBF OUA 2021 B 2465 IFU N00",
+      "matched_keywords": [
+        "hydromet"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "2a54d983373dad18",
+      "title": "Consulting services for the development of the National One Health Action Plan including related implementation and monitoring and evaluation documents",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481793",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia | Central Asia | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    Country:  Republic of Tajikistan      Project:  One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia   Grant No.:  TF-C7889   Assignment Title:  Consulting services for the development of the National One Health Action Plan including related implementation and monitoring and evaluation documents   Reference No. (as per Procurement Plan):  OHP/CS/CQS-2026/20  1. The Republic of Tajikistan has received financing from the International Development Association and International Bank for Reconstruction and Developme",
+      "matched_keywords": [
+        "monitoring and evaluation"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "cdca1a5cceec2529",
+      "title": "Feasibility Study, Preparation of Preliminary and Detailed Designs, Bidding Documents, Technical Supervision for Irrigation Systems",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00480348",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Armenia Water and Irrigation Services Enhancement Program - Phase 1 Project | Armenia | Request for Expression of Interest | Quality And Cost-Based Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (CONSULTING SERVICES &ndash; FIRMS SELECTION)   &nbsp;   REPUBLIC OF ARMENIA    WATER AND IRRIGATION SERVICES ENHANCEMENT (WISE) PROGRAM &ndash; PHASE 1 PROJECT   Loan No.: 9831-AM  &nbsp;   Assignment Title:  Feasibility Study, Preparation of Preliminary and Detailed Designs, Bidding Documents, Technical Supervision for Irrigation Systems   Reference No. (as per Procurement Plan):  AM-WC-CS-03/1  &nbsp;  The Republic of Armenia has received financing from the World Bank toward the cost of the Water and Irrigation Services Enhancement (WISE) Program &nd",
+      "matched_keywords": [
+        "World Bank",
+        "feasibility study"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "6a4d1b49ad778f36",
+      "title": "Supply and Delivery of Wheelchairs and other assistive devices for 8 Districts and MO-RATE",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481734",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Pathways to Sustainable Livelihoods Project | Lesotho | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;   Request for Bids   &nbsp;   Employer  :   Ministry of Gender, Youth and Social Development    Project:     Pathways to Sustainable Livelihoods Project    Contract title  :   Supply and Delivery of Wheelchairs for 8 Districts and MORATE    Country:   Lesotho    Loan No. /Credit No. / Grant No.:   7148-LS    RFB No:   LS-MOSD-565363-GO-RFQ    Issued on:   29th October 2026   &nbsp;  1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The  Government of Lesotho has received  financing from the World Bank toward the cost of the  Pathways to Sustainable Livel",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "f20b46576afc6c47",
+      "title": "Direct RFP for Hiring of a Consulting Firm for Feasibility Study and Detailed Project Report (DPR)  Preparation for Establishment of Feed Mill and Mineral Mixture Plants by PIU-ARDD under TRESP, Tripura",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481745",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Tripura Rural Economic Growth and Service Delivery Project | India | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P178418-Tripura Rural Economic Growth and Service Delivery Project  Loan/Credit/TF Info: IBRD-95680  Bid/Contract Reference No: IN-ARDD-539365-CS-QCBS  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Evaluated by technical Committee   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/14    Duration of Contract   18 Week(s)    Minimum Qualifying Score   70          Awarded Firm(s):           GREENHEXA TECHSERVE PRIVATE LIMITED (1144248)  Country: India       NORTH EASTERN DEVELOPMENT FINANCE CORPORATION L",
+      "matched_keywords": [
+        "feasibility study"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "e6ce2b5c9403f28e",
+      "title": "Construction of Damsirigama Anicut in beragama unit",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481776",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: CRESMPA-1/RP/WORKS/ID-HAM/NCB/084  Procurement Method: RFB-Request for Bids  Scope of Contract:  Improvements to Damsirigama Anicut   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/01/13    Duration of Contract   9 Month(s)           Awarded Bidder(s):           RESUS ENGINEERING (PRIVATE) LIMITED (1080860)  NO 250/1, TORRINGTON AVENUE, COLOMBO 07 Country: Sri Lanka      Bid Price at Opening LKR  Evaluated Bid Pric",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "9c37bd018b144562",
+      "title": "Recruitment of a procurement specialist.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481826",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "GFPP_Seychelles Transformative and Resilient Inclusive Digital Economy | Seychelles | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST   &nbsp;    SEYCHELLES      GFPP - Seychelles&rsquo; Transformative and Resilient Inclusive Digital Economy (STRIDE)    Loan No./Credit No./ Grant No.:    P515960     &nbsp;   Assignment Title:   Recruitment of Procurement Specialist      Reference No . (as per Procurement Plan):    SC-DICT-001-CS-INV     &nbsp;  The Government of Seychelles  has received  financing from the World Bank toward the cost of the   GFPP - Seychelles&rsquo; Transformative and Resilient Inclusive Digital Economy (STRIDE)  , and intends to apply part of the proceeds for consulting",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "928f87295c16a112",
+      "title": "Travaux de réalisation de quarante-cinq (45) forages communautaires dans les villages, les écoles, les marchés à bétails et de cinq (05) forages à gros débit au profit du PCE-LON",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481952",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Lome-Ouagadougou-Niamey Economic Corridor | Western and Central Africa | Contract Award | Request for Bids |   Contract Award   Project: P168386-Lome-Ouagadougou-Niamey Economic Corridor  Loan/Credit/TF Info: IDA-D8910  Bid/Contract Reference No: BF-HYDROMET-391178-CW-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Lot 3: Ralisation de quinze (15) forages quips de PMH pour le compte du PCE-LON   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2024/11/04    Duration of Contract   120 Day(s)           Awarded Bidder(s):           SIA INGENIERIE (843340)  Tel: 63 78 78 90 Country: Burkina Faso     COTRA GS (1092278)  01 BP 19 OUAGA 01, Tl: 70 10 88 33/64 56 7",
+      "matched_keywords": [
+        "SIA",
+        "hydromet"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "c021bf8284202817",
+      "title": "Treatment of Drainage Lines by various Soil Conservation works by constructing Vegetative check barriers, Dry stone check barriers, Create Wire check barriers and Cement concrete check barriers to reduce the velocity of runoff under DPO Chamba dr 24-25",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00348826",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Integrated Project for Source Sustainability and Climate Resilient Rain-fed Agriculture in Himachal | India | Contract Award | Request for Quotations |   Contract Award   Project: P176943-Saint Vincent and the Grenadines Volcanic Eruption Emergency Project  Loan/Credit/TF Info: IDA-70060  Bid/Contract Reference No: SVG-VEEP-CS-INDV-23  Procurement Method: INDV-Individual Consultant Selection  Scope of Contract:  Consulting Services: Assistant Safeguards Officer   Notice Version No: 1      Date Notification of Award Issued  (YYYY/MM/DD) 2024/05/02    Duration of Contract   6 Month(s)           Awarded Firm(s):           Individual Consultant  Country: St. Vincent and the Grenadines      Scores     Rank:  1         Final Evaluation Price  XCD 3",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "aa2e28ba3cbb48dc",
+      "title": "Construction of Climate Resilient Flood Mitigation Structures (Culverts, Road Drains, Drainage Channels, Foot Bridges, Maintenance Depot, etc.) in Location One: Atlantic Sub-location (New Kru Area), Northern Bushrod Island",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481213",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Liberia Urban Resilience Project | Liberia | Invitation for Bids | Request for Bids |   Specific Procurement Notice (SPN)   &nbsp;   Request for Bids    Works    (Without Prequalification)   &nbsp;  &nbsp;   Employer  : Ministry of Public Works&nbsp;(MPW)    Project:   Liberia Urban Resilience Project (LURP) &ndash; Project Management Unit    Contract title:   Construction for Climate Resilient Flood Mitigation Structures (Culverts, Road Drains, Drainage Channels, Footbridges, Maintenance Deport, etc.) in Location One: Atlantic Sub-Location (New Kru Town Area), Northern Bushrod Island    Country: Liberia    Credit No.: IDA-D7122-LR    RFB No:   REF No.: LR-MPW-579151-CW-RFB    ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "86b8baaf419efc93",
+      "title": "Supply of Transformers and Low Voltage Distribution Boards",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481662",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Accelerating Sustainable and Clean Energy Access Transformation in Mozambique | Mozambique | Invitation for Bids | Request for Bids |   Request for Bids     Country:  Mozambique   Name of Project:  Accelerating Sustainable and Clean Energy Access Transformation (ASCENT)   Contract Title:  Supply of Distribution Transformers &amp; Pole Mounted Transformer Breaker EnclosureBottom of Form   Grant No.:  IDA-E6130   RFB Reference No.:  MZ-EDM-554191-GO-RFB  1.The Government of Mozambique has applied for financing from the World Bank toward the cost of the Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) and intends to apply part of the proceeds toward payments under the Contract for  Supply of Distribution",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "a4d7da4dc13274de",
+      "title": "EPC- Restoration of 132 kV GIS Bageshwar Sub-station and its associated line under CERC,U-PREPARE.",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481860",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Uttarakhand Disaster Preparedness and Resilience Project | India | Contract Award | Request for Bids |   Contract Award   Project: P179749-Uttarakhand Disaster Preparedness and Resilience Project  Loan/Credit/TF Info: IBRD-96540  Bid/Contract Reference No: 01/CERC/WB/BAGESHWAR/UPREPARE/PTCUL/2026  Procurement Method: RFB-Request for Bids  Scope of Contract:  EPC- Restoration of 132 kV GIS Bageshwar Sub-station and its associated line under CERC,U-PREPARE.   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/29    Duration of Contract   18 Month(s)           Awarded Bidder(s):           VISION INDIA SERVICES (1131759)  Block-C, Plot No 451, Opposite G.O MESS, Sunde",
+      "matched_keywords": [
+        "GIS"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "b654923247bd53f5",
+      "title": "HCW treatment units for Ain Shams, French Kaser alainy hospitals, and Eldemerash",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00479721",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Greater Cairo Air Pollution Management and Climate Change Project | Egypt, Arab Republic of | Invitation for Bids | Request for Bids |   Notice of Request for Bids    (Goods)   (Two-Envelope Bidding Process)   Purchaser:  Ministry of Local Development and Environment.   Project:  Greater Cairo Air Pollution Management and Climate Change Project (GCCC).   Contract title:  Supply, Installation, Testing and Commissioning of Hazardous Healthcare Waste (HCW) Treatment Units for Ain Shams Specialized Hospital, Kasr Al Ainy French Hospital, and El Demerdash Hospital.   Country:  Arab Republic of Egypt.   Loan No.:  9166-EG.   RFB No.: EG-EEAA-522621-GO-RFB.    1.  The Ministry of Local Development and Environment has received financ",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "8c558b7a2c826055",
+      "title": "Construction of Aanavanagi regulator in Punanai scheme",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481713",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "16-Nov-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: CRESMPA-1/RP/WORKS/ID-BAT/NCB/045  Procurement Method: RFB-Request for Bids  Scope of Contract:  Construction ofAnavananki regulator in Punanai Scheme, Rugam Division, Contract no: CResMPA-l/RP/WORKS/ID-BAT/NCB/045   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/16    Duration of Contract   6 Month(s)           Awarded Bidder(s):           MURUGES WORKS & CONSTRUCTION (1096665)  Main Street, Chenkalady, Battica",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "c1d20ea0cc9eb7af",
+      "title": "View Archived Procurement Notices",
+      "url": "https://www.treasury.gov.lk/p/procurement-notices/1",
+      "source": "treasury_lk",
+      "source_name": "Sri Lanka Ministry of Finance - Procurement Notices",
+      "published": null,
+      "snippet": "DEPARTMENT OF PROJECT MANAGEMENT AND MONITORING (DPMM) INVITATION FOR REQUEST FOR PROPOSALS (RFP) Selection of a Consultancy Firm to undertake an Independent Verification of Disbursement Linked Indicator (DLI) Results under the ADB-financed Results-Based Lending Program “Strengthening Integrated Health Care and Governance for Universal Health Coverage RFP No: DPMM/RFP/2026/01 Sinhala Invitation - pdf Download Attachment Tamil Invitation - pdf Download Attachment English Invitation - pdf Download",
+      "matched_keywords": [
+        "ADB"
+      ],
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
     {
       "id": "5cd8f645426cb9c5",
       "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Ambo city",
@@ -2756,332 +3074,6 @@
       ],
       "first_seen": "2026-07-21",
       "last_seen": "2026-07-21"
-    },
-    {
-      "id": "f7e7279e058bfc90",
-      "title": "Modular boiler houses for healthcare facilities",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456282",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "12-Jul-2026",
-      "snippet": "Health Enhancement And Lifesaving (HEAL) Ukraine Project | Ukraine | Contract Award | Direct Selection |   Contract Award   Project: P180245-Health Enhancement And Lifesaving (HEAL) Ukraine Project  Loan/Credit/TF Info: TF-C0814  Bid/Contract Reference No: HEAL-UN-3.5  Procurement Method: DIR-Direct Selection  Scope of Contract:  HEAL-UN-3.5: Modular boiler houses for healthcare facilities   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/23    Duration of Contract   6 Month(s)           Awarded Bidder(s):           WORLD HEALTH ORGANIZATION (WHO) (36277)   Country: World      Bid Price at Opening USD 11700000.00  Evaluated Bid Price USD 11700000.00      Signed C",
-      "matched_keywords": [
-        "WHO"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "4ea43543a0d955cb",
-      "title": "Recrutement d’un Expert International en Promotion des Investissements et des Exportations pour l’Appui technique de l’ADB",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456289",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "12-Jul-2026",
-      "snippet": "Burundi Jobs and Economic Transformation Project | Burundi | Request for Expression of Interest | Individual Consultant Selection |    SOLLICITATION DE MANIFESTATIONS D&rsquo;INTERET    &nbsp;    (SERVICES DE CONSULTANTS) S&Eacute;LECTION DE CONSULTANTS INDIVIDUELS    &nbsp;   Pays&nbsp;: Burundi    Nom du Projet&nbsp;: Projet pour l&rsquo;Emploi et la Transformation Economique (PRETE NYUNGANIRA)    Num&eacute;ro de Pr&ecirc;t/Cr&eacute;dit/Don:&nbsp; Don IDA N&deg; E-2650-BI    N&deg; du projet: P172988   &nbsp;   Intitul&eacute; de la mission :   Expert   international en promotion des investissements et des exportations pour l&rsquo;Appui technique de l&rsquo;Agence de D&eacute;veloppement du Burundi (ADB)    Num&eacute",
-      "matched_keywords": [
-        "ADB"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "bc291154c5147782",
-      "title": "Technical Assistance for Data Governance",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456284",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "12-Jul-2026",
-      "snippet": "Digital West Bank & Gaza Project | West Bank and Gaza | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P174355-Digital West Bank & Gaza Project  Loan/Credit/TF Info: TF-B5236  Bid/Contract Reference No: GZ-MTIT-513734-CS-QCBS  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Technical Assistance for Data Governance   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/14    Duration of Contract   32 Week(s)    Minimum Qualifying Score   75          Awarded Firm(s):           DEEP INSIGHTS FOR MONITORING AND EVALUATION (1091101)  Ramallah Country: West Bank and Gaza      Beneficial Ownership Details  Form Dat",
-      "matched_keywords": [
-        "monitoring and evaluation"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "cb6acce2dc6ff600",
-      "title": "Installation of solar powered automatic weather station",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456286",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "12-Jul-2026",
-      "snippet": "Livestock Productivity and Resilience Support Project | Nigeria | Contract Award | Request for Quotations |   Contract Award   Project: P160865-Livestock Productivity and Resilience Support Project  Loan/Credit/TF Info: IDA-70570  Bid/Contract Reference No: NG-KWARA L-PRES-551795-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  PROCUREMENT AND INSTALATION OF SOLAR POWERED AUTOMATIC WEATHERSTATION IN KWARA STATE.   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/15    Duration of Contract   60 Day(s)           Awarded Bidder(s):           EPIGRAM NIGERIA LIMITED (1105129)  No 7, Yalinga Street, Off Ademola Adetokunbo Crescent, Abuja. Countr",
-      "matched_keywords": [
-        "weather"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "e847041ed9953aa8",
-      "title": "RECRUTEMENT DE TROIS (03) CONSULTANTS INDIVIDUELS AGREES POUR LE RECYCLAGE DE LA FORMATION SUR LE LOGICIEL RURAL INVEST DE LA FAO.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456252",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "11-Jul-2026",
-      "snippet": "Casamance Economic Development Project | Senegal | Contract Award | Direct Selection |   Contract Award   Project: P175325-Casamance Economic Development Project  Loan/Credit/TF Info: IDA-70400  Bid/Contract Reference No: SN-PDEC-498829-CS-CDS  Procurement Method: CDS-Direct Selection  Scope of Contract:  RECRUTEMENT DE CONSULTANT INDIVIDUDEL POUR LE RECYCLAGE DE LA FORMATION SUR LE LOGICIEL RURAL INVEST POUR KOLDA   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/05    Duration of Contract   1 Month(s)           Awarded Firm(s):           CATHIA FATON SAGBOHAN (1105087)  Country: Benin              Final Evaluation Price  XOF 2053200    Signed ",
-      "matched_keywords": [
-        "FAO"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "447d826ae314960b",
-      "title": "INDIVIDUAL CONSULTANCY SERVICES FOR MODELING OF SURFACE EROSION AND SEDIMENT DELIVERY IN THE MWACHE CATCHMENT AND SEDIMENT REPLENISHMENT DOWNSTREAM OF MWACHE DAM",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456239",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "11-Jul-2026",
-      "snippet": "Coastal Region Water Security and Climate Resilience Project | Kenya | Contract Award | Direct Selection |   Contract Award   Project: P145559-Coastal Region Water Security and Climate Resilience Project  Loan/Credit/TF Info: IDA-55430  Bid/Contract Reference No: KE-MOWI-KWSCRP-003-2025-CS-CDS  Procurement Method: CDS-Direct Selection  Scope of Contract:  INDIVIDUAL CONSULTANCY FOR MODELING OF SURFACE EROSION AND SEDIMENT DELIVERY IN THE MWACHE CATCHMENT AND SEDIMENT REPLENISHMENT DOWNSTREAM OF MWACHE MULTIPURPOSE DAM AT KWALE COUNTY   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/06/07    Duration of Contract   7 Month(s)           Awarded Firm(s):           PROF K",
-      "matched_keywords": [
-        "climate",
-        "climate resilience"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "f97b9cce95d83e4d",
-      "title": "RECRUTEMENT DE TROIS (03) CONSULTANTS INDIVIDUELS AGREES POUR LE RECYCLAGE DE LA FORMATION SUR LE LOGICIEL RURAL INVEST DE LA FAO.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456254",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "11-Jul-2026",
-      "snippet": "Casamance Economic Development Project | Senegal | Contract Award | Direct Selection |   Contract Award   Project: P175325-Casamance Economic Development Project  Loan/Credit/TF Info: IDA-70400  Bid/Contract Reference No: SN-PDEC-498829-CS-CDS  Procurement Method: CDS-Direct Selection  Scope of Contract:  RECRUTEMENT DE CONSULTANT INDIVIDUDEL POUR LE RECYCLAGE DE LA FORMATION SUR LE LOGICIEL RURAL INVEST POUR ZIGUINCHOR   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/05    Duration of Contract   1 Month(s)           Awarded Firm(s):           ESSOCK NJECK GUY MARCIAL (1105086)  Country: Cameroon              Final Evaluation Price  XOF 2401200",
-      "matched_keywords": [
-        "FAO"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "c0db11744ff4daa1",
-      "title": "RECRUTEMENT DE TROIS (03) CONSULTANTS INDIVIDUELS AGREES POUR LE RECYCLAGE DE LA FORMATION SUR LE LOGICIEL RURAL INVEST DE LA FAO.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456253",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "11-Jul-2026",
-      "snippet": "Casamance Economic Development Project | Senegal | Contract Award | Direct Selection |   Contract Award   Project: P175325-Casamance Economic Development Project  Loan/Credit/TF Info: IDA-70400  Bid/Contract Reference No: SN-PDEC-498829-CS-CDS  Procurement Method: CDS-Direct Selection  Scope of Contract:  RECRUTEMENT DE CONSULTANT INDIVIDUDEL POUR LE RECYCLAGE DE LA FORMATION SUR LE LOGICIEL RURAL INVEST POUR SEDHIOU   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/03/05    Duration of Contract   1 Month(s)           Awarded Firm(s):           MAHAMADI OUDRAOGO (1105091)  Country: Burkina Faso              Final Evaluation Price  XOF 2053200    Si",
-      "matched_keywords": [
-        "FAO"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "4832d793b4834648",
-      "title": "Feasibility Study on Treatability and Neutralization of Chemicals in the Nairit Chemical Plant",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00450554",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Nairit Environmental Remediation and Regeneration Project | Armenia | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (REOI)      with extended deadline    &nbsp;   CONSULTING SERVICES &ndash; FIRMS SELECTION        Name of Project      Nairit Environmental Remediation and Regeneration Project (NATURE)        Grant Number      TF0C8925        Assignment Title      Feasibility Study on Treatment of Chemicals in the Nairit Chemical Plant        Procurement Plan Ref Number      AM-R2E2-557155-CS-CQS        Country       Republic of Armenia       Date: June 11, 2026  The  Republic of Armenia  has received grant financing from the World Bank to support preparation of the  Nair",
-      "matched_keywords": [
-        "World Bank",
-        "feasibility study"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "66780e6bdee0db03",
-      "title": "Procurement of CCTV Surveillance System, Solarization, Illumination equipment, Audio Guiding Systems and Desktop Computers for Jamrud Fort District, Khyber",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455383",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Khyber Pass Economic Corridor Project | Pakistan | Invitation for Bids | Request for Bids |  The Government of Khyber Pakhtunkhwa has received Credit from the International Development Association (IDA) of the World Bank Group for Khyber Pakhtunkhwa Khyber Pass Economic Corridor Project (KPEC) and intends to apply part of the proceeds toward payments under the contract for the  Procurement of CCTV Surveillance System, Solarization and Illumination equipment at Jamrud Fort District, Khyber under the Khyber Pass Economic Corridor (KPEC)  through this Request for Bid (RFB).  The Project Management Unit (PMU) &ndash; KPEC invites sealed bids from eligible Bidders/Contractors/Firms for  t",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "2ed0f1627962f3aa",
-      "title": "Recruitment of Architect",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455820",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Second Energy Efficiency in Public Buildings under the E3 MPA | Turkiye | Request for Expression of Interest | Individual Consultant Selection |   T&Uuml;RKYE SECOND ENERGY EFFICIENCY IN PUBLIC BUILDINGS PROJECT    ( P500777 )   &nbsp;   REQUEST FOR EXPRESSIONS OF INTEREST     FOR    INDIVIDUAL CONSULTANT    ARCHITECT   &nbsp;(Ref: EEPB2/WB/MOEU/PIU-IND-AR-01R/AR-02)  &nbsp;  The Ministry of Environment, Urbanization and Climate Change (MoEUCC) has received financing from the World Bank toward the cost of the T&uuml;rkiye Second Energy Efficiency in Public Buildings Project (EEPBP2) and intends to apply part of the proceeds for consulting services. General Directorate of Construction Affairs (GDCA) of MoEUCC will serve as the main impl",
-      "matched_keywords": [
-        "World Bank",
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "6f8dc0f528ddf6e9",
-      "title": "Provision of Climate Smart Water Infrastructure for 2 Cattle Clusters",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456037",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Livestock Productivity and Resilience Support Project | Nigeria | Contract Award | Request for Quotations |   Contract Award   Project: P160865-Livestock Productivity and Resilience Support Project  Loan/Credit/TF Info: IDA-70570  Bid/Contract Reference No: NG-KWARA L-PRES-542786-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Provision of Climate Smart Infrastructure for 2 Cattle Clusters.   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/21    Duration of Contract   90 Day(s)           Awarded Bidder(s):           1ST KAMBLAG NIGERIA LIMITED. (1097666)  Plot 1A, FGSS, Obanisunwa, Airport Road, Ilorin, Kwara State. Country: Nigeria      ",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "1c292597a14e5e9a",
-      "title": "Acuerdo para apoyo de la implementacion del Proyecto de Fortalecimiento del Ecosistema Nacional de Registro Civil e Identificación de Honduras",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00455992",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Strengthening Honduras' National Civil Registry and Identification Ecosystem Project | Honduras | Contract Award | Direct Selection |   Contract Award   Project: P181324-Strengthening Honduras' National Civil Registry and Identification Ecosystem Project  Loan/Credit/TF Info: IDA-74710  Bid/Contract Reference No: HN-RNP-509379-CS-UN  Procurement Method: CDS-Seleccin directa de consultores  Scope of Contract:  Acuerdo por la Entrega de Resultados en el Marco de Proyectos Financiados por el Banco Mundial    Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/08    Duration of Contract   36 Month(s)           Awarded Firm(s):           UNITED NATIONS DEVELOPMENT PROGRAMME (UNDP) (34964)  Country: T",
-      "matched_keywords": [
-        "UNDP"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "a3bc993ae2b80f94",
-      "title": "Equipment Procurement for Department of Agriculture and Rural Affairs (13th Contract 3rd Batch).1.4.2",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456038",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "China Emerging Infectious Diseases Prevention, Preparedness and Response Project | China | Invitation for Bids | Request for Bids |  World Bank Loaned Emerging Infectious Diseases Prevention, Preparedness and Response Project &ndash; Hainan Province Project (Global &ldquo;One Health&rdquo; Hainan Demonstration Project)  Third Batch of Instrument and Equipment Procurement by the Department of Agriculture and Rural Affairs Package No. 13 (Contract No.: HN-G-69)Invitation for Bids  Date: June 25, 2026  Bid Reference No.: 0733-26092911  1The Government of the People&rsquo;s Republic of China has received a loan from the World Bank towards the cost of the China: Emerging Infectious Diseases Prevention, Preparedness and Response",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "cb4948d6984af220",
-      "title": "Engagement of a consulting firm to undertake validation of ASCENT countries Carbon Project",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456056",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Accelerating Sustainable & Clean Energy Access Transformation Program Using the Multiphase Programma | Eastern and Southern Africa | Request for Expression of Interest | Quality And Cost-Based Selection |   ASSIGNMENT TITLE:  CONSULTING SERVICES FOR THE VALIDATION AND VERIFICATION OF CARBON PROJECTS UNDER COMESA ASCENT PROGRAM -ZM-COMESA-553255-CS-QCBS.  &nbsp;   1.0 INTRODUCTION    The Common Market for Eastern and Southern Africa (COMESA) received a grant from the World Bank towards the implementation of the Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) program and intends to apply part of the proceeds towards the provision of consultancy services for the validation and verification of caron projects under the ASCENT program.  As a&nbsp;key element&nbsp;of the ASCEN",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "1b8976f80719fcb1",
-      "title": "Consulting services to prepare a feasibility study and program concept for the renovation program of multi-apartment buildings",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456074",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Uzbekistan - National Energy-Efficient Heating and Cooling Program | Uzbekistan | Contract Award | Quality And Cost-Based Selection |   Contract Award   Project: P181922-Uzbekistan - National Energy-Efficient Heating and Cooling Program  Loan/Credit/TF Info: -  Bid/Contract Reference No: TFGM-CS-01  Procurement Method: QCBS-Quality And Cost-Based Selection  Scope of Contract:  Development of Feasibility Study for the Residential Buildings Energy Efficiency Renovation Programs   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/05    Duration of Contract   28 Week(s)    Minimum Qualifying Score   70          Awarded Firm(s):           GREEN ENGINEERING KZ LLP (673479)  Country: Kazakhstan      ",
-      "matched_keywords": [
-        "feasibility study"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "6905bfbb1e8ff637",
-      "title": "Recruitment of Junior Procurement Expert",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456110",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Second Energy Efficiency in Public Buildings under the E3 MPA | Turkiye | Request for Expression of Interest | Individual Consultant Selection |   REPUBLIC OF TURKEY &nbsp;   MINISTRY OF ENVIRONMENT, URBANIZATION AND CLIMATE CHANGE    General Directorate of Construction Affairs &nbsp;  T&Uuml;RKYE SECOND ENERGY EFFICIENCY IN PUBLIC BUILDINGS PROJECT  (P500777)   REQUEST FOR EXPRESSIONS OF INTEREST FOR INDIVIDUAL CONSULTANT     (JUNIOR PROCUREMENT EXPERT)    (Ref: EEPB2/WB/MOEU/PIU-IND-JPE-01)    &nbsp;    BACKGROUND &nbsp;   The Ministry of Environment, Urbanization and Climate Change (MoEUCC) has received financing from the World Bank toward the cost of the T&uuml;rkiye Second Energy Efficiency in Public Buildings Project (EEPBP2) and",
-      "matched_keywords": [
-        "World Bank",
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "8ace6253b1719a92",
-      "title": "Acquisition d'une machine à bois et divers",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456134",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Invitation for Bids | Request for Quotations |   AVIS DE DEMANDE DE COTATION (ADC) N&deg; CG-MOD NOE-556130-GO-RFQ   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;   Objet&nbsp; : DEMANDE DE COTATIONS RELATIVE A L&rsquo;ACQUISITION D&rsquo;UNE MACHINE A BOIS POUR TRAVAUX DE MENUISERIE.  &nbsp;  Dans le cadre de la mise en &oelig;uvre du projet de cr&eacute;ation des activit&eacute;s &eacute;conomiques inclusives et r&eacute;silientes au changement climatique (ProClimat), une Maitrise d&rsquo;Ouvrage D&eacute;l&eacute;gu&eac",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "8544ab5c44cb2b86",
-      "title": "Procurement of Equipment for Hainan One-health International Research Institution (Batch No. 2C)（3.3.1）",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456044",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "China Emerging Infectious Diseases Prevention, Preparedness and Response Project | China | Invitation for Bids | Request for Bids |  Invitation for Bids  Date: June 25, 2026  Bid Reference No.: 0733-26092918  1The Government of the People&rsquo;s Republic of China has received a loan from the World Bank towards the cost of the China: Emerging Infectious Diseases Prevention, Preparedness and Response Project &ndash; Hainan Province Project (Global &ldquo;One Health&rdquo; Hainan Demonstration Project), and intends to apply part of the proceeds of this loan to eligible payments under the contract for the Second Batch of Equipment Procurement for Hainan International Institute for One Health, Package C (Contract No.: HN-G-88)",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "39b1f39490b99744",
-      "title": "Construction of a 3 peak trail connecting Muhavura, Gahinga and Sabinyo",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456090",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project | Uganda | Contract Award | Request for Quotations |   Contract Award   Project: P170466-Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project  Loan/Credit/TF Info: IDA-65920  Bid/Contract Reference No: UG-UWA-453925-CW-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Construction of 3 peak trail connecting Muhavura, Gahinga and Sabinyo peaks, resting shelters and camping shelters within MGNP   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2025/10/20    Duration of Contract   6 Month(s)           Awarded Bidder(s):           POWERLAND INTERNATIONAL LIMITED (10221",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "eb7938ef820988f3",
-      "title": "Command Area Protection Works on Patharaiya and Kanda River under MRJKIP - 3",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456009",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Modernization of Rani Jamara Kulariya Irrigation Project - Phase 3 | Nepal | Invitation for Bids | Request for Bids |  &nbsp;  Government of Nepal  Ministry of Energy, Water Resources and Irrigation  Department of Water Resources and Irrigation   Rani Jamara Kulariya Irrigation Project   Tikapur, Kailali   INVITATION FOR BIDS    Date of Publication: 2083/03/26 B.S. (2026/07/10 A.D.)    Project: Modernization of Rani Jamara Kulariya Irrigation Project Phase 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Country: Nepal    Issued On: July 10, 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n",
-      "matched_keywords": [
-        "water resources"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "438d4bd5528d0fc9",
-      "title": "Construction of Primary Water Harvesting and Storage such as Check Dam and Sub Surface Dykes in APO Sainj unit under DPO, IDP, Shimla for the F.Y. 2024-25. These will be carried out in different locations. It involves multiple contracts.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00335984",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Integrated Project for Source Sustainability and Climate Resilient Rain-fed Agriculture in Himachal | India | Contract Award | Request for Quotations |   Contract Award   Project: P180323-Integrated Flood Resilience and Adaptation Project  Loan/Credit/TF Info: IDA-73330  Bid/Contract Reference No: PK-PMD-427787-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Procurement of office furniture   Notice Version No: 1      Date Notification of Award Issued  (YYYY/MM/DD) 2024/08/13    Duration of Contract   30 Day(s)           Awarded Bidder(s):           AW TRADERS (892681)  House # J-94, Street 18, Aria Mohalla, College Road, Rawalpindi, Pakistan Country: Pakistan      Bid Price at Opening PKR 15293530.00  Evaluated Bid",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
-    },
-    {
-      "id": "43712173746e76d6",
-      "title": "Acquisition d'une machine pour la production des blocs de brique autobloquant",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00456089",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "10-Jul-2026",
-      "snippet": "Climate-Resilient and Inclusive Livelihoods Project (ProClimat Congo) | Congo, Republic of | Invitation for Bids | Request for Quotations |   AVIS DE DEMANDE DE COTATION (ADC) N&deg; CG-MOD NOE-556619-GO-RFQ   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;   Objet&nbsp; : DEMANDE DE COTATIONS RELATIVE A L&rsquo;ACQUISITION D&rsquo;UNE MACHINE POUR LA PRODUCTION DES BRIQUES AUTOBLOQUANTES.  &nbsp;  Dans le cadre de la mise en &oelig;uvre du projet de cr&eacute;ation des activit&eacute;s &eacute;conomiques inclusives et r&eacute;silientes au changement climatique (ProClimat), une Maitrise d&rsquo;Ouvrage D&eacute;l&e",
-      "matched_keywords": [
-        "climate"
-      ],
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14"
     }
   ]
 }
