@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T17:00:17.450985+00:00",
+  "generated_at": "2026-11-24T19:01:14.402328+00:00",
   "generated_at_sl_note": "Times are UTC. Sri Lanka is UTC+5:30.",
-  "new_today_count": 22,
-  "total_count": 213,
+  "new_today_count": 11,
+  "total_count": 216,
   "last_run_status": {
     "worldbank": {
       "ok": true,
       "fetched": 100,
-      "matched": 21
+      "matched": 12
     },
     "reliefweb": {
       "ok": true,
@@ -16,7 +16,7 @@
     },
     "treasury_lk": {
       "ok": true,
-      "fetched": 116,
+      "fetched": 118,
       "matched": 1
     },
     "cbsl": {
@@ -26,6 +26,167 @@
     }
   },
   "items": [
+    {
+      "id": "0b10336f63bfdae8",
+      "title": "Construction of Canal lining with canal spill at 1+750 in Meda ela canal in sapugoda scheme",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483174",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: CRESMPA-1/RP/WORKS/ID-MATR/NCB/098  Procurement Method: RFB-Request for Bids  Scope of Contract:  Construction of Canal lining with Canal Spill at Stn. 1+750 in Medaela Canal in Sapugoda Scheme   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/04/28    Duration of Contract   3 Month(s)           Awarded Bidder(s):           DREAM BILDERS (883608)  Senasuma, Gathara West, Kamburupitiya Country: Sri Lanka      Bid Pri",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "0d4ca388ea6d03c3",
+      "title": "Noro Water Supply Scheme",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483291",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Urban Water Supply and Sanitation Sector Project | Solomon Islands | Invitation for Bids | Request for Bids |  Invitation for Bids Date: 03 July 2023 Loan/Grant No. and Title: Solomon Islands - Urban Water Supply and Sanitation Sector Project (Financed by ADB/EU/WB) Grant: 0662-SOL(SF) Loans: 3826-SOL(COL), 6407-SB Contract No. and Title: Noro Water Supply Upgrade Deadline for Submission of Bids: 14 August 2023 1. The Solomon Island Water Authority, trading as Solomon Water (&ldquo;SW&rdquo;) has received financing from the Asian Development Bank (ADB) toward the cost of Noro Water Supply Upgrade. Part of this financing will be used for payments under the Contract named above. Bidding is open to Bidde",
+      "matched_keywords": [
+        "ADB",
+        "Asian Development Bank"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "7f058fe5107d9227",
+      "title": "Security risk assessment/management plan (SRA/SMP)",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483110",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Climate Resilient Roads for the North Project | Mozambique | Contract Award | Request for Quotations |   Contract Award   Project: P500488-Climate Resilient Roads for the North Project  Loan/Credit/TF Info: IDA-E3150  Bid/Contract Reference No: 47A003041/CC/43/2026  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Security risk assessment/management plan (SRA/SMP)   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/11/05    Duration of Contract   2 Month(s)           Awarded Bidder(s):           FLAVIA BUVANA (852307)  Maputo Country: Mozambique      Bid Price at Opening USD 39912.50  Evaluated Bid Price USD 39912.50      Signed Contract price USD",
+      "matched_keywords": [
+        "climate"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "7b77c785878715dd",
+      "title": "Procurement of Emergency Response Vehicles",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483236",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Strengthening Moldova's Disaster Risk Management and Resilience Project | Moldova | Contract Award | Request for Bids |   Contract Award   Project: P504278-Strengthening Moldova's Disaster Risk Management and Resilience Project  Loan/Credit/TF Info: IBRD-97200  Bid/Contract Reference No: MD-OEAPM-526852-GO-RFB  Procurement Method: RFB-Request for Bids  Scope of Contract:  Procurement of emergency response vehicles, Lot 4   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/20    Duration of Contract   17 Month(s)           Awarded Bidder(s):           HIAROM INVEST SRL (1101683)  8 Macesului str., 77095 Dragomireti-Vale, Romania Country: Romania      Evaluation Scores   Bid Price ",
+      "matched_keywords": [
+        "disaster risk"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "2b3a427fab41a289",
+      "title": "Consultancy Services for the Conclusion of ESIA/ESMP Studies for the Safer Roads for Socioeconomic Integration in Mozambique Project,  Lot 1 Gorongosa -Caia (kn00-84km) in Sofala Province",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483243",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Mozambique Safer Roads for Socio-Economic Integration Program | Mozambique | Contract Award | Direct Selection |   Contract Award   Project: P174639-Mozambique Safer Roads for Socio-Economic Integration Program  Loan/Credit/TF Info: IDA-E0780  Bid/Contract Reference No: 47A003041/AD/73/2026  Procurement Method: CDS-Direct Selection  Scope of Contract:  Updating and Finalization of the Environmental and Social Impact Assessment (ESIA) Including Environmental and Social Management Plan (ESMP) for the Road Gorongosa - Caia in Sofala Province   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/10/30    Duration of Contract   3 Month(s)           Awarded Firm(s):           SWMOZ-S",
+      "matched_keywords": [
+        "Social Impact Assessment"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "f786865c4079861e",
+      "title": "Travaux de construction des gîtes d’étape dans la zone du projet Havelo Mandrare et de réhabilitation des pistes d'atterrissage à Tsivory",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483271",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1) | Eastern and Southern Africa | Invitation for Bids | Request for Bids |   PRIMATURE    ----------    CELLULE DE PREVENTION ET D&rsquo;APPUI A LA GESTION DES URGENCES (CPGU)    ---------    PROJET REGIONAL POUR LA RESILIENCE CLIMATIQUE     PRRC    (P180171, IDA N&deg;7326-MG)    ---------    Avis Sp&eacute;cifique d&rsquo;Appel d&rsquo;Offres   &nbsp;   Appel d&rsquo;Offres n&deg; :&nbsp; AON N&deg;01-2026. /T004/AON/CPGU/PRRC   &nbsp;   Pays&nbsp;:  Madagascar   Projet&nbsp;:  Projet R&eacute;gional pour la R&eacute;silience Climatique (PRRC)   Financement&nbsp;:  P180171 &mdash; Cr&eacute;dit IDA n&deg; 7831-MG   Intitul&eacute; du March&eacute;&nbsp;: TRAVAUX DE",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "279b375b510dc0f2",
+      "title": "BEŞYÜZEVLER – ATIŞALANI 154 kV UNDERGROUND POWER CABLE PROJECT",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00482820",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Türkiye - Transforming Power Transmission System Project | Turkiye | Invitation for Bids | Request for Bids |   Specific Procurement Notice    REQUEST FOR BIDS (RFB)    REPUBLIC of TURKIYE    Employer:  Turkish Electricity Transmission Corporation (TEA)   Project:    T&uuml;rkiye - Transforming Power Transmission System Project (TPTS) - P508354   Contract Title  :  154 kV Bey&uuml;zevler &ndash; Atalan Underground Cable Connection.   Country:  T&uuml;rkiye   Loan No.:    9859-TR   RFB No:  DB.KAB.23   Issued on:  24.11.2026  1. The  Turkish Electricity Transmission Corporation (TEA)  has received financing from the World Bank toward the cost of the  T&uuml;rkiye - Transforming Power Transmission Syste",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "6436085ae7f458a1",
+      "title": "IT hardware for PMT and MARD",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483122",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Climate Resilience and Agriculture Development Project | Albania | Contract Award | Request for Quotations |   Contract Award   Project: P178715-Climate Resilience and Agriculture Development Project  Loan/Credit/TF Info: IBRD-94890  Bid/Contract Reference No: AL-MARD-575810-GO-RFQ  Procurement Method: RFQ-Request for Quotations  Scope of Contract:  Purchase IT equipment for PMT and MARD   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/11/16    Duration of Contract   21 Day(s)           Awarded Bidder(s):           IT GJERGJI KOMPJUTER (1144011)  Rruga Faik Konica, ndertesa nr.3, hyrja nr.7, Tirana Country: Albania      Bid Price at Opening ALL 456000.00  Evaluated Bid",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "12f69d2e748c7702",
+      "title": "Improvements to Keranketiya canal from 0+070 to 0+800, construction of 20m long retaining wall to Kaluwagahadola canal and construction of trctor crossing for Mawathagoda welyaya in Diyalape scheme",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483134",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Climate Resilience Multi-Phase Programmatic Approach | Sri Lanka | Contract Award | Request for Bids |   Contract Award   Project: P160005-Climate Resilience Multi-Phase Programmatic Approach  Loan/Credit/TF Info: IBRD-89960  Bid/Contract Reference No: CRESMPA-1/RP/WORKS/ID-MATR/NCB/095  Procurement Method: RFB-Request for Bids  Scope of Contract:  Inprovements to Keranketiya canal from G+OOOto to 1+200 construction of 20m long retaining wall to Kaluwangahadola canal and Construction of tractor crossing for Mawaththagoda Welayaya in Diyalape sc   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/05/18    Duration of Contract   5 Month(s)           Awarded Bidder(s):",
+      "matched_keywords": [
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "c845270737f6b672",
+      "title": "SIFMIS Program Manager",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483215",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Syria Public Financial Management Capacity Strengthening Project | Syrian Arab Republic | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST    (INDIVIDUAL CONSULTING SERVICES)    Syrian Arab Republic    Syria Public Financial Management Capacity Strengthening Project (P512516)    Grant No.: E6410-SY    Assignment Title: SIFMIS Program Manager (Syria Integrated Financial Management Information System)   Reference No. (as per Procurement Plan): SY-MOF-583041-CS-INDV  The Ministry of Finance of the Syrian Arab Republic (the &ldquo;Employer&rdquo;) has received financing from the World Bank towards the cost of the Syria Public Financial Management Capacity Strengthening Project (P512516) and inten",
+      "matched_keywords": [
+        "World Bank"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "c0ece172fecd44c9",
+      "title": "Community Laision Officer",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00483207",
+      "source": "worldbank",
+      "source_name": "World Bank Procurement Notices",
+      "published": "23-Nov-2026",
+      "snippet": "Caribbean Efficient and Green-Energy Buildings Project (CEGEB) | Caribbean | Request for Expression of Interest | Individual Consultant Selection |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Request for Expression of Interest    Country:  Grenada   Name of Project:  Caribbean Efficient and Green-Energy Buildings Project   Assignment Title:  Community Liaison Officer   Reference No .: GD-GRENADA MCRERE-572319-CS-INDV  The Government of Grenada (GoG) has received financing through the World Bank and the Caribbean Development Bank towards the Caribbean Efficient and Green Energy Buildings Project (CEGEB). The project is implemented by the Ministry of Climate Resilience, the Environment and Renewable Energy (MCRERE) through the Project Implementa",
+      "matched_keywords": [
+        "World Bank",
+        "climate",
+        "climate resilience"
+      ],
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24"
+    },
     {
       "id": "9d11e8270eb2826a",
       "title": "DESIGN, SUPPLY,INSTALLATION AND COMMISSIONING OF METEOROGICAL WEATHER RADAR SYSTEM",
@@ -222,13 +383,13 @@
       "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00481826",
       "source": "worldbank",
       "source_name": "World Bank Procurement Notices",
-      "published": "16-Nov-2026",
+      "published": "23-Nov-2026",
       "snippet": "GFPP_Seychelles Transformative and Resilient Inclusive Digital Economy | Seychelles | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSIONS OF INTEREST   &nbsp;    SEYCHELLES      GFPP - Seychelles&rsquo; Transformative and Resilient Inclusive Digital Economy (STRIDE)    Loan No./Credit No./ Grant No.:    P515960     &nbsp;   Assignment Title:   Recruitment of Procurement Specialist      Reference No . (as per Procurement Plan):    SC-DICT-001-CS-INV     &nbsp;  The Government of Seychelles  has received  financing from the World Bank toward the cost of the   GFPP - Seychelles&rsquo; Transformative and Resilient Inclusive Digital Economy (STRIDE)  , and intends to apply part of the proceeds for consulting",
       "matched_keywords": [
         "World Bank"
       ],
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "928f87295c16a112",
@@ -337,12 +498,12 @@
       "source": "treasury_lk",
       "source_name": "Sri Lanka Ministry of Finance - Procurement Notices",
       "published": null,
-      "snippet": "DEPARTMENT OF PROJECT MANAGEMENT AND MONITORING (DPMM) INVITATION FOR REQUEST FOR PROPOSALS (RFP) Selection of a Consultancy Firm to undertake an Independent Verification of Disbursement Linked Indicator (DLI) Results under the ADB-financed Results-Based Lending Program “Strengthening Integrated Health Care and Governance for Universal Health Coverage RFP No: DPMM/RFP/2026/01 Sinhala Invitation - pdf Download Attachment Tamil Invitation - pdf Download Attachment English Invitation - pdf Download",
+      "snippet": "DEPARTMENT OF PROJECT MANAGEMENT AND MONITORING (DPMM) INVITATION FOR REQUEST FOR PROPOSALS (RFP) Selection of a Consultancy Firm to undertake an Independent Verification of Disbursement Linked Indicator (DLI) Results under the ADB-financed Results-Based Lending Program “Strengthening Integrated Health Care and Governance for Universal Health Coverage RFP No: DPMM/RFP/2026/01 REQUEST FOR PROPOSALS.pdf Download Attachment English invitation.pdf Download Attachment Tamil invitation.pdf Download At",
       "matched_keywords": [
         "ADB"
       ],
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "5cd8f645426cb9c5",
@@ -2961,119 +3122,6 @@
       ],
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28"
-    },
-    {
-      "id": "23316d34cd3ede77",
-      "title": "Indonesia Mass Transit Project",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457653",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "19-Jul-2026",
-      "snippet": "Indonesia Mass Transit Project | Indonesia | General Procurement Notice |   GENERAL PROCUREMENT NOTICE   &nbsp;  INDONESIA  INDONESIAN MASS TRANSIT PROJECT  GENERAL PROCUREMENT NOTICE  Loan No. IBRD 9340-ID  Project ID No. P169548  &nbsp;  The Government of Indonesia has received financing in the amount of US$223 million equivalent from the World Bank toward the cost of the Indonesian Mass Transit Project (IMTP), and it intends to apply part of the proceeds to payments for goods, works, non-consulting services and consulting services to be procured under this project.  The Ministry of Transport (MoT) as the Implementing Agency&nbsp;will&nbsp;implement the Indonesia ",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "d59c84df915b4b17",
-      "title": "Consultancy services for the preparation of feasibility studies, detailed engineering designs, and bidding documents for urban infrastructure works in Hargeisa",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457619",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "19-Jul-2026",
-      "snippet": "Somalia Urban Resilience Project - Phase II | Somalia, Federal Republic of | Contract Award | Direct Selection |   Contract Award   Project: P170922- Somalia Urban Resilience Project - Phase II  Loan/Credit/TF Info: IDA-E4580  Bid/Contract Reference No: SO-MOPWHR-552237-CS-CDS  Procurement Method: CDS-Direct Selection  Scope of Contract:  Consultancy contract for Preparation of Feasibility Studies, Detailed Engineering Designs, and Bidding Documents for Urban Infrastructure Works in Hargeisa Municipality   Notice Version No: 0      Date Notification of Award Issued  (YYYY/MM/DD) 2026/07/16    Duration of Contract   12 Month(s)           Awarded Firm(s):           UNITED NATIONS OFFICE PROJECT SERVICES (U",
-      "matched_keywords": [
-        "feasibility studies"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "df96e46f46670606",
-      "title": "Environmental Safeguard Officer",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457672",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "19-Jul-2026",
-      "snippet": "South Tarawa Sanitation Project | Kiribati | Request for Expression of Interest | Individual Consultant Selection |   REQUEST FOR EXPRESSION OF INTEREST (REOI)    SELECTION OF AN INDIVIDUAL CONSULTANT   (ADVERTISEMENT)  17 July 2025      The Project    South Tarawa Sanitation Project (STSP)      Assignment Title    Environmental Safeguard Officer (Open/National)      Reference No.    KI-MISE-559647-CS-INDV      The Ministry of Infrastructure and Sustainable Energy (MISE),&nbsp;Government of Kiribati (GOK) has received financing from the World Bank towards the cost of the South Tarawa Sanitation Project ( STSP) - P176108&nbsp; and intends to allocate part of the proceeds for the procurement of consulting ser",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "bb479cc7c9e739de",
-      "title": "Local Construction for Mini Laboratory- Betio",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457668",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "19-Jul-2026",
-      "snippet": "Kiribati: Pacific Islands Regional Oceanscape Program | Kiribati | Invitation for Bids | Request for Quotations |  &nbsp;   REPUBLIC OF KIRIBATI    INVITATION TO QUOTE     Date: 20th July 2026    Project Title:&nbsp;&nbsp;&nbsp;  Kiribati Pacific Islands Regional Oceanscape Program (PROP)   Source of funding (Grant No.): IDA-D5570  Contract Name:  Local Construction of the Containerized Mini Laboratory Foundation   Support    Contract Ref:  KI-MFMRD-551168-CW-RFQ    This project is financed by the World Bank through the above financing. The Ministry of Fisheries and Ocean Resources (MFOR) through the PROP Project invites sealed quotations from eligible bidders for  Local Construction of the Containerized ",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "976b58f1e831474a",
-      "title": "Construction of two schools in Bardhere (2lots)",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457469",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "18-Jul-2026",
-      "snippet": "Somalia Education for Human Capital Development Project | Somalia, Federal Republic of | Invitation for Bids | Request for Bids |  &nbsp;   Ministry of Education Culture &amp; Higher Learning   &nbsp;   Specific Procurement Notice   &nbsp;   Request for Bid   &nbsp;   (One-Envelope Bidding Process)    Employer:  Ministry of Education Culture &amp; Higher Education   Project:  Somalia Education for Human Capital Development project   Contract title:  Construction of New Schools in Baardhere&nbsp; -Jubaland &nbsp;(2 lots)   Grant No.:  IDA- D8370   RFB No:   SO-MOECHL-JS-562529-CW-RFB    Bid submission deadline:   8th -August-2026   &nbsp;   The Federal Government of Somalia has received financing from the World Bank towar",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "5db9dffe3ae0689c",
-      "title": "Consulting Services to Support Centralization of Payroll Processing, Payments, and Accounting for Budgetary Organizations through the Treasury.",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00457367",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "18-Jul-2026",
-      "snippet": "Institutional Capacity Building Project | Uzbekistan | Request for Expression of Interest | Consultant Qualification  Selection |   REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES &ndash; FIRMS SELECTION)   &nbsp;   Country:  Republic of Uzbekistan   Project name:  Institutional Capacity Building Project   Credit No.:  IDA 6431-UZ   Assignment Title:    Consulting Services to Support Centralization of Payroll Processing, Payments, and Accounting for Budgetary Organizations through the Treasury.   Reference No .:  TC-PAYROLL-1   The Ministry of Economy and Finance of the Republic of Uzbekistan has received financing from the World Bank toward the cost of the Institutional Capacity Building Project and intends to ",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "39090cf7fd721847",
-      "title": "Integrated Rurban Development and Climate Resilience Project",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00411038",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "18-Jul-2026",
-      "snippet": "Integrated Rurban Development and Climate Resilience Project | Sri Lanka | General Procurement Notice | Recrutement d'un spcialiste en dveloppement communautaire",
-      "matched_keywords": [
-        "climate",
-        "climate resilience"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
-    },
-    {
-      "id": "31e89a04016f859b",
-      "title": "Procurement of IT equipment to establish recovery site to strengthen business continuity of identity systems",
-      "url": "https://projects.worldbank.org/en/projects-operations/procurement/notice/OP00452505",
-      "source": "worldbank",
-      "source_name": "World Bank Procurement Notices",
-      "published": "18-Jul-2026",
-      "snippet": "Lesotho Public Sector Foundations for Service Delivery Project | Lesotho | Invitation for Bids | Request for Bids |   Specific Procurement Notice   &nbsp;   Request for Bids     Goods    (One-Envelope Bidding Process)   &nbsp;   Country:    Kingdom of Lesotho      Name of Project:  Public Sector Foundations for Service Delivery Project (P174171)   Contract Title:  Supply and Delivery of IT equipment to Establish Recovery Site to Strengthen Business Continuity of Identity Systems   Loan No.:   07492-LS    FB Reference No.:  LS-MOFDP-436408-GO-RFB      Publication date:  June 19, 2026  &nbsp;   The  Kingdom of Lesotho has received  financing from the World Bank toward the cost of the  Lesotho Public Sector Fo",
-      "matched_keywords": [
-        "World Bank"
-      ],
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21"
     }
   ]
 }
